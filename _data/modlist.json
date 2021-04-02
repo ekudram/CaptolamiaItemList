@@ -138,32 +138,6 @@
     "name": "Nyaron race"
   },
   {
-    "author": "Velc",
-    "name": "Hats Display Selection",
-    "steamId": "1542291825",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "ssulunge",
-    "name": "FemaleBB BodyType Support",
-    "steamId": "1792668502",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "ssulunge",
-    "name": "Kijin Race 2.0",
-    "steamId": "1918120749",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Victorique, Aurani, Tarojun",
-    "name": "Expanded Prosthetics and Organ Engineering - Forked"
-  },
-  {
-    "author": "Tarojun",
-    "name": "EPOE-Forked: Alien expansion + patcher"
-  },
-  {
     "author": "Oskar Potocki, Taranchuk",
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
@@ -1102,17 +1076,5 @@
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
     "version": "1.0.7528.166"
-  },
-  {
-    "author": "Weilbyte",
-    "name": "RenameColony",
-    "steamId": "1359645236",
-    "version": "0.1.5"
-  },
-  {
-    "author": "Weilbyte",
-    "name": "No Power Wires",
-    "steamId": "2255401110",
-    "version": "0.1.0"
   }
 ]

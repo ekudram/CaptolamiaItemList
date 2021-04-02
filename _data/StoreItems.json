@@ -1645,42 +1645,6 @@
 		"defname": "ArchotechLeg"
 	},
 	{
-		"abr": "auxiliaryai(agricultural)",
-		"price": 5833,
-		"category": "Ultratech",
-		"defname": "FarmerCore"
-	},
-	{
-		"abr": "auxiliaryai(constructing)",
-		"price": 5833,
-		"category": "Ultratech",
-		"defname": "ConstructorCore"
-	},
-	{
-		"abr": "auxiliaryai(diplomatic)",
-		"price": 5833,
-		"category": "Ultratech",
-		"defname": "DiplomatCore"
-	},
-	{
-		"abr": "auxiliaryai(medical)",
-		"price": 5833,
-		"category": "Ultratech",
-		"defname": "DoctorCore"
-	},
-	{
-		"abr": "auxiliaryai(mining)",
-		"price": 5833,
-		"category": "Ultratech",
-		"defname": "MinerCore"
-	},
-	{
-		"abr": "musclestimulator",
-		"price": 4167,
-		"category": "Bionic",
-		"defname": "MuscleStimulator"
-	},
-	{
 		"abr": "psychicharmonizer",
 		"price": 1333,
 		"category": "Archotech",
@@ -1703,12 +1667,6 @@
 		"price": 4333,
 		"category": "Archotech",
 		"defname": "PsychicAmplifier"
-	},
-	{
-		"abr": "tacticalcorneaimplant",
-		"price": 4167,
-		"category": "Ultratech",
-		"defname": "TacticalCorneaImplant"
 	},
 	{
 		"abr": "advancedvest",
@@ -2011,12 +1969,6 @@
 		"defname": "SingleBedding"
 	},
 	{
-		"abr": "adrenalineribreplacement",
-		"price": 917,
-		"category": "Bionic",
-		"defname": "AdrenalineRib"
-	},
-	{
 		"abr": "aestheticnose",
 		"price": 975,
 		"category": "Bionic",
@@ -2027,12 +1979,6 @@
 		"price": 1383,
 		"category": "Bionic",
 		"defname": "AestheticShaper"
-	},
-	{
-		"abr": "aichip",
-		"price": 2133,
-		"category": "Bionic",
-		"defname": "AIChip"
 	},
 	{
 		"abr": "armorskingland",
@@ -2061,7 +2007,7 @@
 	{
 		"abr": "bioniccattail",
 		"price": 1717,
-		"category": "Alien tails (original)",
+		"category": "Bionic",
 		"defname": "Nr_BioCatTail"
 	},
 	{
@@ -2075,24 +2021,6 @@
 		"price": 1092,
 		"category": "Bionic",
 		"defname": "BionicEye"
-	},
-	{
-		"abr": "bionicfoot",
-		"price": 983,
-		"category": "Bionic",
-		"defname": "BionicFoot"
-	},
-	{
-		"abr": "bionichand",
-		"price": 983,
-		"category": "Bionic",
-		"defname": "BionicHand"
-	},
-	{
-		"abr": "bionicjaw",
-		"price": 908,
-		"category": "Bionic",
-		"defname": "BionicJaw"
 	},
 	{
 		"abr": "bionicleg",
@@ -2143,12 +2071,6 @@
 		"defname": "DetoxifierStomach"
 	},
 	{
-		"abr": "druggedribreplacement",
-		"price": 800,
-		"category": "Bionic",
-		"defname": "DruggedRib"
-	},
-	{
 		"abr": "electronicbrainpal",
 		"price": 3250,
 		"category": "Bionic",
@@ -2191,12 +2113,6 @@
 		"defname": "LoveEnhancer"
 	},
 	{
-		"abr": "medicalribreplacement",
-		"price": 650,
-		"category": "Bionic",
-		"defname": "MedicalRib"
-	},
-	{
 		"abr": "neurocalculator",
 		"price": 1717,
 		"category": "Bionic",
@@ -2209,28 +2125,10 @@
 		"defname": "NuclearStomach"
 	},
 	{
-		"abr": "painkillerribreplacement",
-		"price": 833,
-		"category": "Bionic",
-		"defname": "PainkillerRib"
-	},
-	{
-		"abr": "powerarm",
-		"price": 3500,
-		"category": "Bionic",
-		"defname": "PowerArm"
-	},
-	{
 		"abr": "reprocessorstomach",
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "ReprocessorStomach"
-	},
-	{
-		"abr": "silentjaw",
-		"price": 583,
-		"category": "Bionic",
-		"defname": "SilentJaw"
 	},
 	{
 		"abr": "stoneskingland",
@@ -2243,24 +2141,6 @@
 		"price": 1467,
 		"category": "Bionic",
 		"defname": "BionicHeart"
-	},
-	{
-		"abr": "synthetickidney",
-		"price": 1183,
-		"category": "Bionic",
-		"defname": "SyntheticKidney"
-	},
-	{
-		"abr": "syntheticliver",
-		"price": 1183,
-		"category": "Bionic",
-		"defname": "SyntheticLiver"
-	},
-	{
-		"abr": "syntheticlung",
-		"price": 1183,
-		"category": "Bionic",
-		"defname": "SyntheticLung"
 	},
 	{
 		"abr": "syntheticstomach",
@@ -6337,46 +6217,16 @@
 		"defname": "Shell_Smoke"
 	},
 	{
-		"abr": "arm",
-		"price": 2167,
-		"category": "Natural",
-		"defname": "Arm"
-	},
-	{
-		"abr": "ear",
-		"price": 833,
-		"category": "Natural",
-		"defname": "Ear"
-	},
-	{
-		"abr": "eyeball",
-		"price": 2500,
-		"category": "Natural",
-		"defname": "Eye"
-	},
-	{
 		"abr": "heart",
 		"price": 3333,
 		"category": "Natural",
 		"defname": "Heart"
 	},
 	{
-		"abr": "jaw",
-		"price": 833,
-		"category": "Natural",
-		"defname": "Jaw"
-	},
-	{
 		"abr": "kidney",
 		"price": 1667,
 		"category": "Natural",
 		"defname": "Kidney"
-	},
-	{
-		"abr": "leg",
-		"price": 2167,
-		"category": "Natural",
-		"defname": "Leg"
 	},
 	{
 		"abr": "liver",
@@ -6389,18 +6239,6 @@
 		"price": 2500,
 		"category": "Natural",
 		"defname": "Lung"
-	},
-	{
-		"abr": "nose",
-		"price": 833,
-		"category": "Natural",
-		"defname": "Nose"
-	},
-	{
-		"abr": "stomach",
-		"price": 1667,
-		"category": "Natural",
-		"defname": "Stomach"
 	},
 	{
 		"abr": "cape",
@@ -7147,12 +6985,6 @@
 		"defname": "ApparelloTinkerer"
 	},
 	{
-		"abr": "tissueprinter",
-		"price": 3900,
-		"category": "Production",
-		"defname": "TableOrgans"
-	},
-	{
 		"abr": "typewritertable",
 		"price": 271,
 		"category": "Production",
@@ -7169,18 +7001,6 @@
 		"price": 172,
 		"category": "Production",
 		"defname": "VBE_WritersTable"
-	},
-	{
-		"abr": "artificialnose",
-		"price": 330,
-		"category": "Prosthetic",
-		"defname": "ArtificialNose"
-	},
-	{
-		"abr": "brainstimulator",
-		"price": 1333,
-		"category": "Prosthetic",
-		"defname": "BrainStimulator"
 	},
 	{
 		"abr": "cochlearimplant",
@@ -7207,22 +7027,10 @@
 		"defname": "FieldHand"
 	},
 	{
-		"abr": "goldeneye",
-		"price": 47,
-		"category": "Prosthetic",
-		"defname": "GoldenEye"
-	},
-	{
 		"abr": "handtalon",
 		"price": 592,
 		"category": "Prosthetic",
 		"defname": "HandTalon"
-	},
-	{
-		"abr": "hydraulicjaw",
-		"price": 279,
-		"category": "Prosthetic",
-		"defname": "HydraulicJaw"
 	},
 	{
 		"abr": "joywire",
@@ -7235,12 +7043,6 @@
 		"price": 592,
 		"category": "Prosthetic",
 		"defname": "KneeSpike"
-	},
-	{
-		"abr": "lightreceptor",
-		"price": 508,
-		"category": "Prosthetic",
-		"defname": "LightReceptor"
 	},
 	{
 		"abr": "mindscrew",
@@ -7267,18 +7069,6 @@
 		"defname": "SimpleProstheticArm"
 	},
 	{
-		"abr": "simpleprostheticfoot",
-		"price": 475,
-		"category": "Prosthetic",
-		"defname": "SimpleProstheticFoot"
-	},
-	{
-		"abr": "simpleprosthetichand",
-		"price": 475,
-		"category": "Prosthetic",
-		"defname": "SimpleProstheticHand"
-	},
-	{
 		"abr": "simpleprostheticleg",
 		"price": 742,
 		"category": "Prosthetic",
@@ -7289,30 +7079,6 @@
 		"price": 792,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticHeart"
-	},
-	{
-		"abr": "surrogatekidney",
-		"price": 583,
-		"category": "Prosthetic",
-		"defname": "SurrogateKidney"
-	},
-	{
-		"abr": "surrogateliver",
-		"price": 583,
-		"category": "Prosthetic",
-		"defname": "SurrogateLiver"
-	},
-	{
-		"abr": "surrogatelung",
-		"price": 583,
-		"category": "Prosthetic",
-		"defname": "SurrogateLung"
-	},
-	{
-		"abr": "surrogatestomach",
-		"price": 583,
-		"category": "Prosthetic",
-		"defname": "SurrogateStomach"
 	},
 	{
 		"abr": "venomfangs",
@@ -9277,18 +9043,6 @@
 		"defname": "Porridge"
 	},
 	{
-		"abr": "hookhand",
-		"price": 94,
-		"category": "Prosthetic",
-		"defname": "HookHand"
-	},
-	{
-		"abr": "steelarm",
-		"price": 173,
-		"category": "Prosthetic",
-		"defname": "SteelArm"
-	},
-	{
 		"abr": "skilltrainer(animals)",
 		"price": 1250,
 		"category": "Skilltrainers",
@@ -9703,66 +9457,6 @@
 		"defname": "Synthread"
 	},
 	{
-		"abr": "advancedbionicarm",
-		"price": 3450,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicArm"
-	},
-	{
-		"abr": "advancedbionicear",
-		"price": 2075,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicEar"
-	},
-	{
-		"abr": "advancedbioniceye",
-		"price": 2150,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicEye"
-	},
-	{
-		"abr": "advancedbionicfoot",
-		"price": 2042,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicFoot"
-	},
-	{
-		"abr": "advancedbionichand",
-		"price": 2042,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicHand"
-	},
-	{
-		"abr": "advancedbionicjaw",
-		"price": 1967,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicJaw"
-	},
-	{
-		"abr": "advancedbionicleg",
-		"price": 3450,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicLeg"
-	},
-	{
-		"abr": "advancedbionicspine",
-		"price": 2733,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicSpine"
-	},
-	{
-		"abr": "advancedpowerarm",
-		"price": 5225,
-		"category": "Ultratech",
-		"defname": "AdvancedPowerArm"
-	},
-	{
-		"abr": "exoskeletonsuit",
-		"price": 3708,
-		"category": "Ultratech",
-		"defname": "ExoskeletonSuit"
-	},
-	{
 		"abr": "uncookedfinesoup",
 		"price": 227,
 		"category": "Uncooked soups",
@@ -10128,300 +9822,6 @@
 		"category": "Wood logs",
 		"defname": "WoodLog_DatePalm"
 	},
-	{
-		"abr": "100thammer",
-		"price": 1400,
-		"category": "Melee weapons",
-		"defname": "Kijin_100tHammer"
-	},
-	{
-		"abr": "advancedbionicfinger",
-		"price": 550,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicFinger"
-	},
-	{
-		"abr": "advancedbionickijinhorn",
-		"price": 2892,
-		"category": "Ultratech",
-		"defname": "Kijin_AdvancedBionicHorn"
-	},
-	{
-		"abr": "advancedbionictail",
-		"price": 2800,
-		"category": "Ultratech",
-		"defname": "EPIA_AdvancedBionicTail"
-	},
-	{
-		"abr": "advancedbionictoe",
-		"price": 550,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicToe"
-	},
-	{
-		"abr": "animaseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_Anima"
-	},
-	{
-		"abr": "auxiliaryai(brawler)",
-		"price": 5150,
-		"category": "Ultratech",
-		"defname": "EPIA_AuxiliaryAI_Brawler"
-	},
-	{
-		"abr": "auxiliaryai(commando)",
-		"price": 5150,
-		"category": "Ultratech",
-		"defname": "EPIA_AuxiliaryAI_Commando"
-	},
-	{
-		"abr": "auxiliaryai(sharpshooter)",
-		"price": 5150,
-		"category": "Ultratech",
-		"defname": "EPIA_AuxiliaryAI_Sharpshooter"
-	},
-	{
-		"abr": "bionicfinger",
-		"price": 206,
-		"category": "Bionic",
-		"defname": "BionicFinger"
-	},
-	{
-		"abr": "bionickijinhorn",
-		"price": 1808,
-		"category": "Bionic",
-		"defname": "Kijin_BionicHorn"
-	},
-	{
-		"abr": "bionictail",
-		"price": 1717,
-		"category": "Bionic",
-		"defname": "EPIA_BionicTail"
-	},
-	{
-		"abr": "bionictoe",
-		"price": 206,
-		"category": "Bionic",
-		"defname": "BionicToe"
-	},
-	{
-		"abr": "bionicsworkbench",
-		"price": 4058,
-		"category": "Production",
-		"defname": "TableBionics"
-	},
-	{
-		"abr": "blankribreplacement",
-		"price": 633,
-		"category": "Bionic",
-		"defname": "SimpleRib"
-	},
-	{
-		"abr": "coagulatorribreplacement",
-		"price": 1142,
-		"category": "Bionic",
-		"defname": "CoagulatorRib"
-	},
-	{
-		"abr": "coolingribreplacement",
-		"price": 808,
-		"category": "Bionic",
-		"defname": "CoolerRib"
-	},
-	{
-		"abr": "cornedmeat",
-		"price": 2,
-		"category": "Meat",
-		"defname": "SaltedMeatKijin"
-	},
-	{
-		"abr": "damagedscytherblade",
-		"price": 33,
-		"category": "Manufactured",
-		"defname": "EPOE_DamagedScytherBlade"
-	},
-	{
-		"abr": "darkmarinearmor",
-		"price": 3392,
-		"category": "Apparel",
-		"defname": "Apparel_PowerArmorDK"
-	},
-	{
-		"abr": "darkmarinehelmet",
-		"price": 1058,
-		"category": "Headgear",
-		"defname": "Apparel_PowerArmorHelmetDK"
-	},
-	{
-		"abr": "dragologs",
-		"price": 3,
-		"category": "Wood logs",
-		"defname": "WoodLog_Drago"
-	},
-	{
-		"abr": "figwoodlogs",
-		"price": 2,
-		"category": "Wood logs",
-		"defname": "WoodLog_Fig"
-	},
-	{
-		"abr": "firewardcharm",
-		"price": 157,
-		"category": "Apparel",
-		"defname": "Kijin_FirewardCharm"
-	},
-	{
-		"abr": "goldbar",
-		"price": 1667,
-		"category": "Raw resources",
-		"defname": "GoldBar"
-	},
-	{
-		"abr": "guardingvest",
-		"price": 400,
-		"category": "Apparel",
-		"defname": "Kijin_FlakVest"
-	},
-	{
-		"abr": "heatingribreplacement",
-		"price": 808,
-		"category": "Bionic",
-		"defname": "HeaterRib"
-	},
-	{
-		"abr": "infernoarmor",
-		"price": 8333,
-		"category": "Apparel",
-		"defname": "Kijin_EpicArmor"
-	},
-	{
-		"abr": "infernoheadgear",
-		"price": 8333,
-		"category": "Headgear",
-		"defname": "Kijin_EpicHelm"
-	},
-	{
-		"abr": "instinctoptimizingnanobots",
-		"price": 1992,
-		"category": "Organic optimizer",
-		"defname": "EPOE_InstinctOptimizingNanobots"
-	},
-	{
-		"abr": "ironwoodlogs",
-		"price": 3,
-		"category": "Wood logs",
-		"defname": "VG_IronWoodLog"
-	},
-	{
-		"abr": "japanesemaplelogs",
-		"price": 4,
-		"category": "Wood logs",
-		"defname": "WoodLog_JapaneseMaple"
-	},
-	{
-		"abr": "kijin",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "Alien_Kijin"
-	},
-	{
-		"abr": "kijinelectricsmithy",
-		"price": 492,
-		"category": "Production",
-		"defname": "KijinElectricSmithy"
-	},
-	{
-		"abr": "kijinfan",
-		"price": 625,
-		"category": "Grenades",
-		"defname": "Kijin_Fan"
-	},
-	{
-		"abr": "kijinflamebow",
-		"price": 193,
-		"category": "Ranged weapons",
-		"defname": "Kijin_FlameBow"
-	},
-	{
-		"abr": "kijinmace",
-		"price": 286,
-		"category": "Melee weapons",
-		"defname": "Kijin_Mace"
-	},
-	{
-		"abr": "kijinmeat",
-		"price": 2,
-		"category": "Meat",
-		"defname": "Meat_Alien_Kijin"
-	},
-	{
-		"abr": "kijinparalysisbow",
-		"price": 550,
-		"category": "Ranged weapons",
-		"defname": "Kijin_PosionBow"
-	},
-	{
-		"abr": "kijinpolearm",
-		"price": 408,
-		"category": "Melee weapons",
-		"defname": "Kijin_Polearm"
-	},
-	{
-		"abr": "kijinshrine",
-		"price": 2350,
-		"category": "Misc",
-		"defname": "NatureShrine_Kijin"
-	},
-	{
-		"abr": "kijinsmithy",
-		"price": 333,
-		"category": "Production",
-		"defname": "KijinSmithy"
-	},
-	{
-		"abr": "kijinsmokebomb",
-		"price": 592,
-		"category": "Grenades",
-		"defname": "Kijin_SmokeBomb"
-	},
-	{
-		"abr": "ma-aichip",
-		"price": 725,
-		"category": "Manufactured",
-		"defname": "EPOE_MAAI_Chip"
-	},
-	{
-		"abr": "mangowoodlogs",
-		"price": 3,
-		"category": "Wood logs",
-		"defname": "WoodLog_Mango"
-	},
-	{
-		"abr": "maplelogs",
-		"price": 2,
-		"category": "Wood logs",
-		"defname": "WoodLog_Maple"
-	},
-	{
-		"abr": "neuro-cureframework",
-		"price": 3133,
-		"category": "Ultratech",
-		"defname": "NeurocureFramework"
-	},
-	{
-		"abr": "neuromuscularframework",
-		"price": 1908,
-		"category": "Bionic",
-		"defname": "NeuromuscularFramework"
-	},
-	{
-		"abr": "oaklogs",
-		"price": 3,
-		"category": "Wood logs",
-		"defname": "WoodLog_Oak"
-	}
 	],
-	"total": 1763
+	"total": 1669
 }
