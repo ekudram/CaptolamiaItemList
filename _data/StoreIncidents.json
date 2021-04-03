@@ -2,7 +2,7 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -87,7 +87,7 @@
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 10000,
 		"karmatype": "Doom"
 	},
 	{
@@ -134,11 +134,6 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 5000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -212,12 +207,12 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 1900,
+		"price": 5000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2400,
+		"price": 7500,
 		"karmatype": "Doom"
 	},
 	{
@@ -242,7 +237,7 @@
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -352,7 +347,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -391,5 +386,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 78
+	"total": 77
 }

@@ -782,12 +782,6 @@
     "name": "[1.2] Small Shelf"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Show Hair With Hats or Hide All Hats",
-    "steamId": "1180826364",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Updated by Saucy_Pigeon",
     "name": "Wild Cultivation - Fan Update",
     "steamId": "2011505811",
@@ -1000,12 +994,6 @@
     "name": "Stabilize"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "White only",
-    "steamId": "1518726337",
-    "version": "1.0.350.0854"
-  },
-  {
     "author": "VouLT",
     "name": "Better Pawn Control"
   },
@@ -1076,5 +1064,23 @@
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
     "version": "1.0.7528.166"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Build From Inventory",
+    "steamId": "1691419062",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "BoomMod"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Barbed Wire"
   }
 ]

@@ -536,7 +536,7 @@
 	},
 	{
 		"abr": "nyaron",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Nyaron"
 	},
@@ -1040,7 +1040,7 @@
 	},
 	{
 		"abr": "jeans",
-		"price": 198,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_Jeans"
 	},
@@ -1628,37 +1628,37 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": 5000,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": 5000,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": 5000,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
 	{
 		"abr": "psychicharmonizer",
-		"price": 1333,
+		"price": 2000,
 		"category": "Archotech",
 		"defname": "PsychicHarmonizer"
 	},
 	{
 		"abr": "psychicreader",
-		"price": 1667,
+		"price": 2000,
 		"category": "Archotech",
 		"defname": "PsychicReader"
 	},
 	{
 		"abr": "psychicsensitizer",
-		"price": 1667,
+		"price": 2000,
 		"category": "Archotech",
 		"defname": "PsychicSensitizer"
 	},
@@ -1838,7 +1838,7 @@
 	},
 	{
 		"abr": "archotechsculpture",
-		"price": 5000,
+		"price": 4000,
 		"category": "Art",
 		"defname": "VFE_ArchotechSculpture"
 	},
@@ -7838,7 +7838,7 @@
 	},
 	{
 		"abr": "anchovy",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawAnchovy"
 	},
@@ -7892,7 +7892,7 @@
 	},
 	{
 		"abr": "guppy",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawGuppy"
 	},
@@ -7940,7 +7940,7 @@
 	},
 	{
 		"abr": "minnow",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawMinnow"
 	},
@@ -7970,7 +7970,7 @@
 	},
 	{
 		"abr": "sprat",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawSprat"
 	},
@@ -8000,7 +8000,7 @@
 	},
 	{
 		"abr": "ash",
-		"price": 0,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "D9Ash"
 	},
@@ -9116,13 +9116,13 @@
 	},
 	{
 		"abr": "archotechshieldgenerator",
-		"price": 4667,
+		"price": 4000,
 		"category": "Special",
 		"defname": "VFES_ShieldGenerator_Archotech"
 	},
 	{
 		"abr": "archotechviolencegenerator",
-		"price": 5667,
+		"price": 4000,
 		"category": "Special",
 		"defname": "VPE_ArchotechViolenceGenerator"
 	},
@@ -9746,7 +9746,7 @@
 	},
 	{
 		"abr": "biosolids",
-		"price": 0,
+		"price": -10,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
@@ -9822,6 +9822,114 @@
 		"category": "Wood logs",
 		"defname": "WoodLog_DatePalm"
 	},
+	{
+		"abr": "dragologs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "WoodLog_Drago"
+	},
+	{
+		"abr": "figwoodlogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Fig"
+	},
+	{
+		"abr": "ironwoodlogs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "VG_IronWoodLog"
+	},
+	{
+		"abr": "japanesemaplelogs",
+		"price": 4,
+		"category": "Wood logs",
+		"defname": "WoodLog_JapaneseMaple"
+	},
+	{
+		"abr": "mangowoodlogs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "WoodLog_Mango"
+	},
+	{
+		"abr": "maplelogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Maple"
+	},
+	{
+		"abr": "oaklogs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "WoodLog_Oak"
+	},
+	{
+		"abr": "orangewoodlogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Orange"
+	},
+	{
+		"abr": "peachwoodlogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Peach"
+	},
+	{
+		"abr": "pinelogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Pine"
+	},
+	{
+		"abr": "poplarlogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Poplar"
+	},
+	{
+		"abr": "redmaplelogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_RedMaple"
+	},
+	{
+		"abr": "redpalmlogs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "WoodLog_Coconut"
+	},
+	{
+		"abr": "succulentribs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Succulent"
+	},
+	{
+		"abr": "teaklogs",
+		"price": 4,
+		"category": "Wood logs",
+		"defname": "WoodLog_Teak"
+	},
+	{
+		"abr": "techprint(brainwiring)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_BrainWiring"
+	},
+	{
+		"abr": "willowlogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Willow"
+	},
+	{
+		"abr": "woodlogs",
+		"price": 1,
+		"category": "Wood logs",
+		"defname": "WoodLog_Generic"
+	},
 	],
-	"total": 1669
+	"total": 1659
 }
