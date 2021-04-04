@@ -126,9 +126,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "ArchotechArm": {
@@ -137,9 +136,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "ArchotechLeg": {
@@ -148,9 +146,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "DeathAcidifier": {
@@ -1138,9 +1135,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Pemmican": {
@@ -1182,9 +1178,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "EggChickenUnfertilized": {
@@ -1457,9 +1452,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "RawHops": {
@@ -2117,9 +2111,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_Parka": {
@@ -2128,9 +2121,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_Pants": {
@@ -2139,9 +2131,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_BasicShirt": {
@@ -2150,9 +2141,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_CollarShirt": {
@@ -2161,9 +2151,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_Duster": {
@@ -2172,9 +2161,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_Jacket": {
@@ -2183,9 +2171,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_PlateArmor": {
@@ -2194,9 +2181,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_FlakVest": {
@@ -2205,9 +2191,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_FlakPants": {
@@ -2216,9 +2201,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_FlakJacket": {
@@ -2227,9 +2211,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_PowerArmor": {
@@ -2238,9 +2221,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ArmorRecon": {
@@ -2689,9 +2671,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gazelle": {
@@ -2700,9 +2681,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Iguana": {
@@ -2711,9 +2691,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Dromedary": {
@@ -2722,9 +2701,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Bear_Grizzly": {
@@ -2733,9 +2711,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Bear_Polar": {
@@ -2744,9 +2721,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Cougar": {
@@ -2755,9 +2731,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Panther": {
@@ -2766,9 +2741,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Lynx": {
@@ -2777,9 +2751,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Cassowary": {
@@ -2788,9 +2761,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Emu": {
@@ -2799,9 +2771,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Ostrich": {
@@ -2810,9 +2781,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Turkey": {
@@ -2821,9 +2791,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Chicken": {
@@ -2832,9 +2801,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Pig": {
@@ -2843,9 +2811,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Cow": {
@@ -2854,9 +2821,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Alpaca": {
@@ -2865,9 +2831,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Duck": {
@@ -2876,9 +2841,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Bison": {
@@ -2887,9 +2851,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Goat": {
@@ -2898,9 +2861,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Goose": {
@@ -2909,9 +2871,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Sheep": {
@@ -2920,9 +2881,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Horse": {
@@ -2931,9 +2891,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Yak": {
@@ -2942,9 +2901,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "GuineaPig": {
@@ -2953,9 +2911,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Donkey": {
@@ -2964,9 +2921,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Rhinoceros": {
@@ -2975,9 +2931,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Elephant": {
@@ -2986,9 +2941,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Megasloth": {
@@ -2997,9 +2951,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Thrumbo": {
@@ -3008,9 +2961,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Hare": {
@@ -3019,9 +2971,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Snowhare": {
@@ -3030,9 +2981,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Megascarab": {
@@ -3041,9 +2991,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Spelopede": {
@@ -3052,9 +3001,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Megaspider": {
@@ -3063,9 +3011,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "YorkshireTerrier": {
@@ -3074,9 +3021,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Husky": {
@@ -3085,9 +3031,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "LabradorRetriever": {
@@ -3096,9 +3041,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Cat": {
@@ -3107,9 +3051,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Squirrel": {
@@ -3118,9 +3061,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Alphabeaver": {
@@ -3129,9 +3071,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Capybara": {
@@ -3140,9 +3081,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Chinchilla": {
@@ -3151,9 +3091,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Boomrat": {
@@ -3162,9 +3101,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Raccoon": {
@@ -3173,9 +3111,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Rat": {
@@ -3184,9 +3121,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Deer": {
@@ -3195,9 +3131,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Ibex": {
@@ -3206,9 +3141,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Elk": {
@@ -3217,9 +3151,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Caribou": {
@@ -3228,9 +3161,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "WildBoar": {
@@ -3239,9 +3171,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Tortoise": {
@@ -3250,9 +3181,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Cobra": {
@@ -3261,9 +3191,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Monkey": {
@@ -3272,9 +3201,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Boomalope": {
@@ -3283,9 +3211,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Warg": {
@@ -3294,9 +3221,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Wolf_Timber": {
@@ -3305,9 +3231,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Wolf_Arctic": {
@@ -3316,9 +3241,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Fox_Fennec": {
@@ -3327,9 +3251,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Fox_Red": {
@@ -3338,9 +3261,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Fox_Arctic": {
@@ -3349,9 +3271,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "PsychicSensitizer": {
@@ -3360,9 +3281,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "PsychicHarmonizer": {
@@ -3371,9 +3291,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "PsychicReader": {
@@ -3382,9 +3301,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Neurocalculator": {
@@ -3668,9 +3586,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Drape": {
@@ -3888,9 +3805,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_PsyfocusVest": {
@@ -3899,9 +3815,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_PsyfocusRobe": {
@@ -3910,9 +3825,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ShirtRuffle": {
@@ -4053,9 +3967,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ArmorHelmetReconPrestige": {
@@ -4075,9 +3988,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ArmorMarineHelmetPrestige": {
@@ -4097,9 +4009,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ArmorHelmetCataphract": {
@@ -4119,9 +4030,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ArmorHelmetCataphractPrestige": {
@@ -4141,9 +4051,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ArmorMarineGrenadier": {
@@ -4152,9 +4061,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ArmorCataphractPhoenix": {
@@ -4163,9 +4071,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_Gunlink": {
@@ -4251,7 +4158,6 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": true,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
     "QuantityLimit": -1,
     "Weight": 1.0
@@ -5307,9 +5213,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "VGP Vegetable Garden",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VG_Biofuel": {
@@ -6275,9 +6180,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "VGP Garden Dyes",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ColorFlakPants": {
@@ -6286,9 +6190,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "VGP Garden Dyes",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ColorFlakJacket": {
@@ -6297,9 +6200,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "VGP Garden Dyes",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "RedCloth": {
@@ -7243,9 +7145,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_XcomOne": {
@@ -7254,9 +7155,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Standissue": {
@@ -7276,9 +7176,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Sheet": {
@@ -7287,9 +7186,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Gspot": {
@@ -7298,9 +7196,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Gshell": {
@@ -7309,9 +7206,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_MedicalApron": {
@@ -7320,9 +7216,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Smithaprontosaurus": {
@@ -7331,9 +7226,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Cookaprontosaurus": {
@@ -7342,9 +7236,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Trypophobiaa": {
@@ -7353,9 +7246,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_PonPon": {
@@ -7364,9 +7256,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Longlylonglong": {
@@ -7375,9 +7266,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Skull": {
@@ -7386,9 +7276,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Preston": {
@@ -7397,9 +7286,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Brocade": {
@@ -7408,9 +7296,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Urbulence": {
@@ -7419,9 +7306,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_UniPjays": {
@@ -7430,9 +7316,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Orkpad": {
@@ -7441,9 +7326,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Urpad": {
@@ -7452,9 +7336,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Ammobelt": {
@@ -7463,9 +7346,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Urbskin": {
@@ -7694,9 +7576,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Medicade": {
@@ -7705,9 +7586,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Mogo": {
@@ -7716,9 +7596,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Tunic": {
@@ -7727,9 +7606,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Tribalpad": {
@@ -7738,9 +7616,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Tribalshield": {
@@ -7749,9 +7626,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "ApparelloTinkerer": {
@@ -7837,9 +7713,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Meffectwo": {
@@ -7848,9 +7723,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Kurt": {
@@ -7859,9 +7733,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Kurtlite": {
@@ -7870,9 +7743,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Rockman": {
@@ -7881,9 +7753,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Raideroos": {
@@ -7892,9 +7763,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Yi": {
@@ -7903,9 +7773,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Raz": {
@@ -7914,9 +7783,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Goggles": {
@@ -7980,9 +7848,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Mojotwo": {
@@ -7991,9 +7858,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_MojoFeather": {
@@ -8002,9 +7868,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Wendywelder": {
@@ -8013,9 +7878,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Hardhat": {
@@ -8024,9 +7888,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Chefhat": {
@@ -8035,9 +7898,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Chefhatplus": {
@@ -8046,9 +7908,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Cyninja": {
@@ -8057,9 +7918,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Medihelmet": {
@@ -8068,9 +7928,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Proto": {
@@ -8079,9 +7938,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_ProtoFin": {
@@ -8101,9 +7959,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Gassy": {
@@ -8112,9 +7969,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Cybissar": {
@@ -8123,9 +7979,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Medband": {
@@ -8134,9 +7989,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Docteur": {
@@ -8145,9 +7999,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Plainhat": {
@@ -8156,9 +8009,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Furhat": {
@@ -8167,9 +8019,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Bandit": {
@@ -8178,9 +8029,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Cardshark": {
@@ -8189,9 +8039,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_TriMeCornMatey": {
@@ -8200,9 +8049,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Sandtrader": {
@@ -8211,9 +8059,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Tradecone": {
@@ -8222,9 +8069,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Fedora": {
@@ -8233,9 +8079,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Headset": {
@@ -8244,9 +8089,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Beret": {
@@ -8255,9 +8099,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Tophat": {
@@ -8266,9 +8109,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Bandal": {
@@ -8277,9 +8119,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Vandal": {
@@ -8288,9 +8129,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Lecap": {
@@ -8299,9 +8139,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Hoood": {
@@ -8310,9 +8149,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Sombrero": {
@@ -8321,9 +8159,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Moron": {
@@ -8343,9 +8180,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Boots and Stuff",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_military_Boots": {
@@ -8354,9 +8190,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Boots and Stuff",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_sandals": {
@@ -8365,9 +8200,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Boots and Stuff",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_shoes": {
@@ -8376,9 +8210,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Boots and Stuff",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_work_gloves": {
@@ -8387,9 +8220,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Boots and Stuff",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_thick_gloves": {
@@ -8398,9 +8230,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Boots and Stuff",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_medic_gloves": {
@@ -8409,9 +8240,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Boots and Stuff",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ring": {
@@ -8420,9 +8250,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Boots and Stuff",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_Socks": {
@@ -8431,9 +8260,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Boots and Stuff",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Crib": {
@@ -8464,9 +8292,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "MiningCo. MiningHelmet",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "RimFridge_SingleRefrigerator": {
@@ -9322,9 +9149,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Jewelry",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Jewelry_Bracelet_Silver": {
@@ -9333,9 +9159,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Jewelry",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Jewelry_Earring": {
@@ -9344,9 +9169,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Jewelry",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Jewelry_Earring_Silver": {
@@ -9355,9 +9179,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Jewelry",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Jewelry_Necklace": {
@@ -9366,9 +9189,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Jewelry",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Jewelry_PsychicNecklace": {
@@ -9377,9 +9199,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Jewelry",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Jewelry_Necklace_Silver": {
@@ -9388,9 +9209,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Jewelry",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Jewelry_PsychicNecklace_Silver": {
@@ -9399,9 +9219,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Jewelry",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Jewelry_Ring": {
@@ -9410,9 +9229,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Jewelry",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Jewelry_Ring_Silver": {
@@ -9421,9 +9239,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Jewelry",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "SmallBackpackMC": {
@@ -9432,9 +9249,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Mercer's Backpacks + Nano Suit (Continued)",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "SmallBackpackNaturalMC": {
@@ -9443,9 +9259,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Mercer's Backpacks + Nano Suit (Continued)",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "LargeBackpackMC": {
@@ -9454,9 +9269,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Mercer's Backpacks + Nano Suit (Continued)",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "LargeBackpackNaturalMC": {
@@ -9465,9 +9279,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Mercer's Backpacks + Nano Suit (Continued)",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "NanoSuitMC": {
@@ -9476,9 +9289,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Mercer's Backpacks + Nano Suit (Continued)",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "LWM_BigShelf": {
@@ -9652,9 +9464,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_FSDesertRobe": {
@@ -9663,9 +9474,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_FSFurHat": {
@@ -10994,9 +10804,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Giraffe": {
@@ -11005,9 +10814,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Hippopotamus": {
@@ -11016,9 +10824,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Zebra": {
@@ -11027,9 +10834,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Wildebeest": {
@@ -11038,9 +10844,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Crocodile": {
@@ -11049,9 +10854,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Cheetah": {
@@ -11060,9 +10864,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_EggPlatypusFertilized": {
@@ -11093,9 +10896,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Australia",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Kangaroo": {
@@ -11104,9 +10906,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Australia",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Koala": {
@@ -11115,9 +10916,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Australia",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Platypus": {
@@ -11126,9 +10926,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Australia",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Otter": {
@@ -11137,9 +10936,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Boreal Forest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_ArcticCoyote": {
@@ -11148,9 +10946,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Boreal Forest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_BlackBear": {
@@ -11159,9 +10956,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Boreal Forest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_CatAbyssinian": {
@@ -11170,9 +10966,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_CatBengal": {
@@ -11181,9 +10976,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_CatBritishShorthair": {
@@ -11192,9 +10986,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_CatMaineCoon": {
@@ -11203,9 +10996,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_CatMunchkin": {
@@ -11214,9 +11006,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_CatNorwegianForest": {
@@ -11225,9 +11016,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_CatPersian": {
@@ -11236,9 +11026,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_CatSiamese": {
@@ -11247,9 +11036,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_CatSomali": {
@@ -11258,9 +11046,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_CatSphynx": {
@@ -11269,9 +11056,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Beagle": {
@@ -11280,9 +11066,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Chihuahua": {
@@ -11291,9 +11076,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Corgi": {
@@ -11302,9 +11086,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_FrenchBulldog": {
@@ -11313,9 +11096,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_GermanShepherd": {
@@ -11324,9 +11106,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_GreatDane": {
@@ -11335,9 +11116,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Poodle": {
@@ -11346,9 +11126,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Pug": {
@@ -11357,9 +11136,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Rottweiler": {
@@ -11368,9 +11146,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Shih-Tzu": {
@@ -11379,9 +11156,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_WelshTerrier": {
@@ -11390,9 +11166,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_EggDesertTortoiseUnfertilized": {
@@ -11456,9 +11231,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Desert",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_DesertTortoise": {
@@ -11467,9 +11241,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Desert",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Lion": {
@@ -11478,9 +11251,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Desert",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_GilaMonster": {
@@ -11489,9 +11261,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Desert",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_EggMoaFertilized": {
@@ -11522,9 +11293,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Endangered",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_BlackRhino": {
@@ -11533,9 +11303,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Endangered",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Bonobo": {
@@ -11544,9 +11313,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Endangered",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Moa": {
@@ -11555,9 +11323,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Endangered",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Panda": {
@@ -11566,9 +11333,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Endangered",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Quagga": {
@@ -11577,9 +11343,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Endangered",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_RockhopperPenguin": {
@@ -11588,9 +11353,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Endangered",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_TasmanianDevil": {
@@ -11599,9 +11363,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Endangered",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Thylacine": {
@@ -11610,9 +11373,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Endangered",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_AfricanWildDog": {
@@ -11621,9 +11383,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Endangered",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Pangolin": {
@@ -11632,9 +11393,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Endangered",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_EggRattlesnakeUnfertilized": {
@@ -11676,9 +11436,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Extreme Desert",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Rattlesnake": {
@@ -11687,9 +11446,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Extreme Desert",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Megascorpion": {
@@ -11698,9 +11456,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Extreme Desert",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_WalrusTusk": {
@@ -11753,9 +11510,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Ice Sheet",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Seal": {
@@ -11764,9 +11520,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Ice Sheet",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Walrus": {
@@ -11775,9 +11530,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Ice Sheet",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_EggWildGooseUnfertilized": {
@@ -11808,9 +11562,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Temperate Forest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Badger": {
@@ -11819,9 +11572,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Temperate Forest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_WildGoose": {
@@ -11830,9 +11582,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Temperate Forest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Beaver": {
@@ -11841,9 +11592,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Temperate Forest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Hedgehog": {
@@ -11852,9 +11602,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Temperate Forest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Leather_Tiger": {
@@ -11874,9 +11623,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Jaguar": {
@@ -11885,9 +11633,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Lemur": {
@@ -11896,9 +11643,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Mandrill": {
@@ -11907,9 +11653,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Tapir": {
@@ -11918,9 +11663,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Tiger": {
@@ -11929,9 +11673,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_EggAnacondaFertilized": {
@@ -11962,9 +11705,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tropical Swamp",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Anaconda": {
@@ -11973,9 +11715,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tropical Swamp",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_IndianElephant": {
@@ -11984,9 +11725,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tropical Swamp",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_MuskOxWool": {
@@ -12006,9 +11746,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tundra",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Moose": {
@@ -12017,9 +11756,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tundra",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_MegaWolverine": {
@@ -12028,9 +11766,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tundra",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AEXP_Porcupine": {
@@ -12039,9 +11776,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tundra",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Footwear_Boots": {
@@ -12083,9 +11819,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Hoodie": {
@@ -12094,9 +11829,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Shorts": {
@@ -12105,9 +11839,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Skirt": {
@@ -12116,9 +11849,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_ShirtandTie": {
@@ -12127,9 +11859,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_SuitJacket": {
@@ -12138,9 +11869,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Trousers": {
@@ -12149,9 +11879,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Headgear_Fedora": {
@@ -12171,9 +11900,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_FleeceShirt": {
@@ -12182,9 +11910,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Jeans": {
@@ -12193,9 +11920,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_ChefsUniform": {
@@ -12204,9 +11930,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_MilitaryJacket": {
@@ -12215,9 +11940,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_MilitaryUniform": {
@@ -12226,9 +11950,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_BuildersJacket": {
@@ -12237,9 +11960,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_DoctorScrubs": {
@@ -12248,9 +11970,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_LabCoat": {
@@ -12259,9 +11980,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_TankTop": {
@@ -12270,9 +11990,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_SheriffShirt": {
@@ -12281,9 +12000,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Jumpsuit": {
@@ -12292,9 +12010,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Tunic": {
@@ -12303,9 +12020,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Blouse": {
@@ -12314,9 +12030,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Apron": {
@@ -12325,9 +12040,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Cape": {
@@ -12336,9 +12050,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Headgear_TrapperHat": {
@@ -12369,9 +12082,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_TribalPoncho": {
@@ -12380,9 +12092,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_TribalKilt": {
@@ -12391,9 +12102,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Apparel Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Headgear_Hood": {
@@ -12556,9 +12266,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_GhillieSuit": {
@@ -12567,9 +12276,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_AdvancedVest": {
@@ -12578,9 +12286,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_HAZMATSuit": {
@@ -12589,9 +12296,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Gambeson": {
@@ -12600,9 +12306,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_QuiltedVest": {
@@ -12622,9 +12327,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_PlateShoulderpads": {
@@ -12633,9 +12337,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Chestplate": {
@@ -12644,9 +12347,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_Chainmail": {
@@ -12655,9 +12357,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_PlateHelmet": {
@@ -15537,9 +15238,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Nyaron race",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Nr_ChRifle": {

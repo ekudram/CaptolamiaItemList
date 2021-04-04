@@ -202,7 +202,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -227,7 +227,7 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 3000,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -242,7 +242,7 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 5000,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
