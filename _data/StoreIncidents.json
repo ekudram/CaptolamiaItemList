@@ -7,7 +7,7 @@
 	},
 	{
 		"abr": "tornados",
-		"price": 10000,
+		"price": 25000,
 		"karmatype": "Doom"
 	},
 	{
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 10000,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 10000,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
@@ -207,12 +207,12 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 5000,
+		"price": 10000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 7500,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
@@ -237,7 +237,7 @@
 	},
 	{
 		"abr": "siegeraid",
-		"price": 3000,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{

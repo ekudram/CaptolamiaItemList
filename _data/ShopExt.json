@@ -400,7 +400,7 @@
     },
     {
       "canAdd": true,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 2500,
       "removePrice": 3000,
       "defName": "Cannibal",
@@ -2003,7 +2003,7 @@
     },
     {
       "canAdd": true,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 2500,
       "removePrice": 3000,
       "defName": "Psychopath",
