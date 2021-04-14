@@ -321,6 +321,31 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "hailstorm",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "earthquake",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "drought",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "huntingparty",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "reviveall",
 		"price": 22664,
 		"karmatype": "Good"
@@ -386,5 +411,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 77
+	"total": 82
 }

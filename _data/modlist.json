@@ -42,6 +42,16 @@
     "version": "1.2.0"
   },
   {
+    "author": "mr_chimick",
+    "name": "Toolkit Bridge - Vanilla Events Expanded"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -1045,14 +1055,14 @@
   },
   {
     "author": "Nals",
-    "name": "[NL] Dynamic Portraits",
-    "steamId": "2253730555",
+    "name": "[NL] Custom Portraits",
+    "steamId": "1569605867",
     "version": "1.0.0.0"
   },
   {
     "author": "Nals",
-    "name": "[NL] Custom Portraits",
-    "steamId": "1569605867",
+    "name": "[NL] Dynamic Portraits",
+    "steamId": "2253730555",
     "version": "1.0.0.0"
   },
   {
@@ -1112,5 +1122,15 @@
     "name": "What Is My Purpose",
     "steamId": "1346064449",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Shadow",
+    "name": "SeedsPlease: All-In-One Megapatch"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Faction Control",
+    "steamId": "1509102551",
+    "version": "1.0.7546.40571"
   }
 ]

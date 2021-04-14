@@ -1359,14 +1359,14 @@
     "Weight": 1.0
   },
   "ComponentIndustrial": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 50,
     "Weight": 1.0
   },
   "ComponentSpacer": {
@@ -2826,7 +2826,7 @@
     "Weight": 1.0
   },
   "Alpaca": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3046,7 +3046,7 @@
     "Weight": 1.0
   },
   "Cat": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3236,7 +3236,7 @@
     "Weight": 1.0
   },
   "Wolf_Arctic": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -10961,7 +10961,7 @@
     "Weight": 1.0
   },
   "AEXP_CatAbyssinian": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -10971,7 +10971,7 @@
     "Weight": 1.0
   },
   "AEXP_CatBengal": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -10981,7 +10981,7 @@
     "Weight": 1.0
   },
   "AEXP_CatBritishShorthair": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11001,7 +11001,7 @@
     "Weight": 1.0
   },
   "AEXP_CatMunchkin": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11011,7 +11011,7 @@
     "Weight": 1.0
   },
   "AEXP_CatNorwegianForest": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11021,7 +11021,7 @@
     "Weight": 1.0
   },
   "AEXP_CatPersian": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11031,7 +11031,7 @@
     "Weight": 1.0
   },
   "AEXP_CatSiamese": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11041,7 +11041,7 @@
     "Weight": 1.0
   },
   "AEXP_CatSomali": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11051,7 +11051,7 @@
     "Weight": 1.0
   },
   "AEXP_CatSphynx": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11061,7 +11061,7 @@
     "Weight": 1.0
   },
   "AEXP_Beagle": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11071,7 +11071,7 @@
     "Weight": 1.0
   },
   "AEXP_Chihuahua": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11378,7 +11378,7 @@
     "Weight": 1.0
   },
   "AEXP_AfricanWildDog": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -16850,14 +16850,14 @@
     "Weight": 1.0
   },
   "meatpie": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "muffin": {
@@ -16894,36 +16894,36 @@
     "Weight": 1.0
   },
   "smoothie": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "icecream": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "yogurt": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "pizza": {
@@ -16949,14 +16949,14 @@
     "Weight": 1.0
   },
   "grilledcheese": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "sweetbun": {
@@ -16971,14 +16971,14 @@
     "Weight": 1.0
   },
   "driedfruit": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": 750,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "cookie": {
