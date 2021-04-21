@@ -12,6 +12,10 @@
     "version": "8.0.1"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "Map Reroll"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -28,12 +32,6 @@
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.0.2.1"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.1.8"
   },
   {
     "author": "swemoney",
@@ -148,16 +146,28 @@
     "name": "Nyaron race"
   },
   {
+    "author": "Fluffy",
+    "name": "Relations Tab",
+    "steamId": "709317151",
+    "version": "2.6.71"
+  },
+  {
     "author": "Oskar Potocki, Taranchuk",
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
     "version": "1.0.0.0"
   },
   {
-    "author": "PorqueNoLosDos (Updated By CrashM)",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "0.0.0.0"
+    "author": "Nals",
+    "name": "[NL] Custom Portraits",
+    "steamId": "1569605867",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Dynamic Portraits",
+    "steamId": "2253730555",
+    "version": "1.0.0.0"
   },
   {
     "author": "Hob Took",
@@ -211,7 +221,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.1.1.0"
+    "version": "2.1.2.0"
   },
   {
     "author": "NotooShabby",
@@ -263,7 +273,7 @@
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.3.811"
+    "version": "1.3.823"
   },
   {
     "author": "Dubwise",
@@ -358,12 +368,6 @@
     "name": "Medical Tab",
     "steamId": "715565817",
     "version": "3.4.91"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Relations Tab",
-    "steamId": "709317151",
-    "version": "2.6.71"
   },
   {
     "author": "Fluffy",
@@ -548,10 +552,6 @@
     "name": "Labels on Floor"
   },
   {
-    "author": "LadyElizabeth",
-    "name": "Pawn Badge - (MISC) Job Icons"
-  },
-  {
     "author": "Jaxe",
     "name": "Pawn Rules",
     "steamId": "1499843448",
@@ -627,7 +627,7 @@
   },
   {
     "author": "Mlie",
-    "name": "Mercer's Backpacks + Nano Suit (Continued)"
+    "name": "Mercer's Backpacks (Continued)"
   },
   {
     "author": "jptrrs",
@@ -1054,18 +1054,6 @@
     "name": "HandyUI - Fast Colonist Info"
   },
   {
-    "author": "Nals",
-    "name": "[NL] Custom Portraits",
-    "steamId": "1569605867",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Dynamic Portraits",
-    "steamId": "2253730555",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Jabbamonkey",
     "name": "VGP Veg Garden and Flora Reskin Match"
   },
@@ -1132,5 +1120,41 @@
     "name": "[KV] Faction Control",
     "steamId": "1509102551",
     "version": "1.0.7546.40571"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[CP] Chicken Mitchell - Hairstyles"
+  },
+  {
+    "author": "Roolo",
+    "name": "RunAndGun"
+  },
+  {
+    "author": "Lolidrop",
+    "name": "Lolidrop's hairshop"
+  },
+  {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "民火",
+    "name": "Statue of Colonist",
+    "steamId": "1539031321",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Change Dresser",
+    "steamId": "1385697110",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "1.5.5.0"
   }
 ]

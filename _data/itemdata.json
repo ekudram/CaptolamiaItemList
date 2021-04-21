@@ -492,14 +492,14 @@
     "Weight": 1.0
   },
   "GameOfUrBoard": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "ChessTable": {
@@ -514,25 +514,25 @@
     "Weight": 1.0
   },
   "PokerTable": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "BilliardsTable": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "TubeTelevision": {
@@ -2666,7 +2666,7 @@
     "Weight": 1.0
   },
   "Muffalo": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -2816,7 +2816,7 @@
     "Weight": 1.0
   },
   "Cow": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3122,7 +3122,7 @@
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "Mod": "RimWorld",
-    "QuantityLimit": 1,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "Deer": {
@@ -7923,6 +7923,7 @@
     "Weight": 1.0
   },
   "Apparello_Medihelmet": {
+    "CustomName": "medicskevlarhelmet",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -9283,14 +9284,15 @@
     "QuantityLimit": 1,
     "Weight": 1.0
   },
-  "NanoSuitMC": {
+  "TMB_StatueOfColonistK": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "Mod": "Mercer's Backpacks + Nano Suit (Continued)",
-    "QuantityLimit": 1,
+    "KarmaType": "Neutral",
+    "Mod": "Statue of Colonist",
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "LWM_BigShelf": {
@@ -11091,7 +11093,7 @@
     "Weight": 1.0
   },
   "AEXP_FrenchBulldog": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11121,7 +11123,7 @@
     "Weight": 1.0
   },
   "AEXP_Poodle": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11141,7 +11143,7 @@
     "Weight": 1.0
   },
   "AEXP_Rottweiler": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11668,7 +11670,7 @@
     "Weight": 1.0
   },
   "AEXP_Tiger": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -18984,6 +18986,83 @@
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "TableMending": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "MendAndRecycle",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MendingKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "MendAndRecycle",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "TMB_StatueOfColonistKLarge": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Statue of Colonist",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "TMB_StatueOfColonistKGrand": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Statue of Colonist",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ChangeDresser": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[KV] Change Dresser",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ChangeMirror": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[KV] Change Dresser",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "RepairChangeDresser": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[KV] Change Dresser",
+    "QuantityLimit": -1,
     "Weight": 1.0
   }
 }

@@ -206,7 +206,7 @@
 	},
 	{
 		"abr": "cow",
-		"price": -10,
+		"price": 500,
 		"category": "Animal",
 		"defname": "Cow"
 	},
@@ -278,7 +278,7 @@
 	},
 	{
 		"abr": "frenchbulldog",
-		"price": -10,
+		"price": 250,
 		"category": "Animal",
 		"defname": "AEXP_FrenchBulldog"
 	},
@@ -512,7 +512,7 @@
 	},
 	{
 		"abr": "muffalo",
-		"price": -10,
+		"price": 500,
 		"category": "Animal",
 		"defname": "Muffalo"
 	},
@@ -590,7 +590,7 @@
 	},
 	{
 		"abr": "poodle",
-		"price": -10,
+		"price": 417,
 		"category": "Animal",
 		"defname": "AEXP_Poodle"
 	},
@@ -656,7 +656,7 @@
 	},
 	{
 		"abr": "rottweiler",
-		"price": -10,
+		"price": 417,
 		"category": "Animal",
 		"defname": "AEXP_Rottweiler"
 	},
@@ -668,7 +668,7 @@
 	},
 	{
 		"abr": "sheep",
-		"price": -10,
+		"price": 350,
 		"category": "Animal",
 		"defname": "Sheep"
 	},
@@ -740,7 +740,7 @@
 	},
 	{
 		"abr": "tiger",
-		"price": -10,
+		"price": 1083,
 		"category": "Animal",
 		"defname": "AEXP_Tiger"
 	},
@@ -776,7 +776,7 @@
 	},
 	{
 		"abr": "welshterrier",
-		"price": -10,
+		"price": 417,
 		"category": "Animal",
 		"defname": "AEXP_WelshTerrier"
 	},
@@ -1070,7 +1070,7 @@
 	},
 	{
 		"abr": "largebackpack",
-		"price": -10,
+		"price": 433,
 		"category": "Apparel",
 		"defname": "LargeBackpackMC"
 	},
@@ -1139,12 +1139,6 @@
 		"price": 375,
 		"category": "Apparel",
 		"defname": "Apparel_MiningVest"
-	},
-	{
-		"abr": "nanosuit",
-		"price": -10,
-		"category": "Apparel",
-		"defname": "NanoSuitMC"
 	},
 	{
 		"abr": "overalls",
@@ -1364,7 +1358,7 @@
 	},
 	{
 		"abr": "tunic",
-		"price": -10,
+		"price": 143,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_Tunic"
 	},
@@ -1394,13 +1388,13 @@
 	},
 	{
 		"abr": "aerocowl",
-		"price": 1333,
+		"price": -10,
 		"category": "Apparello headgear",
 		"defname": "Apparello_Kurtlite"
 	},
 	{
 		"abr": "aerocowlmkii",
-		"price": 3333,
+		"price": -10,
 		"category": "Apparello headgear",
 		"defname": "Apparello_Kurt"
 	},
@@ -1496,7 +1490,7 @@
 	},
 	{
 		"abr": "infiltratorheadgear",
-		"price": -10,
+		"price": 608,
 		"category": "Apparello headgear",
 		"defname": "Apparello_Yi"
 	},
@@ -1586,7 +1580,7 @@
 	},
 	{
 		"abr": "tac-teampeakedcap",
-		"price": 5500,
+		"price": -10,
 		"category": "Apparello headgear",
 		"defname": "Apparello_Cybissar"
 	},
@@ -1664,7 +1658,7 @@
 	},
 	{
 		"abr": "psylinkneuroformer",
-		"price": -10,
+		"price": 4333,
 		"category": "Archotech",
 		"defname": "PsychicAmplifier"
 	},
@@ -1808,7 +1802,7 @@
 	},
 	{
 		"abr": "quiltedvest",
-		"price": -10,
+		"price": 210,
 		"category": "Armor",
 		"defname": "VAE_Apparel_QuiltedVest"
 	},
@@ -2282,7 +2276,7 @@
 	},
 	{
 		"abr": "salt",
-		"price": -10,
+		"price": 3,
 		"category": "Condiments",
 		"defname": "VCE_Salt"
 	},
@@ -2330,7 +2324,7 @@
 	},
 	{
 		"abr": "birthcontrol",
-		"price": -10,
+		"price": 17,
 		"category": "Drugs",
 		"defname": "BirthControl"
 	},
@@ -2354,7 +2348,7 @@
 	},
 	{
 		"abr": "fertilitybooster",
-		"price": -10,
+		"price": 25,
 		"category": "Drugs",
 		"defname": "FertilityBooster"
 	},
@@ -2408,7 +2402,7 @@
 	},
 	{
 		"abr": "pregnancytest",
-		"price": -10,
+		"price": 12,
 		"category": "Drugs",
 		"defname": "PregnancyTest"
 	},
@@ -2696,7 +2690,7 @@
 	},
 	{
 		"abr": "archnem©ski™goggles",
-		"price": 100,
+		"price": -10,
 		"category": "Eyewear",
 		"defname": "Apparello_Brimsk"
 	},
@@ -2732,7 +2726,7 @@
 	},
 	{
 		"abr": "cheeseburger",
-		"price": -10,
+		"price": 42,
 		"category": "Fine Meals",
 		"defname": "grilledmeat"
 	},
@@ -2744,13 +2738,13 @@
 	},
 	{
 		"abr": "makiroll",
-		"price": -10,
+		"price": 35,
 		"category": "Fine Meals",
 		"defname": "MakiRoll"
 	},
 	{
 		"abr": "muffin",
-		"price": -10,
+		"price": 42,
 		"category": "Fine Meals",
 		"defname": "muffin"
 	},
@@ -2768,19 +2762,19 @@
 	},
 	{
 		"abr": "sweetbun",
-		"price": -10,
+		"price": 42,
 		"category": "Fine Meals",
 		"defname": "sweetbun"
 	},
 	{
 		"abr": "tacos",
-		"price": -10,
+		"price": 25,
 		"category": "Fine Meals",
 		"defname": "Tacos"
 	},
 	{
 		"abr": "hardtack",
-		"price": 2,
+		"price": -10,
 		"category": "Foods",
 		"defname": "VG_Hardtack"
 	},
@@ -2966,7 +2960,7 @@
 	},
 	{
 		"abr": "advancedbed",
-		"price": 833,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_AdvBed"
 	},
@@ -2978,7 +2972,7 @@
 	},
 	{
 		"abr": "advanceddoublebed",
-		"price": 1483,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_AdvDoubleBed"
 	},
@@ -2990,7 +2984,7 @@
 	},
 	{
 		"abr": "animalbed",
-		"price": 136,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AnimalBed"
 	},
@@ -3014,7 +3008,7 @@
 	},
 	{
 		"abr": "bed",
-		"price": 155,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed"
 	},
@@ -3170,7 +3164,7 @@
 	},
 	{
 		"abr": "doublebed",
-		"price": 292,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoubleBed"
 	},
@@ -3212,7 +3206,7 @@
 	},
 	{
 		"abr": "ergonomicbed",
-		"price": 450,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_Ergonomic"
 	},
@@ -3224,7 +3218,7 @@
 	},
 	{
 		"abr": "ergonomicdoublebed",
-		"price": 867,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_DoubleErgonomic"
 	},
@@ -3482,7 +3476,7 @@
 	},
 	{
 		"abr": "royalbed",
-		"price": 1467,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RoyalBed"
 	},
@@ -3506,7 +3500,7 @@
 	},
 	{
 		"abr": "royalposterbed",
-		"price": 2008,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_Kingsize"
 	},
@@ -3560,7 +3554,7 @@
 	},
 	{
 		"abr": "simplebed",
-		"price": 137,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_Simple"
 	},
@@ -3584,7 +3578,7 @@
 	},
 	{
 		"abr": "slabbed",
-		"price": 111,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_StoneSlab"
 	},
@@ -4244,7 +4238,7 @@
 	},
 	{
 		"abr": "simplehelmet",
-		"price": 153,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_SimpleHelmet"
 	},
@@ -4580,7 +4574,7 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": -10,
+		"price": 2833,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
@@ -4610,13 +4604,13 @@
 	},
 	{
 		"abr": "bowlofstew",
-		"price": -10,
+		"price": 42,
 		"category": "Lavish Meals",
 		"defname": "bowlstew"
 	},
 	{
 		"abr": "cookie",
-		"price": -10,
+		"price": 33,
 		"category": "Lavish Meals",
 		"defname": "cookie"
 	},
@@ -4982,13 +4976,13 @@
 	},
 	{
 		"abr": "glass",
-		"price": -10,
+		"price": 12,
 		"category": "Manufactured",
 		"defname": "Glass"
 	},
 	{
 		"abr": "largecircularglass",
-		"price": -10,
+		"price": 17,
 		"category": "Manufactured",
 		"defname": "LargeCircularGlass"
 	},
@@ -5870,91 +5864,91 @@
 	},
 	{
 		"abr": "axe",
-		"price": 209,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Axe"
 	},
 	{
 		"abr": "baton",
-		"price": 206,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_Baton"
 	},
 	{
 		"abr": "battleaxe",
-		"price": 442,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_BattleAxe"
 	},
 	{
 		"abr": "clawbar",
-		"price": 183,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "Nr_Clawbar"
 	},
 	{
 		"abr": "cleaver",
-		"price": 277,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_Cleaver"
 	},
 	{
 		"abr": "club",
-		"price": 141,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Club"
 	},
 	{
 		"abr": "combatknife",
-		"price": 205,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_CombatKnife"
 	},
 	{
 		"abr": "eltexstaff",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_PsyfocusStaff"
 	},
 	{
 		"abr": "gladius",
-		"price": 239,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Gladius"
 	},
 	{
 		"abr": "halberd",
-		"price": 483,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_Halberd"
 	},
 	{
 		"abr": "hammer",
-		"price": 281,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_Hammer"
 	},
 	{
 		"abr": "hatchet",
-		"price": 147,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_Axe"
 	},
 	{
 		"abr": "ikwa",
-		"price": 197,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Ikwa"
 	},
 	{
 		"abr": "karambit",
-		"price": 98,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "Nr_Karambit"
 	},
 	{
 		"abr": "knife",
-		"price": 111,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Knife"
 	},
@@ -5966,13 +5960,13 @@
 	},
 	{
 		"abr": "longsword",
-		"price": 442,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_LongSword"
 	},
 	{
 		"abr": "mace",
-		"price": 203,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Mace"
 	},
@@ -5984,7 +5978,7 @@
 	},
 	{
 		"abr": "pickaxe",
-		"price": 248,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_Pickaxe"
 	},
@@ -5996,31 +5990,31 @@
 	},
 	{
 		"abr": "scalpel",
-		"price": 277,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_Scalpel"
 	},
 	{
 		"abr": "shovel",
-		"price": 327,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_Shovel"
 	},
 	{
 		"abr": "spear",
-		"price": 322,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Spear"
 	},
 	{
 		"abr": "warhammer",
-		"price": 608,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Warhammer"
 	},
 	{
 		"abr": "wrench",
-		"price": 277,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_Wrench"
 	},
@@ -6242,25 +6236,25 @@
 	},
 	{
 		"abr": "cape",
-		"price": -10,
+		"price": 367,
 		"category": "Noble apparel",
 		"defname": "Apparel_Cape"
 	},
 	{
 		"abr": "corset",
-		"price": -10,
+		"price": 222,
 		"category": "Noble apparel",
 		"defname": "Apparel_Corset"
 	},
 	{
 		"abr": "formalshirt",
-		"price": -10,
+		"price": 253,
 		"category": "Noble apparel",
 		"defname": "Apparel_ShirtRuffle"
 	},
 	{
 		"abr": "formalvest",
-		"price": -10,
+		"price": 222,
 		"category": "Noble apparel",
 		"defname": "Apparel_VestRoyal"
 	},
@@ -7094,175 +7088,175 @@
 	},
 	{
 		"abr": "psytrainer(beckon)",
-		"price": -10,
+		"price": 917,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Beckon"
 	},
 	{
 		"abr": "psytrainer(berserkpulse)",
-		"price": -10,
+		"price": 1667,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_BerserkPulse"
 	},
 	{
 		"abr": "psytrainer(berserk)",
-		"price": -10,
+		"price": 1417,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Berserk"
 	},
 	{
 		"abr": "psytrainer(blindingpulse)",
-		"price": -10,
+		"price": 667,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_BlindingPulse"
 	},
 	{
 		"abr": "psytrainer(burden)",
-		"price": -10,
+		"price": 417,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Burden"
 	},
 	{
 		"abr": "psytrainer(chaosskip)",
-		"price": -10,
+		"price": 917,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_ChaosSkip"
 	},
 	{
 		"abr": "psytrainer(chunkskip)",
-		"price": -10,
+		"price": 417,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Chunkskip"
 	},
 	{
 		"abr": "psytrainer(farskip)",
-		"price": -10,
+		"price": 1417,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Farskip"
 	},
 	{
 		"abr": "psytrainer(flashstorm)",
-		"price": -10,
+		"price": 1417,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Flashstorm"
 	},
 	{
 		"abr": "psytrainer(focus)",
-		"price": -10,
+		"price": 1167,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Focus"
 	},
 	{
 		"abr": "psytrainer(invisibility)",
-		"price": -10,
+		"price": 1417,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Invisibility"
 	},
 	{
 		"abr": "psytrainer(manhunterpulse)",
-		"price": -10,
+		"price": 1667,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_ManhunterPulse"
 	},
 	{
 		"abr": "psytrainer(masschaosskip)",
-		"price": -10,
+		"price": 1667,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_MassChaosSkip"
 	},
 	{
 		"abr": "psytrainer(neuralheatdump)",
-		"price": -10,
+		"price": 667,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_EntropyDump"
 	},
 	{
 		"abr": "psytrainer(neuroquake)",
-		"price": -10,
+		"price": 1667,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Neuroquake"
 	},
 	{
 		"abr": "psytrainer(painblock)",
-		"price": -10,
+		"price": 417,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Painblock"
 	},
 	{
 		"abr": "psytrainer(skip)",
-		"price": -10,
+		"price": 1167,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Skip"
 	},
 	{
 		"abr": "psytrainer(skipshield)",
-		"price": -10,
+		"price": 1667,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_BulletShield"
 	},
 	{
 		"abr": "psytrainer(smokepop)",
-		"price": -10,
+		"price": 1167,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Smokepop"
 	},
 	{
 		"abr": "psytrainer(solarpinhole)",
-		"price": -10,
+		"price": 417,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_SolarPinhole"
 	},
 	{
 		"abr": "psytrainer(stun)",
-		"price": -10,
+		"price": 417,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Stun"
 	},
 	{
 		"abr": "psytrainer(vertigopulse)",
-		"price": -10,
+		"price": 917,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VertigoPulse"
 	},
 	{
 		"abr": "psytrainer(wallraise)",
-		"price": -10,
+		"price": 1167,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Wallraise"
 	},
 	{
 		"abr": "psytrainer(waterskip)",
-		"price": -10,
+		"price": 667,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Waterskip"
 	},
 	{
 		"abr": "psytrainer(wordofinspiration)",
-		"price": -10,
+		"price": 1417,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_WordOfInspiration"
 	},
 	{
 		"abr": "psytrainer(wordofjoy)",
-		"price": -10,
+		"price": 667,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_WordOfJoy"
 	},
 	{
 		"abr": "psytrainer(wordoflove)",
-		"price": -10,
+		"price": 917,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_WordOfLove"
 	},
 	{
 		"abr": "psytrainer(wordofserenity)",
-		"price": -10,
+		"price": 1167,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_WordOfSerenity"
 	},
 	{
 		"abr": "psytrainer(wordoftrust)",
-		"price": -10,
+		"price": 417,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_WordOfTrust"
 	},
@@ -7838,79 +7832,79 @@
 	},
 	{
 		"abr": "anchovy",
-		"price": -10,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawAnchovy"
 	},
 	{
 		"abr": "angelfish",
-		"price": -10,
+		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawAngelfish"
 	},
 	{
 		"abr": "anglerfish",
-		"price": -10,
+		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawAnglerfish"
 	},
 	{
 		"abr": "bass",
-		"price": -10,
+		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawBass"
 	},
 	{
 		"abr": "catfish",
-		"price": -10,
+		"price": 4,
 		"category": "Raw fish",
 		"defname": "VCEF_RawCatfish"
 	},
 	{
 		"abr": "clownfish",
-		"price": -10,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawClownfish"
 	},
 	{
 		"abr": "cod",
-		"price": -10,
+		"price": 3,
 		"category": "Raw fish",
 		"defname": "VCEF_RawCod"
 	},
 	{
 		"abr": "eel",
-		"price": -10,
+		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawEel"
 	},
 	{
 		"abr": "goldfish",
-		"price": -10,
+		"price": 3,
 		"category": "Raw fish",
 		"defname": "VCEF_RawGoldfish"
 	},
 	{
 		"abr": "guppy",
-		"price": -10,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawGuppy"
 	},
 	{
 		"abr": "haddock",
-		"price": -10,
+		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawHaddock"
 	},
 	{
 		"abr": "halibut",
-		"price": -10,
+		"price": 3,
 		"category": "Raw fish",
 		"defname": "VCEF_RawHalibut"
 	},
 	{
 		"abr": "herring",
-		"price": -10,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawHerring"
 	},
@@ -7922,73 +7916,73 @@
 	},
 	{
 		"abr": "koi",
-		"price": -10,
+		"price": 4,
 		"category": "Raw fish",
 		"defname": "VCEF_RawKoi"
 	},
 	{
 		"abr": "lobster",
-		"price": -10,
+		"price": 9,
 		"category": "Raw fish",
 		"defname": "VCEF_RawLobster"
 	},
 	{
 		"abr": "mackerel",
-		"price": -10,
+		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawMackerel"
 	},
 	{
 		"abr": "minnow",
-		"price": -10,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawMinnow"
 	},
 	{
 		"abr": "perch",
-		"price": -10,
+		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawPerch"
 	},
 	{
 		"abr": "piranha",
-		"price": -10,
+		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawPiranha"
 	},
 	{
 		"abr": "pufferfish",
-		"price": -10,
+		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawPufferfish"
 	},
 	{
 		"abr": "salmon",
-		"price": -10,
+		"price": 9,
 		"category": "Raw fish",
 		"defname": "VCEF_RawSalmon"
 	},
 	{
 		"abr": "sprat",
-		"price": -10,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawSprat"
 	},
 	{
 		"abr": "swordfish",
-		"price": -10,
+		"price": 9,
 		"category": "Raw fish",
 		"defname": "VCEF_RawSwordfish"
 	},
 	{
 		"abr": "trout",
-		"price": -10,
+		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawTrout"
 	},
 	{
 		"abr": "tuna",
-		"price": -10,
+		"price": 4,
 		"category": "Raw fish",
 		"defname": "VCEF_RawTuna"
 	},
@@ -8000,7 +7994,7 @@
 	},
 	{
 		"abr": "ash",
-		"price": -10,
+		"price": 1,
 		"category": "Raw resources",
 		"defname": "D9Ash"
 	},
@@ -10148,7 +10142,7 @@
 	},
 	{
 		"abr": "instinctoptimizingnanobots",
-		"price": 1992,
+		"price": -10,
 		"category": "Organic optimizer",
 		"defname": "EPOE_InstinctOptimizingNanobots"
 	},
@@ -10208,7 +10202,7 @@
 	},
 	{
 		"abr": "organicoptimizingnanobots",
-		"price": 1683,
+		"price": -10,
 		"category": "Organic optimizer",
 		"defname": "EPOE_OrganicOptimizingNanobots"
 	},
@@ -10400,7 +10394,7 @@
 	},
 	{
 		"abr": "alphapoly",
-		"price": -10,
+		"price": 195,
 		"category": "Raw resources",
 		"defname": "AlphaPoly"
 	},
@@ -10448,13 +10442,13 @@
 	},
 	{
 		"abr": "battery",
-		"price": 2708,
+		"price": -10,
 		"category": "Power",
 		"defname": "FissionBattery"
 	},
 	{
 		"abr": "betapoly",
-		"price": -10,
+		"price": 392,
 		"category": "Raw resources",
 		"defname": "BetaPoly"
 	},
@@ -10710,6 +10704,54 @@
 		"category": "Seeds",
 		"defname": "Seed_VCESWasabi"
 	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "changedresser",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "ChangeDresser"
+	},
+	{
+		"abr": "changemirror",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "ChangeMirror"
+	},
+	{
+		"abr": "grandstatueofcolonist",
+		"price": -10,
+		"category": "Art",
+		"defname": "TMB_StatueOfColonistKGrand"
+	},
+	{
+		"abr": "largestatueofcolonist",
+		"price": -10,
+		"category": "Art",
+		"defname": "TMB_StatueOfColonistKLarge"
+	},
+	{
+		"abr": "mendingattachment",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RepairChangeDresser"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "statueofcolonist",
+		"price": -10,
+		"category": "Art",
+		"defname": "TMB_StatueOfColonistK"
+	},
 	],
-	"total": 1794
+	"total": 1801
 }

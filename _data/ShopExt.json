@@ -401,7 +401,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 2500,
+      "addPrice": 50,
       "removePrice": 3000,
       "defName": "Cannibal",
       "degree": 0,
@@ -2004,7 +2004,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 2500,
+      "addPrice": 50,
       "removePrice": 3000,
       "defName": "Psychopath",
       "degree": 0,
