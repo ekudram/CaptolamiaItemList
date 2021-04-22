@@ -5856,14 +5856,14 @@
     "Weight": 1.0
   },
   "Nigiri": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "Caramel": {
