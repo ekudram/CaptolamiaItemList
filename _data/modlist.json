@@ -994,12 +994,6 @@
     "version": "2.9.1"
   },
   {
-    "author": "Odie / scuba156",
-    "name": "Verify Start",
-    "steamId": "1516689035",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "Linkolas",
     "name": "Stabilize"
   },
@@ -1032,14 +1026,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Nals",
-    "name": "[NL] Chibi Face Female only"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Chibi Face Male only"
-  },
-  {
     "author": "pointfeev",
     "name": "Automatic Bed Reassignment"
   },
@@ -1048,10 +1034,6 @@
     "name": "Wearing Armor Info",
     "steamId": "1839305669",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Densevoid",
-    "name": "HandyUI - Fast Colonist Info"
   },
   {
     "author": "Jabbamonkey",
@@ -1156,5 +1138,61 @@
     "name": "Puppeteer",
     "steamId": "2057192142",
     "version": "1.5.5.0"
+  },
+  {
+    "author": "BJInternetSupervision",
+    "name": "[SS]Lovely Hair Style"
+  },
+  {
+    "author": "Nackblad",
+    "name": "Nackblad Inc Rimhair"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Rimhair"
+  },
+  {
+    "author": "sakama",
+    "name": "Roppoi hair"
+  },
+  {
+    "author": "Spoonshortage",
+    "name": "Spoons Hair Mod"
+  },
+  {
+    "author": "sakama",
+    "name": "Storyteller hair"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Latki(vee)",
+    "name": "Vee Hairs"
+  },
+  {
+    "author": "Odstriman",
+    "name": "[Ods] Womens Hair "
+  },
+  {
+    "author": "Orion",
+    "name": "Xeva's Rimhair"
+  },
+  {
+    "author": "Mehni",
+    "name": "Dismiss Trader (Continued)"
+  },
+  {
+    "author": "Mlie",
+    "name": "Various Space Ship Chunk (Continued)",
+    "steamId": "2014616487",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Daemon976",
+    "name": "Nals Facial Animation for HAR"
   }
 ]

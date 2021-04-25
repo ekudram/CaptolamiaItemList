@@ -66,14 +66,14 @@
     "Weight": 1.0
   },
   "Flake": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 150,
     "Weight": 1.0
   },
   "PsychiteTea": {
@@ -121,7 +121,7 @@
     "Weight": 1.0
   },
   "ArchotechEye": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -131,7 +131,7 @@
     "Weight": 1.0
   },
   "ArchotechArm": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -141,7 +141,7 @@
     "Weight": 1.0
   },
   "ArchotechLeg": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -1075,58 +1075,58 @@
     "Weight": 1.0
   },
   "MealSurvivalPack": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 10,
     "Weight": 1.0
   },
   "MealNutrientPaste": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 10,
     "Weight": 1.0
   },
   "MealSimple": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 10,
     "Weight": 1.0
   },
   "MealFine": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 10,
     "Weight": 1.0
   },
   "MealLavish": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Kibble": {
@@ -1337,25 +1337,25 @@
     "Weight": 1.0
   },
   "MedicineIndustrial": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 25,
     "Weight": 1.0
   },
   "MedicineUltratech": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 25,
     "Weight": 1.0
   },
   "ComponentIndustrial": {
@@ -1381,25 +1381,25 @@
     "Weight": 1.0
   },
   "Neutroamine": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 150,
     "Weight": 1.0
   },
   "Chemfuel": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 150,
     "Weight": 1.0
   },
   "RawPotatoes": {
@@ -1490,69 +1490,69 @@
     "Weight": 1.0
   },
   "Shell_HighExplosive": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 25,
     "Weight": 1.0
   },
   "Shell_Incendiary": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 25,
     "Weight": 1.0
   },
   "Shell_EMP": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 25,
     "Weight": 1.0
   },
   "Shell_Smoke": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 25,
     "Weight": 1.0
   },
   "Shell_Firefoam": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 25,
     "Weight": 1.0
   },
   "Shell_AntigrainWarhead": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 25,
     "Weight": 1.0
   },
   "Silver": {
@@ -1941,14 +1941,14 @@
     "Weight": 1.0
   },
   "Apparel_ShieldBelt": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_CowboyHat": {
@@ -2023,42 +2023,41 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
     "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_AdvancedHelmet": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_PowerArmorHelmet": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ArmorHelmetRecon": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_PsychicFoilHelmet": {
@@ -2176,7 +2175,7 @@
     "Weight": 1.0
   },
   "Apparel_PlateArmor": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -2186,7 +2185,7 @@
     "Weight": 1.0
   },
   "Apparel_FlakVest": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -2206,7 +2205,7 @@
     "Weight": 1.0
   },
   "Apparel_FlakJacket": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -2216,7 +2215,7 @@
     "Weight": 1.0
   },
   "Apparel_PowerArmor": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -2226,14 +2225,14 @@
     "Weight": 1.0
   },
   "Apparel_ArmorRecon": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "BlocksSandstone": {
@@ -2468,47 +2467,47 @@
     "Weight": 1.0
   },
   "Gun_HeavySMG": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gun_LMG": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gun_AssaultRifle": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gun_SniperRifle": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gun_Minigun": {
@@ -2611,14 +2610,14 @@
     "Weight": 1.0
   },
   "Gun_ChargeRifle": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gun_ChargeLance": {
@@ -3276,7 +3275,7 @@
     "Weight": 1.0
   },
   "PsychicSensitizer": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3286,7 +3285,7 @@
     "Weight": 1.0
   },
   "PsychicHarmonizer": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3296,7 +3295,7 @@
     "Weight": 1.0
   },
   "PsychicReader": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3383,14 +3382,14 @@
     "Weight": 1.0
   },
   "ArmorskinGland": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "StoneskinGland": {
@@ -3405,25 +3404,25 @@
     "Weight": 1.0
   },
   "AestheticShaper": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AestheticNose": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "LoveEnhancer": {
@@ -3482,14 +3481,14 @@
     "Weight": 1.0
   },
   "CircadianHalfCycler": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Mindscrew": {
@@ -4005,7 +4004,7 @@
     "Weight": 1.0
   },
   "Apparel_ArmorCataphract": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -4067,7 +4066,7 @@
     "Weight": 1.0
   },
   "Apparel_ArmorCataphractPhoenix": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -4340,14 +4339,14 @@
     "Weight": 1.0
   },
   "BionicReproductiveOrgans": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "The Birds and the Bees",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "CompostBarrel": {
@@ -4428,14 +4427,14 @@
     "Weight": 1.0
   },
   "BionicBladder": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Dubs Bad Hygiene",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "HygieneEnhancer": {
@@ -6065,25 +6064,25 @@
     "Weight": 1.0
   },
   "VG_antibiotics": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Medicine",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "Deworm": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Medicine",
-    "QuantityLimit": -1,
+    "QuantityLimit": 150,
     "Weight": 1.0
   },
   "VG_FluEz": {
@@ -6175,7 +6174,7 @@
     "Weight": 1.0
   },
   "Apparel_ColorFlakVest": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -6185,7 +6184,7 @@
     "Weight": 1.0
   },
   "Apparel_ColorFlakPants": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -6195,7 +6194,7 @@
     "Weight": 1.0
   },
   "Apparel_ColorFlakJacket": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -6355,72 +6354,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Dyes",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "MealCannedFood": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Canning",
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "CannedVeg": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Canning",
-    "QuantityLimit": 4000,
-    "Weight": 1.0
-  },
-  "CannedMeat": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Canning",
-    "QuantityLimit": 400,
-    "Weight": 1.0
-  },
-  "CannedFruit": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Canning",
-    "QuantityLimit": 4000,
-    "Weight": 1.0
-  },
-  "CanningFactory": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Canning",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VG_CanningFactory": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Canning",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -6622,17 +6555,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "PlantProcessingTable": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "RawCotton": {
     "HasQuantityLimit": true,
     "IsMelee": false,
@@ -6653,292 +6575,6 @@
     "KarmaType": "Neutral",
     "Mod": "SeedsPlease",
     "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "RawHealroot": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "RawCocoaBeans": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "Seed_Rice": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Potato": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Corn": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Strawberry": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Haygrass": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Hops": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Smokeleaf": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Psychoid": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_TreeDrago": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_TreeWillow": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_TreeCypress": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_TreeMaple": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_TreeOak": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_TreePoplar": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_TreePine": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_TreeBirch": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_TreeTeak": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_TreeCecropia": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_TreePalm": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_TreeBamboo": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_SaguaroCactus": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Cotton": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Devilstrand": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Healroot": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": 500,
     "Weight": 1.0
   },
   "RockMill": {
@@ -7202,7 +6838,7 @@
     "Weight": 1.0
   },
   "Apparello_Gshell": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -7385,14 +7021,14 @@
     "Weight": 1.0
   },
   "Apparello_Spacemarinepants": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Spacerpants": {
@@ -7572,7 +7208,7 @@
     "Weight": 1.0
   },
   "Apparello_Syndicatetello": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -7709,7 +7345,7 @@
     "Weight": 1.0
   },
   "Apparello_Meffect": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -7719,7 +7355,7 @@
     "Weight": 1.0
   },
   "Apparello_Meffectwo": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -8892,14 +8528,14 @@
     "Weight": 1.0
   },
   "BionicTacticalImplant": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Miscellaneous 'CORE'",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "ElectronicTacticalImplant": {
@@ -9460,103 +9096,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_FSFurCoat": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "Apparel_FSDesertRobe": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "Apparel_FSFurHat": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "Apparel_FSDesertWrap": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "ET_Apparel_WolfHood": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "ET_Apparel_DeerHood": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "ET_Apparel_ScarabHood": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "ET_Apparel_SpiderHelm": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "ET_Apparel_SpelHelm": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
   "Building_RTCircuitBreaker": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9808,83 +9347,6 @@
     "KarmaType": "Neutral",
     "Mod": "Wall Light",
     "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SmallShelf": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "[1.2] Small Shelf",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SeedGlowstool": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Wild Cultivation - Fan Update",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "SeedAgarilux": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Wild Cultivation - Fan Update",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "SeedBryolux": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Wild Cultivation - Fan Update",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "SeedBrambles": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Wild Cultivation - Fan Update",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "SeedClivia": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Wild Cultivation - Fan Update",
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "SeedSaguaro": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Wild Cultivation - Fan Update",
-    "QuantityLimit": 500,
     "Weight": 1.0
   },
   "Radio_Industrial": {
@@ -12265,7 +11727,7 @@
     "Weight": 1.0
   },
   "VAE_Apparel_BulletproofVest": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -12275,7 +11737,7 @@
     "Weight": 1.0
   },
   "VAE_Apparel_GhillieSuit": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -12285,7 +11747,7 @@
     "Weight": 1.0
   },
   "VAE_Apparel_AdvancedVest": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -12295,7 +11757,7 @@
     "Weight": 1.0
   },
   "VAE_Apparel_HAZMATSuit": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -12315,18 +11777,18 @@
     "Weight": 1.0
   },
   "VAE_Apparel_QuiltedVest": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_LightPlateArmor": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -12336,7 +11798,7 @@
     "Weight": 1.0
   },
   "VAE_Apparel_PlateShoulderpads": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -12346,7 +11808,7 @@
     "Weight": 1.0
   },
   "VAE_Apparel_Chestplate": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -12377,14 +11839,14 @@
     "Weight": 1.0
   },
   "VAE_Apparel_WoodenArmor": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Headgear_StoneWarMask": {
@@ -12432,14 +11894,14 @@
     "Weight": 1.0
   },
   "VAE_Apparel_HeavyMarineArmor": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Headgear_Balaclava": {
@@ -12520,80 +11982,80 @@
     "Weight": 1.0
   },
   "VBE_Blueprint": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_BookShooting": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_BookAnimals": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_BookArt": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_BookConstruction": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_BookCooking": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_BookCrafting": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_BookIntellectual": {
@@ -12608,69 +12070,69 @@
     "Weight": 1.0
   },
   "VBE_BookMedical": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_BookMelee": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_BookMining": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_BookGrowing": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_BookSocial": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_Map": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VBE_Newspaper": {
@@ -12839,14 +12301,14 @@
     "Weight": 1.0
   },
   "VCE_CannedFish": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "VCE_Cheese": {
@@ -12861,14 +12323,14 @@
     "Weight": 1.0
   },
   "VCE_AgaveNectar": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "VCE_RawSugar": {
@@ -13301,14 +12763,13 @@
     "Weight": 1.0
   },
   "VFE_Relief": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Vanilla Furniture Expanded - Art",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VFE_Pillar": {
@@ -14291,14 +13752,14 @@
     "Weight": 1.0
   },
   "VWE_Gun_AntiMaterialRifle": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Bow_Crossbow": {
@@ -14961,47 +14422,47 @@
     "Weight": 1.0
   },
   "BionicLeg": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "BionicEar": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "BionicSpine": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "BionicEye": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Heart": {
@@ -16840,312 +16301,124 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "cheese": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "meatpie": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "muffin": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "bakedpolenta": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "grilledpolenta": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "smoothie": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "icecream": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yogurt": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "pizza": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "grilledmeat": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "grilledcheese": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "sweetbun": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "driedfruit": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "cookie": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "stirfry": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Vegetable Garden",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "bowlstew": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Vegetable Garden",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "plumbingValve": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Dubs Bad Hygiene",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "AdvancedBionicEye": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AdvancedBionicArm": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AdvancedBionicLeg": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AdvancedBionicSpine": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AdvancedBionicEar": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AdvancedBionicHand": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AdvancedBionicFoot": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AdvancedBionicFinger": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AdvancedBionicToe": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AdvancedBionicJaw": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "AdvancedPowerArm": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "ExoskeletonSuit": {
@@ -17193,14 +16466,14 @@
     "Weight": 1.0
   },
   "BionicHand": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "BionicFoot": {
@@ -17215,14 +16488,14 @@
     "Weight": 1.0
   },
   "BionicFinger": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "BionicToe": {
@@ -17237,14 +16510,14 @@
     "Weight": 1.0
   },
   "BionicJaw": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "SilentJaw": {
@@ -17732,14 +17005,14 @@
     "Weight": 1.0
   },
   "AIChip": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Eye": {
@@ -17874,7 +17147,192 @@
     "QuantityLimit": 50,
     "Weight": 1.0
   },
-  "Apparel_HC1Shield": {
+  "LumberAcacia": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "LumberCamellia": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "LumberCherryBlossom": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "LumberJapaneseMaple": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "LumberMango": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "LumberRedMaple": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "WoodLog_Acacia": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "WoodLog_Camellia": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "WoodLog_CherryBlossom": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "WoodLog_JapaneseMaple": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "WoodLog_Mango": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "WoodLog_RedMaple": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 750,
+    "Weight": 1.0
+  },
+  "TableMending": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "MendAndRecycle",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MendingKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "MendAndRecycle",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "TMB_StatueOfColonistKLarge": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Statue of Colonist",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "TMB_StatueOfColonistKGrand": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Statue of Colonist",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ChangeDresser": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[KV] Change Dresser",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ChangeMirror": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[KV] Change Dresser",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "RepairChangeDresser": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[KV] Change Dresser",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_OCCombatVest": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -17885,40 +17343,18 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_OCShield": {
+  "SmallShelf": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "[1.2] Small Shelf",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_NanoSuit": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_NanoSuitHelmet": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_Reactive": {
+  "Apparel_NanoSpeed": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -17940,18 +17376,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_NanoSpeed": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "Apparel_OCCombatVest": {
+  "Apparel_Reactive": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -17959,6 +17384,765 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_NanoSuitHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_NanoSuit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_OCShield": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_HC1Shield": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SeedSaguaro": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wild Cultivation - Fan Update",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SeedClivia": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wild Cultivation - Fan Update",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SeedBrambles": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wild Cultivation - Fan Update",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SeedBryolux": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wild Cultivation - Fan Update",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SeedAgarilux": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wild Cultivation - Fan Update",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SeedGlowstool": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wild Cultivation - Fan Update",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ET_Apparel_SpelHelm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "ETRT: Tribal Apparel",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ET_Apparel_SpiderHelm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "ETRT: Tribal Apparel",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ET_Apparel_ScarabHood": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "ETRT: Tribal Apparel",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ET_Apparel_DeerHood": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "ETRT: Tribal Apparel",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ET_Apparel_WolfHood": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "ETRT: Tribal Apparel",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_FSDesertWrap": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "ETRT: Tribal Apparel",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_FSFurHat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "ETRT: Tribal Apparel",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_FSDesertRobe": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "ETRT: Tribal Apparel",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_FSFurCoat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "ETRT: Tribal Apparel",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_Healroot": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_Devilstrand": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_Cotton": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_SaguaroCactus": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_TreeBamboo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_TreePalm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_TreeCecropia": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_TreeTeak": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_TreeBirch": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_TreePine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_TreePoplar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_TreeOak": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_TreeMaple": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_TreeCypress": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_TreeWillow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_TreeDrago": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_Psychoid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_Smokeleaf": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_Hops": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_Haygrass": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_Strawberry": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_Corn": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_Potato": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Seed_Rice": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "RawCocoaBeans": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "RawHealroot": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "PlantProcessingTable": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "SeedsPlease",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VG_CanningFactory": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Canning",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "CanningFactory": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Canning",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "CannedFruit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Canning",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "CannedMeat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Canning",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "CannedVeg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Canning",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MealCannedFood": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Canning",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "cheese": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "meatpie": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "muffin": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "bakedpolenta": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "grilledpolenta": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "smoothie": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "icecream": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yogurt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "pizza": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "grilledmeat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "grilledcheese": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "sweetbun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "driedfruit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "cookie": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "stirfry": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Vegetable Garden",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "bowlstew": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Vegetable Garden",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "plumbingValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Bad Hygiene",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -18095,14 +18279,14 @@
     "Weight": 1.0
   },
   "Titanium": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Glitter Tech",
-    "QuantityLimit": 750,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "AlphaPoly": {
@@ -18128,69 +18312,69 @@
     "Weight": 1.0
   },
   "MagneticCoil": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Glitter Tech",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "Silicon": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Glitter Tech",
-    "QuantityLimit": 750,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "ComputerComp": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Glitter Tech",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "Ethanol": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Glitter Tech",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "Bandage": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Glitter Tech",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "Serum": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Glitter Tech",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "GTEar": {
@@ -18446,622 +18630,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
+  "VHE_TableBarber": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Hair Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
   "Meat_Race_Tank": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Glitter Tech",
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "LumberAcacia": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "LumberCamellia": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "LumberCherryBlossom": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "LumberJapaneseMaple": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "LumberMango": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "LumberRedMaple": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "Seed_Agarilux": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Agave": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Ambrosia": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Apple": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Avocado": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Bamboo": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Banana": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Barley": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Bean": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Bee": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Blueberry": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_BlueCorn": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Camellia": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Carrot": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Cherryblossom": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Cherry": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Cloudberry": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Cocoa": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Date": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Eggplant": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Fig": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Flax": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Ironwood": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Gooseberry": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Grape": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Japanesemaple": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Kiwi": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Mango": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Mushroom": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Neutroflower": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Olive": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Orange": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Peach": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_PincushionCactus": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Pineapple": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Pumpkin": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Random": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "Seed_Redlentil": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Redmaple": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Snowbeet": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Squash": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Sugarcane": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Tea": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Tobacco": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Tomato": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Watermelon": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 500,
-    "Weight": 1.0
-  },
-  "Seed_Wheat": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "WoodLog_Acacia": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "WoodLog_Camellia": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "WoodLog_CherryBlossom": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "WoodLog_JapaneseMaple": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "WoodLog_Mango": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "WoodLog_RedMaple": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 750,
-    "Weight": 1.0
-  },
-  "TableMending": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "MendAndRecycle",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "MendingKit": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "MendAndRecycle",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TMB_StatueOfColonistKLarge": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Statue of Colonist",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TMB_StatueOfColonistKGrand": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Statue of Colonist",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ChangeDresser": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "[KV] Change Dresser",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ChangeMirror": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "[KV] Change Dresser",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "RepairChangeDresser": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "[KV] Change Dresser",
     "QuantityLimit": -1,
     "Weight": 1.0
   }
