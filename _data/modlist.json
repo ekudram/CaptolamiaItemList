@@ -12,6 +12,12 @@
     "version": "8.0.1"
   },
   {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Configurable Maps",
+    "steamId": "1507370392",
+    "version": "1.0.7529.18835"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Map Reroll"
   },
@@ -34,12 +40,6 @@
     "version": "1.0.2.1"
   },
   {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.2.0"
-  },
-  {
     "author": "mr_chimick",
     "name": "Toolkit Bridge - Vanilla Events Expanded"
   },
@@ -47,6 +47,12 @@
     "author": "hodlhodl",
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oblitus",
+    "name": "My Little Planet",
+    "steamId": "1117406550",
     "version": "1.0.0.0"
   },
   {
@@ -62,16 +68,30 @@
     "version": "1.2.0.0"
   },
   {
+    "author": "Updated by Saucy_Pigeon",
+    "name": "Realistic Planets - Fan Update",
+    "steamId": "2009542732",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Carolusclen",
+    "name": "World Map Beautification Project - for Realistic Planets"
+  },
+  {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.4.01"
+  },
+  {
+    "author": "Carolusclen",
+    "name": "World Map Beautification Project - for More Vanilla Biomes"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
     "version": "1.3.754"
-  },
-  {
-    "author": "Oblitus",
-    "name": "My Little Planet",
-    "steamId": "1117406550",
-    "version": "1.0.0.0"
   },
   {
     "author": "neitsa",
@@ -100,12 +120,6 @@
   {
     "author": "Roolo",
     "name": "Giddy-up! Battle Mounts"
-  },
-  {
-    "author": "Updated by Saucy_Pigeon",
-    "name": "Realistic Planets - Fan Update",
-    "steamId": "2009542732",
-    "version": "1.0.0.0"
   },
   {
     "author": "mr.teterew",
@@ -315,21 +329,11 @@
   },
   {
     "author": "dismarzero",
-    "name": "VGP Garden Canning"
-  },
-  {
-    "author": "dismarzero",
     "name": "VGP Xtra Trees and Flowers"
   },
   {
     "author": "ItchyFlea -> Qwynn -> Adventurer",
     "name": "Expanded Woodworking for Vegetable Garden Project"
-  },
-  {
-    "author": "notfood",
-    "name": "SeedsPlease",
-    "steamId": "935732834",
-    "version": "1.1.1.0"
   },
   {
     "author": "fyarn",
@@ -591,9 +595,7 @@
   },
   {
     "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "1.7.0.0"
+    "name": "Interaction Bubbles"
   },
   {
     "author": "Hanabishi",
@@ -678,10 +680,6 @@
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Evil Tactician",
-    "name": "ETRT: Tribal Apparel"
   },
   {
     "author": "Ratys",
@@ -778,10 +776,6 @@
     "name": "No Burny (less flammable metals)"
   },
   {
-    "author": "Nandonalt, Tejko, Alias",
-    "name": "Snowy Trees"
-  },
-  {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
@@ -790,12 +784,6 @@
   {
     "author": "Proxyer",
     "name": "[1.2] Small Shelf"
-  },
-  {
-    "author": "Updated by Saucy_Pigeon",
-    "name": "Wild Cultivation - Fan Update",
-    "steamId": "2011505811",
-    "version": "1.0.0.0"
   },
   {
     "author": "OskarPotocki, Atlas, Kikohi",
@@ -956,6 +944,24 @@
     "name": "Vanilla Cooking Expanded - Stews"
   },
   {
+    "author": "Oskar Potocki, LimeTreeSnake, Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Alestria",
+    "name": "Vanilla Plants Expanded - Succulents"
+  },
+  {
+    "author": "Oskar Potocki, Luizi, xrushhha",
+    "name": "Vanilla Weapons Expanded - Frontier"
+  },
+  {
+    "author": "Oskar Potocki, SmashPhil",
+    "name": "Vanilla Weapons Expanded - Makeshift"
+  },
+  {
     "author": "Wyatt Mingji Lim aka WalkingProblem",
     "name": "[1.2] Wild Animal Sex V5.0",
     "steamId": "2292830796",
@@ -1084,18 +1090,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sam",
-    "name": "Glitter Tech"
-  },
-  {
     "author": "Uuugggg",
     "name": "What Is My Purpose",
     "steamId": "1346064449",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Shadow",
-    "name": "SeedsPlease: All-In-One Megapatch"
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
@@ -1164,12 +1162,6 @@
     "name": "Storyteller hair"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan",
-    "name": "Vanilla Hair Expanded",
-    "steamId": "1888705256",
-    "version": "1.0.3"
-  },
-  {
     "author": "Latki(vee)",
     "name": "Vee Hairs"
   },
@@ -1192,7 +1184,59 @@
     "version": "1.0.5.0"
   },
   {
+    "author": "Derek Bickley",
+    "name": "[LTO] Texture Overhaul"
+  },
+  {
     "author": "Daemon976",
     "name": "Nals Facial Animation for HAR"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "List Everything",
+    "steamId": "1706669545",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Geminingen",
+    "name": "Ancient Fallout Armory"
+  },
+  {
+    "author": "Nif",
+    "name": "ToolBox",
+    "steamId": "2016186459",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nif",
+    "name": "Architect Expanded - Fences"
+  },
+  {
+    "author": "Tarojun",
+    "name": "EPOE-Forked: Alien expansion + patcher"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Expanded Floors"
+  },
+  {
+    "author": "Weilbyte",
+    "name": "RenameColony",
+    "steamId": "1359645236",
+    "version": "0.1.5"
+  },
+  {
+    "author": "Derek Bickley",
+    "name": "[LTO] Terrain Overhaul",
+    "steamId": "2284769535",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Victorique, Aurani, Tarojun",
+    "name": "EPOE-Forked: Royalty DLC expansion"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed"
   }
 ]

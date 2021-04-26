@@ -1124,9 +1124,8 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": 1,
+    "QuantityLimit": 10,
     "Weight": 1.0
   },
   "Kibble": {
@@ -2434,14 +2433,14 @@
     "Weight": 1.0
   },
   "Gun_BoltActionRifle": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gun_PumpShotgun": {
@@ -2456,14 +2455,14 @@
     "Weight": 1.0
   },
   "Gun_ChainShotgun": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gun_HeavySMG": {
@@ -2599,14 +2598,14 @@
     "Weight": 1.0
   },
   "Bow_Great": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gun_ChargeRifle": {
@@ -7334,14 +7333,14 @@
     "Weight": 1.0
   },
   "Apparello_Footy": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Apparello 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparello_Meffect": {
@@ -10087,14 +10086,14 @@
     "Weight": 1.0
   },
   "VCEF_RawKoi": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Fishing Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "VCEF_RawLobster": {
@@ -12136,14 +12135,14 @@
     "Weight": 1.0
   },
   "VBE_Newspaper": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Books Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VCE_ElectricPot": {
@@ -12235,14 +12234,14 @@
     "Weight": 1.0
   },
   "VCE_LavishBake": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 10,
     "Weight": 1.0
   },
   "VCE_GourmetBake": {
@@ -12477,14 +12476,14 @@
     "Weight": 1.0
   },
   "VCE_LavishDessert": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 10,
     "Weight": 1.0
   },
   "VCE_GourmetDessert": {
@@ -12554,14 +12553,14 @@
     "Weight": 1.0
   },
   "VCE_LavishGrill": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 10,
     "Weight": 1.0
   },
   "VCE_RuinedLavishGrill": {
@@ -12664,14 +12663,14 @@
     "Weight": 1.0
   },
   "VCE_CookedSoupLavish": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 10,
     "Weight": 1.0
   },
   "VCE_UncookedSoupGourmet": {
@@ -13576,14 +13575,14 @@
     "Weight": 1.0
   },
   "VWE_Bow_Compound": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_HandCannon": {
@@ -13664,14 +13663,14 @@
     "Weight": 1.0
   },
   "VWE_Gun_LeverActionRifle": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_LightSMG": {
@@ -13708,14 +13707,14 @@
     "Weight": 1.0
   },
   "VWE_Gun_ServiceRifle": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_BattleRifle": {
@@ -13741,14 +13740,14 @@
     "Weight": 1.0
   },
   "VWE_Gun_MarksmanRifle": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_AntiMaterialRifle": {
@@ -13763,36 +13762,36 @@
     "Weight": 1.0
   },
   "VWE_Bow_Crossbow": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_Musket": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_Flintlock": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Throwing_Knives": {
@@ -14269,14 +14268,14 @@
     "Weight": 1.0
   },
   "VCE_Futomaki": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded - Sushi",
-    "QuantityLimit": -1,
+    "QuantityLimit": 10,
     "Weight": 1.0
   },
   "VCE_Gunkanmaki": {
@@ -14357,14 +14356,14 @@
     "Weight": 1.0
   },
   "VCE_CookedStewLavish": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded - Stews",
-    "QuantityLimit": -1,
+    "QuantityLimit": 10,
     "Weight": 1.0
   },
   "Rede": {
@@ -14642,14 +14641,14 @@
     "Weight": 1.0
   },
   "Nr_PowerArmor": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Nyaron race",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Nr_SUniform": {
@@ -17332,17 +17331,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_OCCombatVest": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "SmallShelf": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17351,611 +17339,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "[1.2] Small Shelf",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_NanoSpeed": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_NanoSkin": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_Reactive": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_NanoSuitHelmet": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_NanoSuit": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_OCShield": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_HC1Shield": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SeedSaguaro": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Wild Cultivation - Fan Update",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SeedClivia": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Wild Cultivation - Fan Update",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SeedBrambles": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Wild Cultivation - Fan Update",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SeedBryolux": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Wild Cultivation - Fan Update",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SeedAgarilux": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Wild Cultivation - Fan Update",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SeedGlowstool": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Wild Cultivation - Fan Update",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ET_Apparel_SpelHelm": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ET_Apparel_SpiderHelm": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ET_Apparel_ScarabHood": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ET_Apparel_DeerHood": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ET_Apparel_WolfHood": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_FSDesertWrap": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_FSFurHat": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_FSDesertRobe": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_FSFurCoat": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "ETRT: Tribal Apparel",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_Healroot": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_Devilstrand": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_Cotton": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_SaguaroCactus": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_TreeBamboo": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_TreePalm": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_TreeCecropia": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_TreeTeak": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_TreeBirch": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_TreePine": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_TreePoplar": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_TreeOak": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_TreeMaple": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_TreeCypress": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_TreeWillow": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_TreeDrago": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_Psychoid": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_Smokeleaf": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_Hops": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_Haygrass": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_Strawberry": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_Corn": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_Potato": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Seed_Rice": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "RawCocoaBeans": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "RawHealroot": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "PlantProcessingTable": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "SeedsPlease",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VG_CanningFactory": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Canning",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CanningFactory": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Canning",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CannedFruit": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Canning",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CannedMeat": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Canning",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CannedVeg": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Canning",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "MealCannedFood": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Canning",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -18146,510 +17529,638 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_OCHelmet": {
+  "Chemshine": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_OCPants": {
+  "ChemBoiler": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_OCShirt": {
+  "Chemlamp": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "EMTurret": {
+  "ChemlampPost": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "CannisterTurret": {
+  "Building_ChemshineBarrel": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AutoMortar": {
+  "StoolBar": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ClusterMortar": {
+  "TableCircular": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "EMPAMortar": {
+  "TableFaro": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "MissileTurret": {
+  "TableFiveFingerFilet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "CMissileTurret": {
+  "Turret_GatlingGun": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "FloodLight": {
+  "VFES_Headgear_Bandana": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "FissionBattery": {
+  "VFES_Headgear_Sombrero": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Titanium": {
+  "VFES_Headgear_FlatCap": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AlphaPoly": {
+  "Apparel_Vest": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BetaPoly": {
+  "Apparel_GreatDress": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "MagneticCoil": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Silicon": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ComputerComp": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Ethanol": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Bandage": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Serum": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GTEar": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GTEye": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GTArm": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GTLeg": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GTHeart": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GTLung": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GTKidney": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GTLiver": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GTStomach": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GTHand": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GTFoot": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GTDentures": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "OCExo": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Gun_APB-1Pistol": {
+  "VFES_Gun_DoubleActionRevolver": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gun_APB-1Projector": {
+  "VFES_Gun_DoubleBarreledShotgun": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gun_APB-1Rifle": {
+  "VFES_Gun_HuntingRifle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gun_EMRifle": {
+  "VFES_Weapon_GrenadeDynamite": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "MeleeWeapon_GTPacifier": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Gun_MRGPistol": {
+  "VFES_Tomahawk": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Factions Expanded - Settlers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gun_MRGRifle": {
+  "VWEFT_Gun_HeavyRevolver": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Weapons Expanded - Frontier",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gun_OCPDPistol": {
+  "VWEFT_Gun_VolcanicPistol": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Weapons Expanded - Frontier",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gun_OCPDRifle": {
+  "VWEFT_Gun_FrontierPistol": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Weapons Expanded - Frontier",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gun_OCRocket": {
+  "VWEFT_Gun_RollingBlockRifle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Vanilla Weapons Expanded - Frontier",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VHE_TableBarber": {
+  "VWEFT_Gun_RepeatingShotgun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded - Frontier",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_Gun_MakeshiftPistol": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded - Makeshift",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_Gun_MakeshiftSMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded - Makeshift",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_Gun_MakeshiftRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded - Makeshift",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_Gun_MakeshiftShotgun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded - Makeshift",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWE_Gun_MakeshiftLMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Weapons Expanded - Makeshift",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "FallArmory_HeavyCombatArmor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Hair Expanded",
+    "Mod": "Ancient Fallout Armory",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_Race_Tank": {
+  "Fallarmory_MediumCombatArmor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Glitter Tech",
+    "Mod": "Ancient Fallout Armory",
     "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Fallarmory_CombatarmorHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Ancient Fallout Armory",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "FallArmory_HeavyCombatArmorUS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Ancient Fallout Armory",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "FallArmory_CombatarmorHelmetUS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Ancient Fallout Armory",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Fallarmory_FlightHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Ancient Fallout Armory",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Fallarmory_USFlightHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Ancient Fallout Armory",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "FallArmory_HeavyMetalArmor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Ancient Fallout Armory",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Fallarmory_MediumMetalArmor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Ancient Fallout Armory",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Fallarmory_MetalArmorHelmetA": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Ancient Fallout Armory",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Fallarmory_MetalArmorHelmetB": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Ancient Fallout Armory",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EPOE_AdvancedDrillArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EPOE_AdvancedFieldHand": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EPOE_AdvancedHandTalon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EPOE_AdvancedElbowBlade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EPOE_AdvancedKneeSpike": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EPOE_ScytherHandTalon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EPOE_ScytherElbowBlade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EPOE_ScytherKneeSpike": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EPIA_CircadianRefresher": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EPOE_DetoxifierEnhancer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EPOE_DetoxifierSyntheticLiver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EPOE_ImmunoenhancerSyntheticKidney": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Techprint_EPOE_AdvancedSpecializedLimbs": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Techprint_EPOE_AdvancedCompactWeaponry": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Techprint_EPOE_SyntheticOrgansIntegration": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VWEFT_Gun_SalvagedLaserRevolver": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 1,
+    "Weight": 1.0
+  },
+  "VWEFT_Gun_SalvagedLaserRepeater": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 1,
     "Weight": 1.0
   }
 }
