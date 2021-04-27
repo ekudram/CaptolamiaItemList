@@ -17376,25 +17376,25 @@
     "Weight": 1.0
   },
   "bakedpolenta": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "grilledpolenta": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "smoothie": {
@@ -17497,14 +17497,14 @@
     "Weight": 1.0
   },
   "stirfry": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Vegetable Garden",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "bowlstew": {
