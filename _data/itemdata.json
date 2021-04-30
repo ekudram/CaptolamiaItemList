@@ -11,14 +11,14 @@
     "Weight": 1.0
   },
   "Wort": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 25,
     "Weight": 1.0
   },
   "Ambrosia": {
@@ -569,14 +569,14 @@
     "Weight": 1.0
   },
   "Telescope": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "OrbitalTradeBeacon": {
@@ -1161,14 +1161,14 @@
     "Weight": 1.0
   },
   "Milk": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "InsectJelly": {
@@ -2060,25 +2060,25 @@
     "Weight": 1.0
   },
   "Apparel_PsychicFoilHelmet": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_SmokepopBelt": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_PsychicShockLance": {
@@ -2378,25 +2378,25 @@
     "Weight": 1.0
   },
   "Gun_Autopistol": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gun_MachinePistol": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gun_IncendiaryLauncher": {
@@ -2422,14 +2422,14 @@
     "Weight": 1.0
   },
   "Gun_EmpLauncher": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gun_BoltActionRifle": {
@@ -2510,14 +2510,14 @@
     "Weight": 1.0
   },
   "Gun_Minigun": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Weapon_GrenadeFrag": {
@@ -3014,7 +3014,7 @@
     "Weight": 1.0
   },
   "YorkshireTerrier": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -5382,14 +5382,14 @@
     "Weight": 1.0
   },
   "Honey": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Vegetable Garden",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "Mead": {
@@ -5788,47 +5788,47 @@
     "Weight": 1.0
   },
   "Rawsugarcane": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "Sugar": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "Flour": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "Cornmeal": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "VeganEgg": {
@@ -8010,14 +8010,14 @@
     "Weight": 1.0
   },
   "M26RimTaser": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimTaser Reloaded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "X26RimTaser": {
@@ -8593,14 +8593,14 @@
     "Weight": 1.0
   },
   "Gun_MicroTurretLauncher": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Misc. TurretBase, Objects",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "NanoPrinter": {
@@ -10614,7 +10614,7 @@
     "Weight": 1.0
   },
   "AEXP_Shih-Tzu": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -11682,47 +11682,47 @@
     "Weight": 1.0
   },
   "VAE_Footwear_PlateBoots": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Footwear_MarineBoots": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Handwear_PlateGloves": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Handwear_MarineGloves": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_BulletproofVest": {
@@ -11827,14 +11827,14 @@
     "Weight": 1.0
   },
   "VAE_Apparel_PlateHelmet": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_WoodenArmor": {
@@ -11882,14 +11882,14 @@
     "Weight": 1.0
   },
   "VAE_Headgear_HeavyMarineHelmet": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Apparel_HeavyMarineArmor": {
@@ -11926,14 +11926,14 @@
     "Weight": 1.0
   },
   "VAE_Headgear_BallisticGoggles": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Armour Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VAE_Headgear_GhillieHood": {
@@ -12421,25 +12421,25 @@
     "Weight": 1.0
   },
   "VCE_DeepFriedBigMeat": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "VCE_DeepFriedVegetables": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "VCE_DeepFriedFish": {
@@ -12849,14 +12849,14 @@
     "Weight": 1.0
   },
   "VFE_RugGrand": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Furniture Expanded - Art",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VFE_Scarecrow": {
@@ -13586,25 +13586,25 @@
     "Weight": 1.0
   },
   "VWE_Gun_HandCannon": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_CombatHandgun": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_SawedOffShotgun": {
@@ -13619,36 +13619,36 @@
     "Weight": 1.0
   },
   "VWE_Gun_GrenadeLauncher": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_Flamethrower": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_FireExtinguisher": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_SemiAutomaticRifle": {
@@ -13674,14 +13674,14 @@
     "Weight": 1.0
   },
   "VWE_Gun_LightSMG": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_SMG": {
@@ -13696,14 +13696,14 @@
     "Weight": 1.0
   },
   "VWE_Gun_HMG": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_ServiceRifle": {
@@ -13828,58 +13828,58 @@
     "Weight": 1.0
   },
   "VWE_Bow_Long": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_ChargePistol": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_ChargeShotgun": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_ChargeSMG": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_ChargeLMG": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_ChargeSniperRifle": {
@@ -13894,14 +13894,14 @@
     "Weight": 1.0
   },
   "VWE_Gun_ChargeMinigun": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Gun_ChargeRocketLauncher": {
@@ -14169,14 +14169,14 @@
     "Weight": 1.0
   },
   "VCE_DeepFriedSushi": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded - Sushi",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "VCE_HumanSurimi": {
@@ -17343,14 +17343,14 @@
     "Weight": 1.0
   },
   "cheese": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
+    "QuantityLimit": 75,
     "Weight": 1.0
   },
   "meatpie": {
@@ -17882,14 +17882,14 @@
     "Weight": 1.0
   },
   "Fallarmory_CombatarmorHelmet": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Ancient Fallout Armory",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "FallArmory_HeavyCombatArmorUS": {
@@ -17904,36 +17904,36 @@
     "Weight": 1.0
   },
   "FallArmory_CombatarmorHelmetUS": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Ancient Fallout Armory",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Fallarmory_FlightHelmet": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Ancient Fallout Armory",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Fallarmory_USFlightHelmet": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Ancient Fallout Armory",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "FallArmory_HeavyMetalArmor": {
@@ -17959,25 +17959,25 @@
     "Weight": 1.0
   },
   "Fallarmory_MetalArmorHelmetA": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Ancient Fallout Armory",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Fallarmory_MetalArmorHelmetB": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Ancient Fallout Armory",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "EPOE_AdvancedDrillArm": {

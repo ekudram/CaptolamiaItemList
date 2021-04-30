@@ -3054,7 +3054,7 @@
   ],
   "races": [
     {
-      "price": 2917,
+      "price": 1000,
       "defName": "Human",
       "enabled": true,
       "name": "human",
@@ -3063,7 +3063,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 1500,
       "defName": "Alien_Nyaron",
       "enabled": true,
       "name": "Nyaron",
