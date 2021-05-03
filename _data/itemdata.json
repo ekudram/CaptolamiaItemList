@@ -1104,7 +1104,7 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": 10,
+    "QuantityLimit": 100,
     "Weight": 1.0
   },
   "MealFine": {
@@ -3447,14 +3447,14 @@
     "Weight": 1.0
   },
   "ReprocessorStomach": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "NuclearStomach": {
@@ -3861,14 +3861,14 @@
     "Weight": 1.0
   },
   "Apparel_RobeRoyal": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_HatLadies": {
@@ -3961,7 +3961,7 @@
     "Weight": 1.0
   },
   "Apparel_ArmorReconPrestige": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3971,18 +3971,18 @@
     "Weight": 1.0
   },
   "Apparel_ArmorHelmetReconPrestige": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ArmorMarinePrestige": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3992,14 +3992,14 @@
     "Weight": 1.0
   },
   "Apparel_ArmorMarineHelmetPrestige": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ArmorCataphract": {
@@ -4024,7 +4024,7 @@
     "Weight": 1.0
   },
   "Apparel_ArmorCataphractPrestige": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -4034,14 +4034,13 @@
     "Weight": 1.0
   },
   "Apparel_ArmorHelmetCataphractPrestige": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Apparel_ArmorLocust": {
@@ -5602,14 +5601,14 @@
     "Weight": 1.0
   },
   "Rawapple": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Three Sisters Plants",
-    "QuantityLimit": -1,
+    "QuantityLimit": 750,
     "Weight": 1.0
   },
   "Rawpeach": {
@@ -7760,6 +7759,7 @@
     "Weight": 1.0
   },
   "Apparello_Vandal": {
+    "CustomName": "appscarf",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -12212,14 +12212,14 @@
     "Weight": 1.0
   },
   "VCE_SimpleBake": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 100,
     "Weight": 1.0
   },
   "VCE_FineBake": {
@@ -12509,14 +12509,14 @@
     "Weight": 1.0
   },
   "VCE_SimpleGrill": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 100,
     "Weight": 1.0
   },
   "VCE_RuinedSimpleGrill": {
@@ -12619,14 +12619,14 @@
     "Weight": 1.0
   },
   "VCE_CookedSoupSimple": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 100,
     "Weight": 1.0
   },
   "VCE_UncookedSoupFine": {
@@ -13806,14 +13806,14 @@
     "Weight": 1.0
   },
   "VWE_Tool_Whip": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VWE_Throwing_Rocks": {
@@ -14312,14 +14312,14 @@
     "Weight": 1.0
   },
   "VCE_CookedStewSimple": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded - Stews",
-    "QuantityLimit": -1,
+    "QuantityLimit": 100,
     "Weight": 1.0
   },
   "VCE_UncookedStewFine": {
@@ -14575,25 +14575,25 @@
     "Weight": 1.0
   },
   "BionicStomach": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "BionicHeart": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Nr_CatHoodie": {
@@ -16751,14 +16751,14 @@
     "Weight": 1.0
   },
   "SyntheticSkin": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "NeuromuscularFramework": {
@@ -16960,36 +16960,36 @@
     "Weight": 1.0
   },
   "SyntheticLung": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "SyntheticLiver": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "SyntheticKidney": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "MuscleStimulator": {
@@ -17342,15 +17342,26 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
+  "xmasantlers": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[L] House Maid Nukos",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
   "cheese": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": 75,
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "meatpie": {
@@ -17515,17 +17526,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Vegetable Garden",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "plumbingValve": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Dubs Bad Hygiene",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -18091,25 +18091,25 @@
     "Weight": 1.0
   },
   "EPOE_DetoxifierSyntheticLiver": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "EPOE_ImmunoenhancerSyntheticKidney": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Techprint_EPOE_AdvancedSpecializedLimbs": {
@@ -18191,6 +18191,108 @@
     "Weight": 1.0
   },
   "VWE_Apparel_GrenadeToxicBelt": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 1,
+    "Weight": 1.0
+  },
+  "MaidnukosHair": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[L] House Maid Nukos",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MaidnukosMilk": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[L] House Maid Nukos",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Nukoidbell": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[L] House Maid Nukos",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "plumbingValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Bad Hygiene",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Maidnukos": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[L] House Maid Nukos",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Meat_Maidnukos": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[L] House Maid Nukos",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VAE_Apparel_RoyalSiegeArmor": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 1,
+    "Weight": 1.0
+  },
+  "VAE_Headgear_RoyalSiegeHelmet": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 1,
+    "Weight": 1.0
+  },
+  "VAE_Apparel_RoyalTrooperArmor": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 1,
+    "Weight": 1.0
+  },
+  "VAE_Headgear_RoyalTrooperHelmet": {
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,

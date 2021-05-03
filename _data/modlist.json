@@ -34,6 +34,12 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
@@ -612,10 +618,6 @@
     "name": "Jewelry",
     "steamId": "2020964421",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "Search and Destroy"
   },
   {
     "author": "Avius",
@@ -1236,6 +1238,10 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Roolo",
+    "name": "Search and Destroy"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
@@ -1246,5 +1252,9 @@
     "name": "Puppeteer",
     "steamId": "2057192142",
     "version": "1.5.5.0"
+  },
+  {
+    "author": "lolidrop",
+    "name": "[L] House Maid Nukos"
   }
 ]

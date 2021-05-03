@@ -1762,31 +1762,31 @@
       "abr": "prestigecataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPrestige",
-      "price": -10
+      "price": 6550
     },
     {
       "abr": "prestigemarinearmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarinePrestige",
-      "price": -10
+      "price": 4217
     },
     {
       "abr": "prestigereconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorReconPrestige",
-      "price": -10
+      "price": 3292
     },
     {
       "abr": "prestigesiegebreakerarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_RoyalSiegeArmor",
-      "price": -10
+      "price": 6758
     },
     {
       "abr": "prestigetrooperarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_RoyalTrooperArmor",
-      "price": -10
+      "price": 2425
     },
     {
       "abr": "quiltedvest",
@@ -2110,7 +2110,7 @@
       "abr": "reprocessorstomach",
       "category": "Bionic",
       "defname": "ReprocessorStomach",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "stoneskingland",
@@ -2122,13 +2122,13 @@
       "abr": "syntheticheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": -10
+      "price": 1483
     },
     {
       "abr": "syntheticstomach",
       "category": "Bionic",
       "defname": "BionicStomach",
-      "price": -10
+      "price": 1208
     },
     {
       "abr": "toughskingland",
@@ -4132,31 +4132,31 @@
       "abr": "prestigecataphracthelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetCataphractPrestige",
-      "price": -10
+      "price": 1925
     },
     {
       "abr": "prestigemarinehelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorMarineHelmetPrestige",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "prestigereconhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetReconPrestige",
-      "price": -10
+      "price": 1192
     },
     {
       "abr": "prestigesiegebreakerhelmet",
       "category": "Headgear",
       "defname": "VAE_Headgear_RoyalSiegeHelmet",
-      "price": -10
+      "price": 1958
     },
     {
       "abr": "prestigetrooperhelmet",
       "category": "Headgear",
       "defname": "VAE_Headgear_RoyalTrooperHelmet",
-      "price": -10
+      "price": 992
     },
     {
       "abr": "psychicfoilhelmet",
@@ -5182,7 +5182,7 @@
       "abr": "simplebake",
       "category": "Meals",
       "defname": "VCE_SimpleBake",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "simpledessert",
@@ -5194,7 +5194,7 @@
       "abr": "simplegrill",
       "category": "Meals",
       "defname": "VCE_SimpleGrill",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "simplemeal",
@@ -5206,13 +5206,13 @@
       "abr": "simplesoup",
       "category": "Meals",
       "defname": "VCE_CookedSoupSimple",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "simplestew",
       "category": "Meals",
       "defname": "VCE_CookedStewSimple",
-      "price": -10
+      "price": 23
     },
     {
       "abr": "temaki(lavish)",
@@ -6184,7 +6184,7 @@
       "abr": "prestigerobe",
       "category": "Noble apparel",
       "defname": "Apparel_RobeRoyal",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "cathoodie",
@@ -7618,7 +7618,7 @@
       "abr": "whip",
       "category": "Ranged weapons",
       "defname": "VWE_Tool_Whip",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "x12taser",
@@ -9718,25 +9718,25 @@
       "abr": "synthetickidney",
       "category": "Bionic",
       "defname": "SyntheticKidney",
-      "price": -10
+      "price": 1208
     },
     {
       "abr": "syntheticliver",
       "category": "Bionic",
       "defname": "SyntheticLiver",
-      "price": -10
+      "price": 1208
     },
     {
       "abr": "syntheticlung",
       "category": "Bionic",
       "defname": "SyntheticLung",
-      "price": -10
+      "price": 1208
     },
     {
       "abr": "synthetictissue",
       "category": "Bionic",
       "defname": "SyntheticSkin",
-      "price": -10
+      "price": 204
     },
     {
       "abr": "tacticalcorneaimplant",
@@ -10114,13 +10114,13 @@
       "abr": "syntheticdetoxifierliver",
       "category": "Bionic",
       "defname": "EPOE_DetoxifierSyntheticLiver",
-      "price": -10
+      "price": 3342
     },
     {
       "abr": "syntheticimmunoenhancedkidney",
       "category": "Bionic",
       "defname": "EPOE_ImmunoenhancerSyntheticKidney",
-      "price": -10
+      "price": 3342
     },
     {
       "abr": "techprint(advancedcompactweaponry)",
@@ -10177,11 +10177,47 @@
       "price": 350
     },
     {
+      "abr": "nuko",
+      "category": "Animal",
+      "defname": "Maidnukos",
+      "price": 1667
+    },
+    {
+      "abr": "nukohair",
+      "category": "Textiles",
+      "defname": "MaidnukosHair",
+      "price": 7
+    },
+    {
+      "abr": "nukoidbell",
+      "category": "Utility",
+      "defname": "Nukoidbell",
+      "price": 750
+    },
+    {
+      "abr": "nukomeat",
+      "category": "Meat",
+      "defname": "Meat_Maidnukos",
+      "price": 3
+    },
+    {
+      "abr": "nukomilk",
+      "category": "Animal products",
+      "defname": "MaidnukosMilk",
+      "price": 11
+    },
+    {
+      "abr": "xmasantlers",
+      "category": "Headgear",
+      "defname": "xmasantlers",
+      "price": 1000
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     }
   ],
-  "total": 1697
+  "total": 1703
 }

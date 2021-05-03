@@ -193,46 +193,6 @@
     "data": {
       "isShortcut": true
     },
-    "description": "A colony wide resurrector mech serum.",
-    "name": "Revive all",
-    "usage": "!reviveall",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "A personal resurrector mech serum.",
-    "name": "Revive me",
-    "usage": "!reviveme",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "A personal healer mech serum/",
-    "name": "Heal me",
-    "usage": "!healme",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "A colony wide healer mech serum.",
-    "name": "Healall",
-    "usage": "!healall",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
     "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
     "name": "Passion shuffle",
     "usage": "!passionshuffle [skill]",
@@ -266,26 +226,6 @@
     "description": "Removes a trait from our pawn.",
     "name": "Remove trait",
     "usage": "!removetrait",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "A resurrector mech serum for a random dead colonist.",
-    "name": "Revive any pawn",
-    "usage": "!reviveanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "A healer mech serum for a random colonist.",
-    "name": "Heal any pawn",
-    "usage": "!healanypawn",
     "userLevel": "Anyone",
     "shortcut": true
   },
