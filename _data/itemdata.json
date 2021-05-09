@@ -580,14 +580,14 @@
     "Weight": 1.0
   },
   "OrbitalTradeBeacon": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "FirefoamPopper": {
@@ -1115,7 +1115,7 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": 10,
+    "QuantityLimit": 100,
     "Weight": 1.0
   },
   "MealLavish": {
@@ -1584,7 +1584,7 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": 750,
+    "QuantityLimit": 1400,
     "Weight": 1.0
   },
   "Plasteel": {
@@ -3425,14 +3425,14 @@
     "Weight": 1.0
   },
   "LoveEnhancer": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "DetoxifierStomach": {
@@ -6866,6 +6866,7 @@
     "Weight": 1.0
   },
   "Apparello_Cookaprontosaurus": {
+    "CustomName": "cooksapron",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -14542,14 +14543,14 @@
     "Weight": 1.0
   },
   "SimpleProstheticHeart": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Joywire": {
@@ -16165,7 +16166,7 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": 1,
+    "QuantityLimit": 5,
     "Weight": 1.0
   },
   "Neurotrainer_Melee": {
@@ -17342,6 +17343,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
+  "RespirationRib": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
   "xmasantlers": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17508,17 +17520,6 @@
     "Weight": 1.0
   },
   "stirfry": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Vegetable Garden",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "bowlstew": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -18232,14 +18233,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "plumbingValve": {
+  "bowlstew": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "VGP Vegetable Garden",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -18299,6 +18300,28 @@
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "QuantityLimit": 1,
+    "Weight": 1.0
+  },
+  "WakeUpRib": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "plumbingValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Bad Hygiene",
+    "QuantityLimit": -1,
     "Weight": 1.0
   }
 }

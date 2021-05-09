@@ -217,7 +217,7 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 5000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -237,8 +237,8 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 5000,
-		"karmatype": "Doom"
+		"price": 10000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
@@ -312,22 +312,22 @@
 	},
 	{
 		"abr": "earthquake",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "cropsprout",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "drought",
-		"price": 1000,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "huntingparty",
-		"price": 1000,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{

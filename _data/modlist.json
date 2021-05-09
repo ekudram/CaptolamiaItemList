@@ -47,7 +47,7 @@
   },
   {
     "author": "mr_chimick",
-    "name": "Toolkit Bridge - Vanilla Events Expanded"
+    "name": "TwitchToolkit Bridge - Vanilla Events Expanded"
   },
   {
     "author": "hodlhodl",
@@ -128,6 +128,12 @@
     "name": "Giddy-up! Battle Mounts"
   },
   {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.7789.9895"
+  },
+  {
     "author": "mr.teterew",
     "name": "Real Ruins",
     "steamId": "1552146295",
@@ -147,7 +153,7 @@
     "author": "Loconeko",
     "name": "Roads of the Rim (Continued)",
     "steamId": "2280318231",
-    "version": "1.0.4.0"
+    "version": "1.0.5.0"
   },
   {
     "author": "Madeline",
@@ -637,7 +643,7 @@
     "author": "jptrrs",
     "name": "[JPT] Open The Windows",
     "steamId": "1971860929",
-    "version": "1.7.8"
+    "version": "2.0.4"
   },
   {
     "author": "Wemd",
@@ -659,7 +665,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.2.0.7"
+    "version": "1.2.0.8"
   },
   {
     "author": "Jaxe",
@@ -1031,13 +1037,13 @@
   },
   {
     "author": "Jabbamonkey",
-    "name": "VGP Veg Garden and Flora Reskin Match"
+    "name": "Flora Reskin Addon for Other Mods"
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
-    "version": "1.0.7528.166"
+    "version": "1.0.7794.34553"
   },
   {
     "author": "Uuugggg",
@@ -1256,5 +1262,35 @@
   {
     "author": "lolidrop",
     "name": "[L] House Maid Nukos"
+  },
+  {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius"
+  },
+  {
+    "author": "JDS_Mirai",
+    "name": "Ameiro anime hairs"
+  },
+  {
+    "author": "BaalEvan",
+    "name": "All Turrets Can Set Forced Target"
+  },
+  {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "1.0.0.0"
   }
 ]
