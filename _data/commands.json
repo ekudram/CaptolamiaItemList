@@ -273,16 +273,6 @@
     "data": {
       "isShortcut": false
     },
-    "description": "Heals all healable injuries your pawn currently has.",
-    "name": "Full heal",
-    "usage": "!fullheal",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
     "description": "Creates a prisoner rescue quest for your most recent pawn.",
     "name": "Rescue me",
     "usage": "!rescueme",

@@ -76,11 +76,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "volcanicwinter",
-		"price": 15000,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
@@ -156,11 +151,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
@@ -211,36 +201,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 5000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 5000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
-		"price": 10000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "manhunterpack",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -259,11 +219,6 @@
 		"abr": "disease",
 		"price": 1000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
@@ -351,13 +306,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "fullheal",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "passion",
-		"price": 3000,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
@@ -371,5 +321,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 74
+	"total": 64
 }

@@ -250,14 +250,14 @@
     "Weight": 1.0
   },
   "Bedroll": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "BedrollDouble": {
@@ -3524,14 +3524,14 @@
     "Weight": 1.0
   },
   "HandTalon": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "ElbowBlade": {
@@ -3568,14 +3568,14 @@
     "Weight": 1.0
   },
   "VenomTalon": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Royalty",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "PsychicAmplifier": {
@@ -4245,39 +4245,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Roads of the Rim (Continued)",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "FM_BasicManagerStation": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Colony Manager",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "FM_ManagerStation": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Colony Manager",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "FM_AIManager": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Colony Manager",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -5238,14 +5205,14 @@
     "Weight": 1.0
   },
   "RawBerries": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Vegetable Garden",
-    "QuantityLimit": -1,
+    "QuantityLimit": 750,
     "Weight": 1.0
   },
   "Rawbanana": {
@@ -5590,14 +5557,14 @@
     "Weight": 1.0
   },
   "RawAvocado": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP More Veggies",
-    "QuantityLimit": -1,
+    "QuantityLimit": 750,
     "Weight": 1.0
   },
   "Rawapple": {
@@ -6378,14 +6345,14 @@
     "Weight": 1.0
   },
   "LumberApple": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Woodworking for Vegetable Garden Project",
-    "QuantityLimit": -1,
+    "QuantityLimit": 750,
     "Weight": 1.0
   },
   "LumberCherry": {
@@ -9944,47 +9911,47 @@
     "Weight": 1.0
   },
   "VCEF_RawAnchovy": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Fishing Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 750,
     "Weight": 1.0
   },
   "VCEF_RawAngelfish": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Fishing Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 750,
     "Weight": 1.0
   },
   "VCEF_RawAnglerfish": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Fishing Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 750,
     "Weight": 1.0
   },
   "VCEF_RawBass": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Fishing Expanded",
-    "QuantityLimit": -1,
+    "QuantityLimit": 750,
     "Weight": 1.0
   },
   "VCEF_RawCatfish": {
@@ -14411,14 +14378,14 @@
     "Weight": 1.0
   },
   "BionicArm": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "BionicLeg": {
@@ -14664,14 +14631,14 @@
     "Weight": 1.0
   },
   "Nr_BioCatTail": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Nyaron race",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Leather_Nyaron": {
@@ -17641,14 +17608,14 @@
     "Weight": 1.0
   },
   "VFES_Headgear_Bandana": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Factions Expanded - Settlers",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "VFES_Headgear_Sombrero": {
@@ -17982,14 +17949,14 @@
     "Weight": 1.0
   },
   "EPOE_AdvancedDrillArm": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "EPOE_AdvancedFieldHand": {
@@ -18004,36 +17971,36 @@
     "Weight": 1.0
   },
   "EPOE_AdvancedHandTalon": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "EPOE_AdvancedElbowBlade": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "EPOE_AdvancedKneeSpike": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "EPOE_ScytherHandTalon": {
@@ -18322,6 +18289,15 @@
     "KarmaType": "Neutral",
     "Mod": "Dubs Bad Hygiene",
     "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "D9Ash": {
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 200,
     "Weight": 1.0
   }
 }

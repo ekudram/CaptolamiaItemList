@@ -1130,7 +1130,7 @@
 	},
 	{
 		"abr": "overalls",
-		"price": 321,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Apparello_XcomOne"
 	},
@@ -1610,19 +1610,19 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
@@ -6517,22 +6517,10 @@
 		"defname": "VFE_SmallBattery"
 	},
 	{
-		"abr": "aimanager",
-		"price": -10,
-		"category": "Production",
-		"defname": "FM_AIManager"
-	},
-	{
 		"abr": "artbench",
 		"price": -10,
 		"category": "Production",
 		"defname": "TableSculpting"
-	},
-	{
-		"abr": "basicmanagerdesk",
-		"price": -10,
-		"category": "Production",
-		"defname": "FM_BasicManagerStation"
 	},
 	{
 		"abr": "blackboard",
@@ -6781,12 +6769,6 @@
 		"defname": "TableMachining"
 	},
 	{
-		"abr": "managerdesk",
-		"price": -10,
-		"category": "Production",
-		"defname": "FM_ManagerStation"
-	},
-	{
 		"abr": "millingstone",
 		"price": -10,
 		"category": "Production",
@@ -6914,7 +6896,7 @@
 	},
 	{
 		"abr": "handtalon",
-		"price": -10,
+		"price": 575,
 		"category": "Prosthetic",
 		"defname": "HandTalon"
 	},
@@ -6974,7 +6956,7 @@
 	},
 	{
 		"abr": "venomtalon",
-		"price": -10,
+		"price": 575,
 		"category": "Prosthetic",
 		"defname": "VenomTalon"
 	},
@@ -10223,7 +10205,7 @@
 		"price": 1017,
 		"category": "Bionic",
 		"defname": "WakeUpRib"
-	}
+	},
 	],
-	"total": 1704
+	"total": 1701
 }

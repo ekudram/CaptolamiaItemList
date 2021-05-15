@@ -228,12 +228,6 @@
     "version": "3.8.1038"
   },
   {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.33.649"
-  },
-  {
     "author": "Oskar Potocki, Taranchuk, Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
@@ -643,7 +637,7 @@
     "author": "jptrrs",
     "name": "[JPT] Open The Windows",
     "steamId": "1971860929",
-    "version": "2.0.4"
+    "version": "2.2.0"
   },
   {
     "author": "Wemd",
@@ -1196,10 +1190,6 @@
   {
     "author": "Tarojun",
     "name": "EPOE-Forked: Alien expansion + patcher"
-  },
-  {
-    "author": "Wemd",
-    "name": "[WD] Expanded Floors"
   },
   {
     "author": "Weilbyte",
