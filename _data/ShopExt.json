@@ -82,6 +82,43 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "defName": "Adorable",
+      "degree": 0,
+      "name": "adorable",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+5 social",
+          "+5 animals",
+          "+5 plants",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+2.0 beauty",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ]
+      },
+      "description": "Timmy is adorable being with smooth and charming voice. There is something mysterious about him that attracts everyone around. Even plants start to bloom around Timmy...",
+      "stats": [
+        "+5 social",
+        "+5 animals",
+        "+5 plants",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+2.0 beauty",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "VTE_AnimalHater",
       "degree": 0,
       "name": "animalhater",
@@ -289,6 +326,35 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "defName": "BleedingHeart",
+      "degree": 0,
+      "name": "bleedingheart",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "psychopath",
+          "bloodlust",
+          "cannibal",
+          "desensitized"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy has a big heart and gets very emotional. he loves helping people, and abhors violence and injustice. he is more affected by these things than others.",
+      "stats": [],
+      "conflicts": [
+        "psychopath",
+        "bloodlust",
+        "cannibal",
+        "desensitized"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "Bloodlust",
       "degree": 0,
       "name": "bloodlust",
@@ -478,6 +544,25 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "defName": "Chatty",
+      "degree": 0,
+      "name": "chatty",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy just talks and talks and talks... and talks. he tends to have longer conversations than most, because he can't seem to end them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "DrugDesire",
       "degree": 2,
       "name": "chemicalfascination",
@@ -531,6 +616,31 @@
       "stats": [],
       "conflicts": [
         "nimble"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Codependent",
+      "degree": 0,
+      "name": "codependent",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "lecher",
+          "polyamorous"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is romantically needy and won't be happy unless in a relationship. he will be devastated by infidelity and breakups.",
+      "stats": [],
+      "conflicts": [
+        "lecher",
+        "polyamorous"
       ],
       "bypassLimit": false
     },
@@ -665,6 +775,33 @@
       "stats": [],
       "conflicts": [
         "squeamish"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Desensitized",
+      "degree": 0,
+      "name": "desensitized",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "bleedingheart",
+          "psychopath",
+          "bloodlust"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy has seen enough violence and death that it no longer shocks him like it used to.",
+      "stats": [],
+      "conflicts": [
+        "bleedingheart",
+        "psychopath",
+        "bloodlust"
       ],
       "bypassLimit": false
     },
@@ -822,6 +959,39 @@
         "+20% butchery efficiency"
       ],
       "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Faith",
+      "degree": 0,
+      "name": "faith",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "carefulshooter",
+          "trigger-happy",
+          "wimp"
+        ],
+        "customName": false,
+        "stats": [
+          "+10% pain shock threshold",
+          "-15% mental break threshold"
+        ]
+      },
+      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
+      "stats": [
+        "+10% pain shock threshold",
+        "-15% mental break threshold"
+      ],
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "wimp"
+      ],
       "bypassLimit": false
     },
     {
@@ -1011,6 +1181,31 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "defName": "Gourmet",
+      "degree": 0,
+      "name": "gourmet",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "cannibal",
+          "ascetic"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is always a critic when it comes to food. he expects to be fed well and will complain if his meals aren't up to par.",
+      "stats": [],
+      "conflicts": [
+        "cannibal",
+        "ascetic"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "GreatMemory",
       "degree": 0,
       "name": "greatmemory",
@@ -1107,6 +1302,31 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "defName": "HatesDumbLabor",
+      "degree": 0,
+      "name": "hatesdumblabor",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "-20% general labor speed",
+          "-25 carrying capacity"
+        ]
+      },
+      "description": "Timmy detests manual labor, feeling that tasks such as cleaning and hauling are beneath him. he will perform such tasks more slowly than others would, and will also carry less per load when required to haul.",
+      "stats": [
+        "-20% general labor speed",
+        "-25 carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "VTE_HeatInclined",
       "degree": 0,
       "name": "heatinclined",
@@ -1126,6 +1346,33 @@
       ],
       "conflicts": [
         "coldinclined"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "HeavySleeper",
+      "degree": 0,
+      "name": "heavysleeper",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "insomniac",
+          "neurotic",
+          "veryneurotic"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy sleeps like a rock, never bothered by adverse sleeping conditions, but is difficult to wake up.",
+      "stats": [],
+      "conflicts": [
+        "insomniac",
+        "neurotic",
+        "veryneurotic"
       ],
       "bypassLimit": false
     },
@@ -1214,6 +1461,29 @@
         "prude",
         "asexual",
         "nudist"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Insomniac",
+      "degree": 0,
+      "name": "insomniac",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "heavysleeper"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy finds it difficult to sleep because of his condition. he will prioritize sleep less, wake up sooner, and get less rest from sleeping.",
+      "stats": [],
+      "conflicts": [
+        "heavysleeper"
       ],
       "bypassLimit": false
     },
@@ -1413,6 +1683,33 @@
         "-20% global work speed"
       ],
       "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Lecher",
+      "degree": 0,
+      "name": "lecher",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "codependent",
+          "prude",
+          "open-minded"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is unabashedly lecherous and a thoughtless heartbreaker. he will hit on anyone he desires with no regard for the consequences.",
+      "stats": [],
+      "conflicts": [
+        "codependent",
+        "prude",
+        "open-minded"
+      ],
       "bypassLimit": false
     },
     {
@@ -1776,6 +2073,39 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "defName": "OpenMinded",
+      "degree": 0,
+      "name": "open-minded",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "prude",
+          "lecher",
+          "misandrist",
+          "misogynist",
+          "bodypurist",
+          "psychopath"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy sees people for what they are on the inside, not the outside. he doesn't judge others for their appearances.",
+      "stats": [],
+      "conflicts": [
+        "prude",
+        "lecher",
+        "misandrist",
+        "misogynist",
+        "bodypurist",
+        "psychopath"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "NaturalMood",
       "degree": 1,
       "name": "optimist",
@@ -1788,6 +2118,29 @@
       "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
       "stats": [],
       "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Outdoorsy",
+      "degree": 0,
+      "name": "outdoorsy",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "undergrounder"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy loves to be outside. he gets a mood bonus when there is no roof over his head.",
+      "stats": [],
+      "conflicts": [
+        "undergrounder"
+      ],
       "bypassLimit": false
     },
     {
@@ -1830,6 +2183,69 @@
       "description": "Timmy tends to look on the bad side of life.",
       "stats": [],
       "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Photosensitive",
+      "degree": 0,
+      "name": "photosensitive",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy has eyes, either through gene modding or random mutation, that are extremely light-sensitive. he finds bright light extremely painful and indoor lighting bothersome, and will be happiest in the dark.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Pluviophile",
+      "degree": 0,
+      "name": "pluviophile",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy likes the rain. he gets a mood bonus when it's pouring outside, especially if he gets to go out in it.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Polygamous",
+      "degree": 0,
+      "name": "polyamorous",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "prude",
+          "codependent"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy doesn't see any problem with having multiple partners. he doesn't mind if his partner romances other people, but will be less happy in a restraining, monogamous relationship.",
+      "stats": [],
+      "conflicts": [
+        "prude",
+        "codependent"
+      ],
       "bypassLimit": false
     },
     {
@@ -1906,6 +2322,35 @@
       "conflicts": [
         "insatiable",
         "nudist"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Prude",
+      "degree": 0,
+      "name": "prude",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "nudist",
+          "lecher",
+          "polyamorous",
+          "open-minded"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy hates the sight of the human body. he will be extremely unhappy when naked, more displeased than usual in tattered or worn-out clothing, and dislike the sight of other naked people.",
+      "stats": [],
+      "conflicts": [
+        "nudist",
+        "lecher",
+        "polyamorous",
+        "open-minded"
       ],
       "bypassLimit": false
     },
@@ -2175,6 +2620,37 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "defName": "Sedentary",
+      "degree": 0,
+      "name": "sedentary",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger"
+        ],
+        "customName": false,
+        "stats": [
+          "-0.15 move speed"
+        ]
+      },
+      "description": "Timmy isn't a very active person. he isn't very physically fit, but he enjoys sitting around all day working on things.",
+      "stats": [
+        "-0.15 move speed"
+      ],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "Immunity",
       "degree": -1,
       "name": "sickly",
@@ -2331,6 +2807,25 @@
       "conflicts": [
         "ascetic"
       ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Socialite",
+      "degree": 0,
+      "name": "socialite",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy loves to party! his mere presence inspires more parties in the colony, because everyone enjoys partying with him.",
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false
     },
     {
@@ -2828,6 +3323,25 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "defName": "Unstable",
+      "degree": 0,
+      "name": "unstable",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is more prone to random mood swings, which can be more severe than normal for others.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "VTE_Vengeful",
       "degree": 0,
       "name": "vengeful",
@@ -3054,7 +3568,34 @@
   ],
   "races": [
     {
-      "price": 1000,
+      "price": 1,
+      "defName": "Alien_Bunlander",
+      "enabled": true,
+      "name": "Bun",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1,
+      "defName": "Alien_BunTribeNew",
+      "enabled": true,
+      "name": "bun2",
+      "data": {
+        "customName": true
+      }
+    },
+    {
+      "price": 1,
+      "defName": "Alien_BunTribe",
+      "enabled": true,
+      "name": "bun3",
+      "data": {
+        "customName": true
+      }
+    },
+    {
+      "price": 1,
       "defName": "Human",
       "enabled": true,
       "name": "human",
@@ -3063,10 +3604,37 @@
       }
     },
     {
-      "price": 1500,
+      "price": 1,
       "defName": "Alien_Nyaron",
       "enabled": true,
       "name": "Nyaron",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1,
+      "defName": "Ratkin",
+      "enabled": true,
+      "name": "Ratkin",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1,
+      "defName": "Ratkin_Su",
+      "enabled": true,
+      "name": "Ratkin subject",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1,
+      "defName": "Vulpes",
+      "enabled": true,
+      "name": "Vulpes",
       "data": {
         "customName": false
       }
