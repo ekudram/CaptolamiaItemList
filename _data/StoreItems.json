@@ -50,7 +50,7 @@
 	},
 	{
 		"abr": "arcticwolf",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Wolf_Arctic"
 	},
@@ -170,7 +170,7 @@
 	},
 	{
 		"abr": "chicken",
-		"price": -10,
+		"price": 83,
 		"category": "Animal",
 		"defname": "Chicken"
 	},
@@ -320,13 +320,13 @@
 	},
 	{
 		"abr": "goat",
-		"price": -10,
+		"price": 333,
 		"category": "Animal",
 		"defname": "Goat"
 	},
 	{
 		"abr": "goose",
-		"price": -10,
+		"price": 150,
 		"category": "Animal",
 		"defname": "Goose"
 	},
@@ -374,7 +374,7 @@
 	},
 	{
 		"abr": "horse",
-		"price": -10,
+		"price": 917,
 		"category": "Animal",
 		"defname": "Horse"
 	},
@@ -2402,7 +2402,7 @@
 	},
 	{
 		"abr": "smokeleafjoint",
-		"price": -10,
+		"price": 18,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint"
 	},
@@ -3800,7 +3800,7 @@
 	},
 	{
 		"abr": "empgrenades",
-		"price": -10,
+		"price": 475,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeEMP"
 	},
@@ -3812,7 +3812,7 @@
 	},
 	{
 		"abr": "fraggrenades",
-		"price": -10,
+		"price": 442,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeFrag"
 	},
@@ -5930,7 +5930,7 @@
 	},
 	{
 		"abr": "orbitaltradebeacon",
-		"price": 185,
+		"price": -10,
 		"category": "Misc",
 		"defname": "OrbitalTradeBeacon"
 	},
@@ -6843,7 +6843,7 @@
 	{
 		"abr": "powerclaw",
 		"price": -10,
-		"category": "Prosthetic",
+		"category": "Modules",
 		"defname": "PowerClaw"
 	},
 	{
@@ -7370,7 +7370,7 @@
 	},
 	{
 		"abr": "pila",
-		"price": -10,
+		"price": 275,
 		"category": "Ranged weapons",
 		"defname": "Pila"
 	},
@@ -7394,7 +7394,7 @@
 	},
 	{
 		"abr": "recurvebow",
-		"price": -10,
+		"price": 163,
 		"category": "Ranged weapons",
 		"defname": "Bow_Recurve"
 	},
@@ -7454,7 +7454,7 @@
 	},
 	{
 		"abr": "shortbow",
-		"price": -10,
+		"price": 114,
 		"category": "Ranged weapons",
 		"defname": "Bow_Short"
 	},
@@ -9169,12 +9169,6 @@
 		"defname": "AdrenalineRib"
 	},
 	{
-		"abr": "advancedbionicarm",
-		"price": 3408,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicArm"
-	},
-	{
 		"abr": "advancedbionicear",
 		"price": 2150,
 		"category": "Ultratech",
@@ -9187,52 +9181,16 @@
 		"defname": "AdvancedBionicEye"
 	},
 	{
-		"abr": "advancedbionicfinger",
-		"price": 550,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicFinger"
-	},
-	{
-		"abr": "advancedbionicfoot",
-		"price": 2142,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicFoot"
-	},
-	{
-		"abr": "advancedbionichand",
-		"price": 2142,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicHand"
-	},
-	{
 		"abr": "advancedbionicjaw",
 		"price": 2300,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicJaw"
 	},
 	{
-		"abr": "advancedbionicleg",
-		"price": 3408,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicLeg"
-	},
-	{
 		"abr": "advancedbionicspine",
 		"price": 3408,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicSpine"
-	},
-	{
-		"abr": "advancedbionictoe",
-		"price": 550,
-		"category": "Ultratech",
-		"defname": "AdvancedBionicToe"
-	},
-	{
-		"abr": "advancedpowerarm",
-		"price": 4642,
-		"category": "Ultratech",
-		"defname": "AdvancedPowerArm"
 	},
 	{
 		"abr": "aichip",
@@ -9487,12 +9445,6 @@
 		"defname": "PainkillerRib"
 	},
 	{
-		"abr": "powerarm",
-		"price": -10,
-		"category": "Bionic",
-		"defname": "PowerArm"
-	},
-	{
 		"abr": "prostheticfinger",
 		"price": -10,
 		"category": "Prosthetic",
@@ -9673,36 +9625,6 @@
 		"defname": "TMB_StatueOfColonistK"
 	},
 	{
-		"abr": "advancedbionicelbowblade",
-		"price": 3842,
-		"category": "Ultratech",
-		"defname": "EPOE_AdvancedElbowBlade"
-	},
-	{
-		"abr": "advancedbionichandtalon",
-		"price": 3092,
-		"category": "Ultratech",
-		"defname": "EPOE_AdvancedHandTalon"
-	},
-	{
-		"abr": "advancedbionickneespike",
-		"price": 3842,
-		"category": "Ultratech",
-		"defname": "EPOE_AdvancedKneeSpike"
-	},
-	{
-		"abr": "advanceddrillarm",
-		"price": 3100,
-		"category": "Ultratech",
-		"defname": "EPOE_AdvancedDrillArm"
-	},
-	{
-		"abr": "advancedfieldhand",
-		"price": 2500,
-		"category": "Ultratech",
-		"defname": "EPOE_AdvancedFieldHand"
-	},
-	{
 		"abr": "bandana",
 		"price": 91,
 		"category": "Headgear",
@@ -9713,24 +9635,6 @@
 		"price": -10,
 		"category": "Furniture",
 		"defname": "StoolBar"
-	},
-	{
-		"abr": "bionicelbowblade",
-		"price": 2767,
-		"category": "Bionic",
-		"defname": "EPOE_ScytherElbowBlade"
-	},
-	{
-		"abr": "bionichandtalon",
-		"price": 2017,
-		"category": "Bionic",
-		"defname": "EPOE_ScytherHandTalon"
-	},
-	{
-		"abr": "bionickneespike",
-		"price": 2767,
-		"category": "Bionic",
-		"defname": "EPOE_ScytherKneeSpike"
 	},
 	{
 		"abr": "chemboiler",
@@ -9991,18 +9895,6 @@
 		"defname": "EPOE_ImmunoenhancerSyntheticKidney"
 	},
 	{
-		"abr": "techprint(advancedcompactweaponry)",
-		"price": -10,
-		"category": "Techprints",
-		"defname": "Techprint_EPOE_AdvancedCompactWeaponry"
-	},
-	{
-		"abr": "techprint(advancedspecializedlimbs)",
-		"price": -10,
-		"category": "Techprints",
-		"defname": "Techprint_EPOE_AdvancedSpecializedLimbs"
-	},
-	{
 		"abr": "techprint(syntheticorganintegration)",
 		"price": -10,
 		"category": "Techprints",
@@ -10124,7 +10016,7 @@
 	},
 	{
 		"abr": "bionictail",
-		"price": 1717,
+		"price": -10,
 		"category": "Alien tails (original)",
 		"defname": "RK_BionicTail"
 	},
@@ -10418,7 +10310,7 @@
 	},
 	{
 		"abr": "ratkinmaskhelmet",
-		"price": 1092,
+		"price": -10,
 		"category": "Ratkin apparel",
 		"defname": "RK_Mask"
 	},
@@ -11148,6 +11040,72 @@
 		"category": "Leathers",
 		"defname": "Vulpian_leather"
 	},
+	{
+		"abr": "prisonjumpsuit",
+		"price": 279,
+		"category": "Prison apparel",
+		"defname": "CPApparel_PrisonJumpsuit"
+	},
+	{
+		"abr": "advancedprocessingmodule",
+		"price": 1858,
+		"category": "Modules",
+		"defname": "ModuleEfficiency"
+	},
+	{
+		"abr": "archotechfinger",
+		"price": 417,
+		"category": "Archotech",
+		"defname": "ArchotechFinger"
+	},
+	{
+		"abr": "archotechfoot",
+		"price": 750,
+		"category": "Archotech",
+		"defname": "ArchotechFoot"
+	},
+	{
+		"abr": "archotechforearm",
+		"price": 583,
+		"category": "Archotech",
+		"defname": "ArchotechForearm"
+	},
+	{
+		"abr": "archotechhand",
+		"price": 500,
+		"category": "Archotech",
+		"defname": "ArchotechHand"
+	},
+	{
+		"abr": "archotechinternalsupport",
+		"price": 333,
+		"category": "Archotech",
+		"defname": "ArchotechInternalSupport"
+	},
+	{
+		"abr": "archotechtoe",
+		"price": 333,
+		"category": "Archotech",
+		"defname": "ArchotechToe"
+	},
+	{
+		"abr": "bionicforearm",
+		"price": 350,
+		"category": "Bionic",
+		"defname": "BionicForearm"
+	},
+	{
+		"abr": "bionicinternalsupport",
+		"price": 191,
+		"category": "Bionic",
+		"defname": "BionicInternalSupport"
+	},
+	{
+		"abr": "fieldfinger",
+		"price": 91,
+		"category": "Prosthetic",
+		"defname": "FieldFinger"
+	}
 	],
-	"total": 1858
+	"total": 1869
 }

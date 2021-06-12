@@ -99,14 +99,14 @@
     "Weight": 1.0
   },
   "SmokeleafJoint": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 150,
     "Weight": 1.0
   },
   "WakeUp": {
@@ -2521,14 +2521,13 @@
     "Weight": 1.0
   },
   "Weapon_GrenadeFrag": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
-    "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Weapon_GrenadeMolotov": {
@@ -2543,14 +2542,14 @@
     "Weight": 1.0
   },
   "Weapon_GrenadeEMP": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Gun_InfernoCannon": {
@@ -2794,7 +2793,7 @@
     "Weight": 1.0
   },
   "Chicken": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -2864,13 +2863,13 @@
     "Weight": 1.0
   },
   "Goose": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "Mod": "RimWorld",
-    "QuantityLimit": 1,
+    "QuantityLimit": 10,
     "Weight": 1.0
   },
   "Sheep": {
@@ -16238,25 +16237,26 @@
     "QuantityLimit": 1,
     "Weight": 1.0
   },
-  "AdvancedBionicArm": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "AdvancedBionicLeg": {
-    "HasQuantityLimit": true,
+  "BionicInternalSupport": {
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": 1,
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ArchotechToe": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "AdvancedBionicSpine": {
@@ -16281,48 +16281,48 @@
     "QuantityLimit": 1,
     "Weight": 1.0
   },
-  "AdvancedBionicHand": {
-    "HasQuantityLimit": true,
+  "ArchotechFoot": {
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": 1,
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AdvancedBionicFoot": {
-    "HasQuantityLimit": true,
+  "ArchotechFinger": {
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": 1,
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AdvancedBionicFinger": {
-    "HasQuantityLimit": true,
+  "ArchotechHand": {
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": 1,
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AdvancedBionicToe": {
-    "HasQuantityLimit": true,
+  "ArchotechForearm": {
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": 1,
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "AdvancedBionicJaw": {
@@ -16336,15 +16336,15 @@
     "QuantityLimit": 1,
     "Weight": 1.0
   },
-  "AdvancedPowerArm": {
-    "HasQuantityLimit": true,
+  "ArchotechInternalSupport": {
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
-    "QuantityLimit": 1,
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "ExoskeletonSuit": {
@@ -16457,14 +16457,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "PowerArm": {
+  "SimpleProstheticTibia": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Medical System Expansion 2",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -17731,92 +17731,92 @@
     "QuantityLimit": 1,
     "Weight": 1.0
   },
-  "EPOE_AdvancedDrillArm": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "EPOE_AdvancedFieldHand": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "EPOE_AdvancedHandTalon": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "EPOE_AdvancedElbowBlade": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "EPOE_AdvancedKneeSpike": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "EPOE_ScytherHandTalon": {
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": 1,
-    "Weight": 1.0
-  },
-  "EPOE_ScytherElbowBlade": {
+  "SimpleProstheticFemur": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "Mod": "Medical System Expansion 2",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "EPOE_ScytherKneeSpike": {
-    "HasQuantityLimit": true,
+  "SimpleProstheticRadius": {
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "QuantityLimit": 1,
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SimpleProstheticHumerus": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SimpleProstheticClavicle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SimpleProstheticSternum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "PlasteelTibia": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "PlasteelFemur": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "PlasteelRadius": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
     "Weight": 1.0
   },
   "EPIA_CircadianRefresher": {
@@ -17863,25 +17863,25 @@
     "QuantityLimit": 1,
     "Weight": 1.0
   },
-  "Techprint_EPOE_AdvancedSpecializedLimbs": {
+  "PlasteelHumerus": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "Mod": "Medical System Expansion 2",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Techprint_EPOE_AdvancedCompactWeaponry": {
+  "PlasteelClavicle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "Mod": "Medical System Expansion 2",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -18463,6 +18463,7 @@
     "Weight": 1.0
   },
   "RK_Mask": {
+    "CustomName": "ratkinmaskhelmet1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -19133,14 +19134,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "xmasantlers": {
+  "PlasteelSternum": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[L] House Maid Nukos",
+    "Mod": "Medical System Expansion 2",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -19628,6 +19629,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
+  "CPApparel_PrisonJumpsuit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[CP] Prisoner Outfit",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
   "plumbingValve": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19706,17 +19718,6 @@
     "Weight": 1.0
   },
   "yy_ammo_primitive_emp": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_primitive_fire": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -20032,6 +20033,127 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Bun Race",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_primitive_fire": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "BionicForearm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "SimpleProstheticForearm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "RangedPlatformModule": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MeleePlatformModule": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ModuleEfficiency": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MechanicalInternalSupport": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MechanicalManipulator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MechanicalFinger": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "FieldFinger": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Medical System Expansion 2",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "xmasantlers": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[L] House Maid Nukos",
     "QuantityLimit": -1,
     "Weight": 1.0
   }
