@@ -10489,7 +10489,7 @@
     "Weight": 1.0
   },
   "AEXP_GermanShepherd": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -19190,14 +19190,14 @@
     "Weight": 1.0
   },
   "Cynobun": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Bun Race",
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0
   },
   "Alien_Bunlander": {
@@ -19343,6 +19343,28 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
+  "RG_RawCactus": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "ReGrowth: Core",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "xmasantlers": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[L] House Maid Nukos",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
   "cheese": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19398,28 +19420,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "smoothie": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "icecream": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Gun_AntiArmor_Rocket": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19431,7 +19431,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "yogurt": {
+  "smoothie": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -19541,6 +19541,28 @@
     "QuantityLimit": 750,
     "Weight": 1.0
   },
+  "icecream": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yogurt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
   "pizza": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19607,6 +19629,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
+  "CPApparel_PrisonJumpsuit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[CP] Prisoner Outfit",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
   "stirfry": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19626,17 +19659,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Vegetable Garden",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CPApparel_PrisonJumpsuit": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "[CP] Prisoner Outfit",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -19696,28 +19718,6 @@
     "Weight": 1.0
   },
   "yy_ammo_industrial_fire": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_industrial": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_primitive_emp": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -20036,7 +20036,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "yy_ammo_primitive_fire": {
+  "yy_ammo_industrial": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -20146,14 +20146,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "xmasantlers": {
+  "yy_ammo_primitive_emp": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[L] House Maid Nukos",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_primitive_fire": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
     "QuantityLimit": -1,
     "Weight": 1.0
   }

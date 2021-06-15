@@ -40,6 +40,10 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Neceros",
+    "name": "Metal Don't Burn"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Map Reroll"
   },
@@ -48,6 +52,12 @@
     "name": "ToolkitCore",
     "steamId": "2018368654",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Realistic Human Sounds (Continued)",
+    "steamId": "2013191418",
+    "version": "1.0.9.0"
   },
   {
     "author": "hodlhodl",
@@ -190,15 +200,27 @@
     "name": "Giddy-up! Battle Mounts"
   },
   {
+    "author": "Roolo",
+    "name": "Dual Wield",
+    "steamId": "1628211313",
+    "version": "0.5.0.0"
+  },
+  {
     "author": "YAYO",
     "name": "Yayo's Combat 3",
     "steamId": "2038409475",
-    "version": "0.5.0.0"
+    "version": "1.0.0.0"
   },
   {
     "author": "erdelf",
     "name": "Humanoid Alien Races 2.0",
     "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Fill backstories",
+    "steamId": "2407610901",
     "version": "1.0.0.0"
   },
   {
@@ -233,6 +255,12 @@
     "author": "Oskar Potocki, Taranchuk",
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "Reinforced Walls",
+    "steamId": "1929389479",
     "version": "1.0.0.0"
   },
   {
@@ -558,8 +586,10 @@
     "name": "Simple sidearms"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time"
+    "author": "Netrve",
+    "name": "Hunters Use Melee!",
+    "steamId": "2062709324",
+    "version": "1.1.3.0"
   },
   {
     "author": "notfood",
@@ -792,10 +822,6 @@
     "name": "EdB Prepare Carefully"
   },
   {
-    "author": "cucumpear",
-    "name": "No Burny (less flammable metals)"
-  },
-  {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
@@ -835,6 +861,12 @@
     "author": "Oskar Potocki, Sarg Bjornson",
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien, Taranchuk, Alastair",
+    "name": "ReGrowth: Core",
+    "steamId": "2260097569",
     "version": "1.0.0.0"
   },
   {
@@ -1208,22 +1240,22 @@
     "name": "Architect Expanded - Fences"
   },
   {
-    "author": "Tarojun",
-    "name": "EPOE-Forked: Alien expansion + patcher"
-  },
-  {
     "author": "Weilbyte",
     "name": "RenameColony",
     "steamId": "1359645236",
     "version": "0.1.5"
   },
   {
+    "author": "Tarojun",
+    "name": "EPOE-Forked: Alien expansion + patcher"
+  },
+  {
     "author": "Victorique, Aurani, Tarojun",
     "name": "EPOE-Forked: Royalty DLC expansion"
   },
   {
-    "author": "JonM0",
-    "name": "Medical System Expansion 2"
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Cosmetic Modifications"
   },
   {
     "author": "Derek Bickley",
@@ -1240,12 +1272,6 @@
   {
     "author": "Sarg",
     "name": "Smart Speed"
-  },
-  {
-    "author": "notfood",
-    "name": "ResearchPal",
-    "steamId": "946390822",
-    "version": "1.1.3.0"
   },
   {
     "author": "Velc",
@@ -1350,10 +1376,6 @@
     "version": "1.3.0.0"
   },
   {
-    "author": "Aelanna",
-    "name": "Eccentric Tech - Cosmetic Modifications"
-  },
-  {
     "author": "Rearden",
     "name": "Surgical Body Shaping (SBS)"
   },
@@ -1428,8 +1450,8 @@
     "name": "Character Editor"
   },
   {
-    "author": "Lolidrop",
-    "name": "[L]MoreDetailBody"
+    "author": "JonM0",
+    "name": "Medical System Expansion 2"
   },
   {
     "author": "Morphium",
@@ -1442,10 +1464,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Lolidrop",
+    "name": "[L]MoreDetailBody"
+  },
+  {
     "author": "Kiame Vivacity",
     "name": "[KV] In-Game Definition Editor",
     "steamId": "1568772413",
     "version": "1.0.7607.42597"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs"
   },
   {
     "author": "Dubwise",
@@ -1457,6 +1487,6 @@
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "1.0.0"
+    "version": "0.6.3.2193"
   }
 ]

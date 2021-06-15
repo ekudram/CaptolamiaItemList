@@ -290,7 +290,7 @@
 	},
 	{
 		"abr": "germanshepherd",
-		"price": -10,
+		"price": 750,
 		"category": "Animal",
 		"defname": "AEXP_GermanShepherd"
 	},
@@ -1610,19 +1610,19 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": -10,
+		"price": 583,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": -10,
+		"price": 4667,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": -10,
+		"price": 1583,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
@@ -6140,31 +6140,31 @@
 	},
 	{
 		"abr": "chatoyansniperrifle",
-		"price": -10,
+		"price": 1783,
 		"category": "Nyaron ranged weapons",
 		"defname": "Nr_ChRifle"
 	},
 	{
 		"abr": "cribitepistol",
-		"price": -10,
+		"price": 367,
 		"category": "Nyaron ranged weapons",
 		"defname": "Nr_CriPistol"
 	},
 	{
 		"abr": "machairodus",
-		"price": -10,
+		"price": 7000,
 		"category": "Nyaron ranged weapons",
 		"defname": "Nr_FlakCaster"
 	},
 	{
 		"abr": "minifoldpdw",
-		"price": -10,
+		"price": 625,
 		"category": "Nyaron ranged weapons",
 		"defname": "Nr_MfoldPdw"
 	},
 	{
 		"abr": "n.p.crifle",
-		"price": -10,
+		"price": 1483,
 		"category": "Nyaron ranged weapons",
 		"defname": "Nr_NpcRifle"
 	},
@@ -7268,37 +7268,37 @@
 	},
 	{
 		"abr": "laserminigun",
-		"price": -10,
+		"price": 7500,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_LaserMinigun"
 	},
 	{
 		"abr": "laserpistol",
-		"price": -10,
+		"price": 3333,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_LaserPistol"
 	},
 	{
 		"abr": "laserrifle",
-		"price": -10,
+		"price": 5000,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_LaserRifle"
 	},
 	{
 		"abr": "lasershotgun",
-		"price": -10,
+		"price": 5333,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_LaserShotgun"
 	},
 	{
 		"abr": "lasersmg",
-		"price": -10,
+		"price": 4000,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_LaserSMG"
 	},
 	{
 		"abr": "lasersniperrifle",
-		"price": -10,
+		"price": 6000,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_LaserSniperRifle"
 	},
@@ -7364,7 +7364,7 @@
 	},
 	{
 		"abr": "pdw",
-		"price": -10,
+		"price": 883,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_PDW"
 	},
@@ -7376,19 +7376,19 @@
 	},
 	{
 		"abr": "pulsetaser",
-		"price": -10,
+		"price": 550,
 		"category": "Ranged weapons",
 		"defname": "RimTaserPulse"
 	},
 	{
 		"abr": "pumpshotgun",
-		"price": -10,
+		"price": 425,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun"
 	},
 	{
 		"abr": "railgun",
-		"price": -10,
+		"price": 2667,
 		"category": "Ranged weapons",
 		"defname": "Gun_RailgunMKI"
 	},
@@ -7400,7 +7400,7 @@
 	},
 	{
 		"abr": "revolver",
-		"price": -10,
+		"price": 226,
 		"category": "Ranged weapons",
 		"defname": "Gun_Revolver"
 	},
@@ -7412,13 +7412,13 @@
 	},
 	{
 		"abr": "salvagedlaserpistol",
-		"price": -10,
+		"price": 2500,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_SalvagedLaserPistol"
 	},
 	{
 		"abr": "salvagedlaserrifle",
-		"price": -10,
+		"price": 3250,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_SalvagedLaserRifle"
 	},
@@ -7436,13 +7436,13 @@
 	},
 	{
 		"abr": "sawed-offshotgun",
-		"price": -10,
+		"price": 297,
 		"category": "Ranged weapons",
 		"defname": "VWE_SawedOffShotgun"
 	},
 	{
 		"abr": "semi-automaticrifle",
-		"price": -10,
+		"price": 408,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_SemiAutomaticRifle"
 	},
@@ -7460,13 +7460,13 @@
 	},
 	{
 		"abr": "smg",
-		"price": -10,
+		"price": 567,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_SMG"
 	},
 	{
 		"abr": "smokelauncher",
-		"price": -10,
+		"price": 633,
 		"category": "Ranged weapons",
 		"defname": "Gun_SmokeLauncher"
 	},
@@ -7478,25 +7478,25 @@
 	},
 	{
 		"abr": "taserrifle",
-		"price": -10,
+		"price": 1125,
 		"category": "Ranged weapons",
 		"defname": "RimTaserRifle"
 	},
 	{
 		"abr": "tasersniper",
-		"price": -10,
+		"price": 1717,
 		"category": "Ranged weapons",
 		"defname": "RimTaserSniper"
 	},
 	{
 		"abr": "teslagun",
-		"price": -10,
+		"price": 5000,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_TeslaGun"
 	},
 	{
 		"abr": "throwingknives",
-		"price": -10,
+		"price": 161,
 		"category": "Ranged weapons",
 		"defname": "VWE_Throwing_Knives"
 	},
@@ -7520,25 +7520,25 @@
 	},
 	{
 		"abr": "x12taser",
-		"price": -10,
+		"price": 2375,
 		"category": "Ranged weapons",
 		"defname": "X12RimTaser"
 	},
 	{
 		"abr": "x2taser",
-		"price": -10,
+		"price": 817,
 		"category": "Ranged weapons",
 		"defname": "X2RimTaser"
 	},
 	{
 		"abr": "x26taser",
-		"price": -10,
+		"price": 1458,
 		"category": "Ranged weapons",
 		"defname": "X26RimTaser"
 	},
 	{
 		"abr": "x3taser",
-		"price": -10,
+		"price": 833,
 		"category": "Ranged weapons",
 		"defname": "X3RimTaser"
 	},
@@ -10028,7 +10028,7 @@
 	},
 	{
 		"abr": "empbomb",
-		"price": 858,
+		"price": -10,
 		"category": "Special",
 		"defname": "RK_EmpBomb"
 	},
@@ -10784,19 +10784,19 @@
 	},
 	{
 		"abr": "industrialammo",
-		"price": 3,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_industrial"
 	},
 	{
 		"abr": "industrialexplosiveammo",
-		"price": 3,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_industrial_fire"
 	},
 	{
 		"abr": "industrialspecialammo",
-		"price": 3,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_industrial_emp"
 	},
@@ -10880,13 +10880,13 @@
 	},
 	{
 		"abr": "primitiveexplosiveammo",
-		"price": 1,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_primitive_fire"
 	},
 	{
 		"abr": "primitivespecialammo",
-		"price": 1,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_primitive_emp"
 	},
@@ -10958,19 +10958,19 @@
 	},
 	{
 		"abr": "spacerammo",
-		"price": 4,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_spacer"
 	},
 	{
 		"abr": "spacerexplosiveammo",
-		"price": 4,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_spacer_fire"
 	},
 	{
 		"abr": "spacerspecialammo",
-		"price": 12,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_spacer_emp"
 	},
@@ -11105,7 +11105,127 @@
 		"price": 91,
 		"category": "Prosthetic",
 		"defname": "FieldFinger"
+	},
+	{
+		"abr": "mechanicalfinger",
+		"price": 87,
+		"category": "Prosthetic",
+		"defname": "MechanicalFinger"
+	},
+	{
+		"abr": "mechanicalinternalsupport",
+		"price": 85,
+		"category": "Prosthetic",
+		"defname": "MechanicalInternalSupport"
+	},
+	{
+		"abr": "mechanicalmanipulator",
+		"price": 88,
+		"category": "Prosthetic",
+		"defname": "MechanicalManipulator"
+	},
+	{
+		"abr": "meleeplatformmodule",
+		"price": 1083,
+		"category": "Modules",
+		"defname": "MeleePlatformModule"
+	},
+	{
+		"abr": "plasteelclavicle",
+		"price": 276,
+		"category": "Plasteel bones",
+		"defname": "PlasteelClavicle"
+	},
+	{
+		"abr": "plasteelfemur",
+		"price": 383,
+		"category": "Plasteel bones",
+		"defname": "PlasteelFemur"
+	},
+	{
+		"abr": "plasteelhumerus",
+		"price": 383,
+		"category": "Plasteel bones",
+		"defname": "PlasteelHumerus"
+	},
+	{
+		"abr": "plasteelradius",
+		"price": 383,
+		"category": "Plasteel bones",
+		"defname": "PlasteelRadius"
+	},
+	{
+		"abr": "plasteelsternum",
+		"price": 306,
+		"category": "Plasteel bones",
+		"defname": "PlasteelSternum"
+	},
+	{
+		"abr": "plasteeltibia",
+		"price": 383,
+		"category": "Plasteel bones",
+		"defname": "PlasteelTibia"
+	},
+	{
+		"abr": "prostheticclavicle",
+		"price": 97,
+		"category": "Prosthetic bones",
+		"defname": "SimpleProstheticClavicle"
+	},
+	{
+		"abr": "prostheticfemur",
+		"price": 119,
+		"category": "Prosthetic bones",
+		"defname": "SimpleProstheticFemur"
+	},
+	{
+		"abr": "prostheticforearm",
+		"price": 104,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticForearm"
+	},
+	{
+		"abr": "prosthetichumerus",
+		"price": 119,
+		"category": "Prosthetic bones",
+		"defname": "SimpleProstheticHumerus"
+	},
+	{
+		"abr": "prostheticradius",
+		"price": 110,
+		"category": "Prosthetic bones",
+		"defname": "SimpleProstheticRadius"
+	},
+	{
+		"abr": "prostheticsternum",
+		"price": 104,
+		"category": "Prosthetic bones",
+		"defname": "SimpleProstheticSternum"
+	},
+	{
+		"abr": "prosthetictibia",
+		"price": 119,
+		"category": "Prosthetic bones",
+		"defname": "SimpleProstheticTibia"
+	},
+	{
+		"abr": "rangedplatformmodule",
+		"price": 1083,
+		"category": "Modules",
+		"defname": "RangedPlatformModule"
+	},
+	{
+		"abr": "devilsholepupfish",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "RG_RawDevilsHole"
+	},
+	{
+		"abr": "rawcactus",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "RG_RawCactus"
 	}
 	],
-	"total": 1869
+	"total": 1871
 }
