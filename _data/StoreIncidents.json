@@ -201,6 +201,36 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -221,6 +251,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -237,8 +272,13 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -249,6 +289,16 @@
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hailstorm",
@@ -311,6 +361,36 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "sanctuary",
+		"price": 100000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "drunkmuffalos",
 		"price": 500,
 		"karmatype": "Neutral"
@@ -331,5 +411,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 82
 }
