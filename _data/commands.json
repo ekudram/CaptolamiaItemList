@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "data": {
       "isShortcut": false,
@@ -136,19 +136,6 @@
       "isBalance": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer some of your coins.",
-    "name": "Gift coins",
-    "usage": "!giftcoins <viewer> <amount>",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "mod": "Twitch Toolkit"
-    },
     "description": null,
     "name": "Join queue",
     "usage": "!joinqueue",
@@ -254,6 +241,45 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
+    "name": "Revive all",
+    "usage": "!reviveall",
+    "userLevel": "Anyone",
+    "shortcut": true
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Revive me",
+    "usage": "!reviveme",
+    "userLevel": "Anyone",
+    "shortcut": true
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Heal me",
+    "usage": "!healme",
+    "userLevel": "Anyone",
+    "shortcut": true
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
     "name": "Healall",
     "usage": "!healall",
     "userLevel": "Anyone",
@@ -318,6 +344,32 @@
       "isBalance": false,
       "mod": "ToolkitUtils"
     },
+    "description": null,
+    "name": "Revive any pawn",
+    "usage": "!reviveanypawn",
+    "userLevel": "Anyone",
+    "shortcut": true
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Heal any pawn",
+    "usage": "!healanypawn",
+    "userLevel": "Anyone",
+    "shortcut": true
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "mod": "ToolkitUtils"
+    },
     "description": "Replaces a trait with a different trait.",
     "name": "Replace trait",
     "usage": "!replacetrait <old> <new>",
@@ -360,6 +412,19 @@
     "description": "Upgrades a skill's passion... sometimes.",
     "name": "Add passion",
     "usage": "!passion <skill>",
+    "userLevel": "Anyone",
+    "shortcut": true
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Full heal",
+    "usage": "!fullheal",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -526,6 +591,19 @@
       "isBalance": false,
       "mod": "ToolkitUtils"
     },
+    "description": "Makes your pawn leave the colony.",
+    "name": "Abandon pawn",
+    "usage": "!leave",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "mod": "ToolkitUtils"
+    },
     "description": "Shows your pawn's relationships to other viewers.",
     "name": "Viewer relations",
     "usage": "!mypawnrelations [viewer]",
@@ -680,7 +758,7 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "mod": "ToolkitCore"
+      "mod": "ToolkitRimWorld"
     },
     "description": null,
     "name": "hello",

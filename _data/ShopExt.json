@@ -4790,12 +4790,12 @@
         ],
         "mod": "Bun Race",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic",
       "defName": "Alien_BunTribeNew",
       "enabled": true,
-      "name": "bun",
+      "name": "bunny",
       "price": 2917
     },
     {
