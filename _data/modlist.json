@@ -3,7 +3,13 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.1.0.0"
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Samboy063",
+    "name": "BetterLoading",
+    "steamId": "1999454301",
+    "version": "3.2.0.1"
   },
   {
     "author": "Andreas Pardeike",
@@ -16,6 +22,66 @@
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "9.0.0"
+  },
+  {
+    "author": "Falconne",
+    "name": "Heat Map",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Trinity",
+    "name": "RuntimeGC [1.3]",
+    "steamId": "2559582557",
+    "version": "0.1.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Mod Manager",
+    "steamId": "1507748539",
+    "version": "3.8.1038"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "715759739",
+    "version": "4.9.95"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.2.3.0"
+  },
+  {
+    "author": "marcin212",
+    "name": "Architect Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.9.2070"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.1.32"
+  },
+  {
+    "author": "Jaxe",
+    "name": "More Random Seeds",
+    "steamId": "1501463043",
+    "version": "6.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
   },
   {
     "author": "Katavrik",
@@ -42,6 +108,12 @@
     "version": null
   },
   {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "lolidrop",
     "name": "[L] House Maid Nukos",
     "steamId": null,
@@ -64,12 +136,6 @@
     "name": "More Vanilla Biomes",
     "steamId": "1931453053",
     "version": "0.1.4.01"
-  },
-  {
-    "author": "Derek Bickley",
-    "name": "[LTO] Terrain Overhaul",
-    "steamId": "2284769535",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oblitus",
@@ -100,6 +166,12 @@
     "name": "DontBlockDoor",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": "935982361",
+    "version": "0.5.0.0"
   },
   {
     "author": "Kosaro",
@@ -148,6 +220,12 @@
     "name": "Camera+",
     "steamId": "867467808",
     "version": "2.2.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Backup Power",
+    "steamId": "2084493662",
+    "version": "1.10.175"
   },
   {
     "author": "dracoix",
@@ -208,12 +286,6 @@
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Insectoids",
-    "steamId": "2149755445",
-    "version": "1.2.0.0"
   },
   {
     "author": "Oskar Potocki and  Kikohi",
@@ -310,6 +382,12 @@
     "name": "Vanilla Weapons Expanded - Quickdraw",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki,  LimeTreeSnake and  Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
   },
   {
     "author": "Oskar Potocki,  Luizi and  xrushha",
@@ -474,12 +552,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Achtung!",
-    "steamId": "730936602",
-    "version": "3.2.2.0"
-  },
-  {
     "author": "legodude17",
     "name": "Better Bed Assignment",
     "steamId": "2417077360",
@@ -500,8 +572,8 @@
   {
     "author": "PeteTimesSix",
     "name": "Simple sidearms",
-    "steamId": null,
-    "version": null
+    "steamId": "927155256",
+    "version": "1.4.5.0"
   },
   {
     "author": "pointfeev",
@@ -525,7 +597,7 @@
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
-    "version": "0.7.4"
+    "version": "0.7.5"
   },
   {
     "author": "Wemd",
@@ -543,7 +615,7 @@
     "author": "Loconeko",
     "name": "Roads of the Rim (Continued)",
     "steamId": "2280318231",
-    "version": "1.0.7.0"
+    "version": "1.0.8.0"
   },
   {
     "author": "Kiame Vivacity",
@@ -561,7 +633,7 @@
     "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
-    "version": "1.0.0.0"
+    "version": "1.0.1.1"
   },
   {
     "author": "Argón",
@@ -654,12 +726,6 @@
     "version": null
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Show Hair With Hats or Hide All Hats",
-    "steamId": "1180826364",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "sakama",
     "name": "Roppoi hair",
     "steamId": null,
@@ -736,12 +802,6 @@
     "name": "Quality Colors",
     "steamId": "2420141361",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.9.2064"
   },
   {
     "author": "bodlosh",
@@ -822,6 +882,12 @@
     "version": null
   },
   {
+    "author": "dismarzero",
+    "name": "VGP Xtra Trees and Flowers",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nandonalt,  Tejko and  Alias",
     "name": "Snowy Trees",
     "steamId": null,
@@ -849,13 +915,13 @@
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] Faction Control",
     "steamId": "1509102551",
-    "version": "1.0.7871.33686"
+    "version": "1.0.7891.19201"
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] Configurable Maps",
     "steamId": "1507370392",
-    "version": "1.0.7876.16850"
+    "version": "1.0.7885.42093"
   },
   {
     "author": "NotFood",
@@ -966,12 +1032,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Sandy",
-    "name": "RPG Style Inventory Revamped",
-    "steamId": "2478833213",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -981,7 +1041,7 @@
     "author": "Haplo",
     "name": "Miscellaneous 'CORE'",
     "steamId": "704181221",
-    "version": "1.3.0"
+    "version": "1.3.1"
   },
   {
     "author": "Rearden",
@@ -993,7 +1053,7 @@
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.3.912"
+    "version": "1.3.916"
   },
   {
     "author": "Ratys",
@@ -1020,12 +1080,6 @@
     "version": null
   },
   {
-    "author": "VouLT",
-    "name": "Better Pawn Control",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Haplo",
     "name": "Misc. Training",
     "steamId": null,
@@ -1042,12 +1096,6 @@
     "name": "Children, school and learning",
     "steamId": "1541438230",
     "version": "1.6.3.0"
-  },
-  {
-    "author": "avilmask",
-    "name": "Common Sense",
-    "steamId": "1561769193",
-    "version": "1.1.32"
   },
   {
     "author": "UnlimitedHugs",
@@ -1116,12 +1164,6 @@
     "version": "1.4.0.0"
   },
   {
-    "author": "Derek Bickley",
-    "name": "[LTO] Texture Overhaul",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "",
@@ -1137,7 +1179,7 @@
     "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
-    "version": "1.0.4.0"
+    "version": "1.0.5.0"
   },
   {
     "author": "hodlhodl",
@@ -1155,13 +1197,13 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.2.0"
+    "version": "6.1.3.4"
   },
   {
     "author": "Kiame Vivacity",
     "name": "[KV] In-Game Definition Editor",
     "steamId": "1568772413",
-    "version": "1.0.7871.41244"
+    "version": "1.0.7878.40995"
   },
   {
     "author": "Haplo",
@@ -1170,14 +1212,14 @@
     "version": null
   },
   {
-    "author": "Sylvis",
-    "name": "Equip Gas Masks",
+    "author": "Alaestor",
+    "name": "Misc. Robots++",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Roolo and Updated by Ogliss",
-    "name": "RunAndGun",
+    "author": "Sylvis",
+    "name": "Equip Gas Masks",
     "steamId": null,
     "version": null
   },
@@ -1230,18 +1272,6 @@
     "version": null
   },
   {
-    "author": "Falconne",
-    "name": "Heat Map (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Crlsniper and  Scherub",
-    "name": "Realistic Rooms [1.3]",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Low-Key",
     "name": "Craftable Shield Cores",
     "steamId": null,
@@ -1284,18 +1314,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Work Tab",
-    "steamId": "725219116",
-    "version": "3.21.303"
-  },
-  {
-    "author": "LokiVKlokeNaAndoke",
-    "name": "AutoPriorities",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Rooboid",
     "name": "Roo's Tattoos - Starter Pack ",
     "steamId": null,
@@ -1329,7 +1347,7 @@
     "author": "Epicguru (James B)",
     "name": "What's That Mod",
     "steamId": "2258431182",
-    "version": "1.0.0.0"
+    "version": "0.0.0.0"
   },
   {
     "author": "lbmaian",
@@ -1362,18 +1380,6 @@
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Animal Tab",
-    "steamId": "712141500",
-    "version": "4.7.272"
-  },
-  {
-    "author": "Martin Basterrechea",
-    "name": "XenoDiversity Precept",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "Various Space Ship Chunk (Continued)",
     "steamId": "2014616487",
@@ -1383,7 +1389,7 @@
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Go the F*** to Sleep",
     "steamId": "2369307661",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   {
     "author": "Linkolas",
@@ -1400,6 +1406,210 @@
   {
     "author": "JDS_Mirai",
     "name": "Ameiro anime hairs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "Reinforced Walls",
+    "steamId": "1929389479",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Storyteller pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Raid Extension",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Area Unlocker",
+    "steamId": "725153576",
+    "version": "3.14.109"
+  },
+  {
+    "author": "Neceros",
+    "name": "Fuse Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LokiVKlokeNaAndoke",
+    "name": "AutoPriorities",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifer",
+    "name": "Realistic Rooms Rewritten",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Music Manager",
+    "steamId": "2229205672",
+    "version": "1.2.196"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "Pawn Rules",
+    "steamId": "1499843448",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "SteveZero",
+    "name": "Helmet On Draft",
+    "steamId": "2508744637",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "1.8.0.0"
+  },
+  {
+    "author": "jptrrs",
+    "name": "SpeakUp",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Derek Bickley",
+    "name": "[LTO] Terrain Overhaul",
+    "steamId": "2284769535",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Martin Basterrechea",
+    "name": "More Colors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Factional War",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Derek Bickley",
+    "name": "Colony Groups UI Rimworld",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NotooShabby and Netrve",
+    "name": "Awesome Inventory (Unofficial)",
+    "steamId": "2562754898",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Derek Bickley",
+    "name": "[LTO] Texture Overhaul",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Derek Bickley",
+    "name": "Fallout Shelter Vanilla Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Martin Basterrechea",
+    "name": "Combine Face and Hat Items",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BJInternetSupervision",
+    "name": "[SS]Lovely Hair Style",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Categorized Crafting Bills",
+    "steamId": "2403595130",
+    "version": "1.0.1"
+  },
+  {
+    "author": "Eldiarc",
+    "name": "Signs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Room Sense",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Relations Tab",
+    "steamId": "709317151",
+    "version": "2.6.72"
+  },
+  {
+    "author": "Why_is_that",
+    "name": "Expanded Roofing",
+    "steamId": "2026595894",
+    "version": "1.0.2"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Stuffed Floors",
+    "steamId": "853043503",
+    "version": "2.13.92"
+  },
+  {
+    "author": "Falconne",
+    "name": "Labels on Floor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Recipe icons",
+    "steamId": "1616643195",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Touch Your Pet",
     "steamId": null,
     "version": null
   },
