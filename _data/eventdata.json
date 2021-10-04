@@ -710,37 +710,5 @@
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
-  },
-  "raidpoachers": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitAddon - [SR]Raid Extension"
-  },
-  "raidloggers": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitAddon - [SR]Raid Extension"
-  },
-  "hostiletraveler": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitAddon - [SR]Raid Extension"
-  },
-  "hostilecaravan": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitAddon - [SR]Raid Extension"
   }
 }

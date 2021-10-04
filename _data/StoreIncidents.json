@@ -16,11 +16,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -336,6 +331,16 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "smite",
 		"price": 2500,
 		"karmatype": "Doom"
@@ -344,27 +349,7 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "raidpoachers",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "raidloggers",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "hostiletraveler",
-		"price": 400,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hostilecaravan",
-		"price": 700,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 73
+	"total": 70
 }
