@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
@@ -469,36 +469,6 @@
       "degree": -2
     },
     {
-      "description": "Timmy dislikes children.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Children, school and learning",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ChildrenDislikesChildren",
-      "name": "dislikeschildren",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
       "description": "Timmy has a knack for learning. he picks things up much faster than others.",
       "stats": [
         "+75% global learning factor"
@@ -559,36 +529,6 @@
       "degree": 1
     },
     {
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VCEF_Fisherman",
-      "name": "fisherman",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
       "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [
 
@@ -617,36 +557,6 @@
       "addPrice": 1,
       "removePrice": 1,
       "degree": 0
-    },
-    {
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 2
     },
     {
       "description": "Timmy's life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
@@ -766,68 +676,6 @@
       },
       "defName": "Industriousness",
       "name": "hardworker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy detests manual labor, feeling that tasks such as cleaning and hauling are beneath him. he will perform such tasks more slowly than others would, and will also carry less per load when required to haul.",
-      "stats": [
-        "-20% general labor speed",
-        "-25 carrying capacity"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "More Than Capable",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-20% general labor speed",
-          "-25 carrying capacity"
-        ]
-      },
-      "defName": "HatesDumbLabor",
-      "name": "hatesdumblabor",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "hygienic",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1102,36 +950,6 @@
       },
       "defName": "DislikesWomen",
       "name": "misogynist",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has been born in the colony.",
-      "stats": [
-        "Natural meditation focus type allowed."
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Children, school and learning",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "Natural meditation focus type allowed."
-        ]
-      },
-      "defName": "ChildrenNaturalColonyChild",
-      "name": "naturalborncolony-child",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1655,36 +1473,6 @@
       "degree": -1
     },
     {
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "slob",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": -2
-    },
-    {
       "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
       "stats": [
         "-35% global work speed"
@@ -1939,36 +1727,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy is too young to work.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Children, school and learning",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ChildrenToYoungToWork",
-      "name": "tooyoungtowork",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
       "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
       "stats": [
         "Morbid meditation focus type allowed."
@@ -2151,36 +1909,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": -1
-    },
-    {
       "description": "Timmy feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his nerves can easily get the better of him.",
       "stats": [
         "+40% global work speed",
@@ -2243,36 +1971,6 @@
       "degree": -2
     },
     {
-      "description": "Timmy is the child of a werewolf and will first transfrom when coming of age.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Children, school and learning",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ChildrenWerewolfChild",
-      "name": "werewolf-child",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1,
-      "degree": 0
-    },
-    {
       "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
       "stats": [
         "-60% pain shock threshold"
@@ -2303,36 +2001,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": -1
-    },
-    {
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [
 
@@ -2359,8 +2027,428 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy dislikes children.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Children, school and learning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "ChildrenDislikesChildren",
+      "name": "dislikeschildren",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is the child of a werewolf and will first transfrom when coming of age.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Children, school and learning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "ChildrenWerewolfChild",
+      "name": "werewolf-child",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has been born in the colony.",
+      "stats": [
+        "Natural meditation focus type allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Children, school and learning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Natural meditation focus type allowed."
+        ]
+      },
+      "defName": "ChildrenNaturalColonyChild",
+      "name": "naturalborncolony-child",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is too young to work.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Children, school and learning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "ChildrenToYoungToWork",
+      "name": "tooyoungtowork",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "hygienic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "slob",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Some Oni exude an aura of calm that makes them more approachable by people and animals alike.",
+      "stats": [
+        "Natural meditation focus type allowed.",
+        "+2 social",
+        "+2 animals",
+        "+1 medical",
+        "+2 plants",
+        "-4% mental break threshold",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+15.00% social impact",
+        "+15.00% negotiation ability",
+        "+10.00% trade price improvement"
+      ],
+      "conflicts": [
+        "torturedartist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Oni of the Rim",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "torturedartist"
+        ],
+        "stats": [
+          "Natural meditation focus type allowed.",
+          "+2 social",
+          "+2 animals",
+          "+1 medical",
+          "+2 plants",
+          "-4% mental break threshold",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+15.00% social impact",
+          "+15.00% negotiation ability",
+          "+10.00% trade price improvement"
+        ]
+      },
+      "defName": "Natures_blessing",
+      "name": "naturesblessing",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
+      "stats": [
+        "+0.10 move speed",
+        "+20% global work speed",
+        "-100% psychic sensitivity",
+        "-95% toxic sensitivity",
+        "-90% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Misc. Robots",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.10 move speed",
+          "+20% global work speed",
+          "-100% psychic sensitivity",
+          "-95% toxic sensitivity",
+          "-90% mental break threshold"
+        ]
+      },
+      "defName": "AIRobot_BaseTrait",
+      "name": "robot",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy detests manual labor, feeling that tasks such as cleaning and hauling are beneath him. he will perform such tasks more slowly than others would, and will also carry less per load when required to haul.",
+      "stats": [
+        "-20% general labor speed",
+        "-25 carrying capacity"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "More Than Capable",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-20% general labor speed",
+          "-25 carrying capacity"
+        ]
+      },
+      "defName": "HatesDumbLabor",
+      "name": "hatesdumblabor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Fishing Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     },
     {
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
@@ -2561,7 +2649,7 @@
     {
       "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
       "stats": [
-        "+10.0C [18.0F] Maximum comfortable temperature"
+        "+10.0C Maximum comfortable temperature"
       ],
       "conflicts": [
         "coldinclined"
@@ -2577,7 +2665,7 @@
           "coldinclined"
         ],
         "stats": [
-          "+10.0C [18.0F] Maximum comfortable temperature"
+          "+10.0C Maximum comfortable temperature"
         ]
       },
       "defName": "VTE_HeatInclined",
@@ -2591,7 +2679,7 @@
     {
       "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
       "stats": [
-        "-10.0C [-18.0F] Minimum comfortable temperature"
+        "-10.0C Minimum comfortable temperature"
       ],
       "conflicts": [
         "heatinclined"
@@ -2607,7 +2695,7 @@
           "heatinclined"
         ],
         "stats": [
-          "-10.0C [-18.0F] Minimum comfortable temperature"
+          "-10.0C Minimum comfortable temperature"
         ]
       },
       "defName": "VTE_ColdInclined",
@@ -3053,7 +3141,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4043,44 +4131,6 @@
       "degree": 0
     },
     {
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
-      "stats": [
-        "+0.10 move speed",
-        "+20% global work speed",
-        "-100% psychic sensitivity",
-        "-95% toxic sensitivity",
-        "-90% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Misc. Robots",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+0.10 move speed",
-          "+20% global work speed",
-          "-100% psychic sensitivity",
-          "-95% toxic sensitivity",
-          "-90% mental break threshold"
-        ]
-      },
-      "defName": "AIRobot_BaseTrait",
-      "name": "robot",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
-    },
-    {
       "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
       "stats": [
         "+10% pain shock threshold",
@@ -4115,6 +4165,36 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VME_Elder",
+      "name": "elder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -4123,37 +4203,10 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
-          "+6.50 Move speed",
-          "+85% Hunger rate multiplier",
-          "+1.0 Beauty",
-          "+18.0C [32.4F] Minimum comfortable temperature",
-          "+26.0C [46.8F] Maximum comfortable temperature",
-          "+40% Mental break threshold",
-          "+85% Global work speed",
-          "+3 Honor value",
-          "+75 Meat amount",
-          "+40 Leather amount",
-          "+$1750 Market value"
-        ],
-        "mod": "Bun Race",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic\n<i><color=#66E0E4FF>Bun Race</color></i>",
-      "defName": "Alien_BunTribe",
-      "enabled": true,
-      "name": "bun",
-      "price": 1
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+16.0C [28.8F] Minimum comfortable temperature",
-          "+26.0C [46.8F] Maximum comfortable temperature",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
@@ -4163,7 +4216,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 1
     },
@@ -4186,8 +4239,8 @@
           "+40 Leather amount",
           "+78% Pain shock threshold",
           "+30% Mental break threshold",
-          "+18.0C [32.4F] Minimum comfortable temperature",
-          "+30.0C [54.0F] Maximum comfortable temperature",
+          "+18.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
           "+5.00 Move speed",
           "+95% Aiming time",
           "+10.0 Melee dodge chance",
@@ -4197,11 +4250,142 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.\n<i><color=#66E0E4FF>Nyaron race</color></i>",
+      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.\n\n<i><color=#66E0E4FF>Nyaron race</color></i>",
       "defName": "Alien_Nyaron",
       "enabled": true,
-      "name": "nyaron",
+      "name": "Nyaron",
       "price": 1
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "+6.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+4 Honor value"
+        ],
+        "mod": "Astoriel Legacy",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A nearly immortal race, the astoriel have evolved beyond the scope of most other life forms. Their unique physiology grants them many advantages.\n\n<i><color=#66E0E4FF>Astoriel Legacy</color></i>",
+      "defName": "Alien_Astoriel",
+      "enabled": true,
+      "name": "astoriel",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+6.50 Move speed",
+          "+85% Hunger rate multiplier",
+          "+1.0 Beauty",
+          "+18.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+40% Mental break threshold",
+          "+85% Global work speed",
+          "+3 Honor value",
+          "+75 Meat amount",
+          "+40 Leather amount",
+          "+$1750 Market value"
+        ],
+        "mod": "Bun Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic\n\n<i><color=#66E0E4FF>Bun Race</color></i>",
+      "defName": "Alien_BunTribe",
+      "enabled": true,
+      "name": "Bun",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+275% Flammability",
+          "+$3600 Market value",
+          "+6.24 Move speed",
+          "+2.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+4 Honor value",
+          "+120.00% Social impact",
+          "+120% Animal gather speed",
+          "+110% Animal gather yield",
+          "+115.00% Train animal chance",
+          "+115.00% Tame animal chance",
+          "+125% Hunting stealth",
+          "+110% Immunity gain speed",
+          "+150.00% Food poison chance",
+          "+70% Research speed",
+          "+90% Construct success chance",
+          "+90% Repair success chance",
+          "+95% General labor speed"
+        ],
+        "mod": "Oni of the Rim",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The mysterious horned and feathered humanoid found on some rim worlds, Oni are often sought out by Glitterworlds for their beauty as a sort of exotic pet. Worse still some are kept as livestock for their feathers, pelts and horns, all having pratical and decorative uses. Oni live in temperate areas and rarely employ clothing due to the uncomfortable sensation on their feathered bodies.\n\n<i><color=#66E0E4FF>Oni of the Rim</color></i>",
+      "defName": "AOni",
+      "enabled": true,
+      "name": "Oni",
+      "price": 6000
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+275% Flammability",
+          "+$5600 Market value",
+          "+7.14 Move speed",
+          "-30.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+5 Honor value",
+          "+85.00% Social impact",
+          "+85.00% Negotiation ability",
+          "+85.00% Trade price improvement",
+          "+140% Animal gather speed",
+          "+110% Animal gather yield",
+          "+150.00% Train animal chance",
+          "+150.00% Tame animal chance",
+          "+125% Hunting stealth",
+          "+115% Immunity gain speed",
+          "+444.00% Food poison chance",
+          "+30% Research speed",
+          "+80% Construct success chance",
+          "+80% Repair success chance",
+          "+90% General labor speed",
+          "+90% Global learning factor",
+          "+120% Butchery efficiency",
+          "+120% Butchery speed",
+          "+120% Mining speed",
+          "+90% Mining yield",
+          "+115% Plant work speed",
+          "+90% Medical surgery success chance",
+          "+90% Medical tend quality",
+          "+200% Eating speed",
+          "+30.0% Armor - Blunt",
+          "+45.0% Armor - Sharp",
+          "+20% Mental break threshold"
+        ],
+        "mod": "Oni of the Rim",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The ancient ancestors of the current Oni that can be found on some rim worlds. They have been mysteriously appearing with no traceable origins, but their descendant race welcomes them into their tribes without question.\n\n<i><color=#66E0E4FF>Oni of the Rim</color></i>",
+      "defName": "Alien_AncestralAOni",
+      "enabled": true,
+      "name": "Ancestral Oni",
+      "price": 9333
     },
     {
       "data": {
@@ -4210,8 +4394,8 @@
           "+100% Flammability",
           "+$2000 Market value",
           "+4.85 Move speed",
-          "+31.0C [55.8F] Maximum comfortable temperature",
-          "+6.0C [10.8F] Minimum comfortable temperature",
+          "+31.0C Maximum comfortable temperature",
+          "+6.0C Minimum comfortable temperature",
           "+110% Immunity gain speed",
           "+45 Carrying capacity",
           "+70% Pain shock threshold",
@@ -4234,11 +4418,11 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
       "defName": "Ratkin",
       "enabled": true,
-      "name": "ratkin",
-      "price": 1
+      "name": "Ratkin",
+      "price": 3333
     },
     {
       "data": {
@@ -4247,8 +4431,8 @@
           "+100% Flammability",
           "+$2000 Market value",
           "+4.85 Move speed",
-          "+31.0C [55.8F] Maximum comfortable temperature",
-          "+6.0C [10.8F] Minimum comfortable temperature",
+          "+31.0C Maximum comfortable temperature",
+          "+6.0C Minimum comfortable temperature",
           "+110% Immunity gain speed",
           "+45 Carrying capacity",
           "+70% Pain shock threshold",
@@ -4272,60 +4456,11 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
       "defName": "Ratkin_Su",
-      "enabled": false,
-      "name": "ratkinsubject",
-      "price": 300
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$2000 Market value",
-          "+5.00 Move speed",
-          "+6.0C [10.8F] Minimum comfortable temperature",
-          "+28.0C [50.4F] Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+4 Honor value"
-        ],
-        "mod": "Astoriel Legacy",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A nearly immortal race, the astoriel have evolved beyond the scope of most other life forms. Their unique physiology grants them many advantages.\n<i><color=#66E0E4FF>Astoriel Legacy</color></i>",
-      "defName": "Alien_Astoriel",
       "enabled": true,
-      "name": "astoriel",
-      "price": 1
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+100% Flammability",
-          "-60.0C [-108.0F] Minimum comfortable temperature",
-          "+200.0C [360.0F] Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+0 Carrying capacity",
-          "+0.00% Social impact",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
-        ],
-        "mod": "Zombieland",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A zombie\n<i><color=#66E0E4FF>Zombieland</color></i>",
-      "defName": "Zombie",
-      "enabled": true,
-      "name": "Zombie",
-      "price": 1
+      "name": "Ratkin subject",
+      "price": 3333
     }
   ]
 }
