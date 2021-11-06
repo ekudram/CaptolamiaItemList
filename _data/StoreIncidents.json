@@ -6,6 +6,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "tornados",
+		"price": 15000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -71,8 +76,13 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "toxicfallout",
+		"price": 15000,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
@@ -277,7 +287,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -474,12 +484,7 @@
 		"abr": "drought",
 		"price": 1000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "wildmen",
-		"price": 600,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 96
+	"total": 97
 }
