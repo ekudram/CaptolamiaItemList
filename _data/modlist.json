@@ -45,7 +45,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.5"
+    "version": "6.2.0.7"
   },
   {
     "author": "SirRandoo",
@@ -897,7 +897,7 @@
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
     "name": "Quarry",
     "steamId": "2007576583",
-    "version": "1.0.0.0"
+    "version": "2.0.0"
   },
   {
     "author": "Weilbyte",
@@ -1242,12 +1242,6 @@
     "version": null
   },
   {
-    "author": "pointfeev",
-    "name": "Pawns Use Fire Extinguishers",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Kikohi",
     "name": "Jewelry",
     "steamId": "2020964421",
@@ -1288,12 +1282,6 @@
     "name": "Medical Tab",
     "steamId": "715565817",
     "version": "3.4.91"
-  },
-  {
-    "author": "SineSwiper",
-    "name": "Xenobionic Patcher",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Captain Muscles (Nathan Harbour)",
@@ -1366,12 +1354,6 @@
     "name": "Puppeteer",
     "steamId": "2594873651",
     "version": "1.6.2.1"
-  },
-  {
-    "author": "SteveZero",
-    "name": "Helmet On Draft",
-    "steamId": "2508744637",
-    "version": "0.0.0.0"
   },
   {
     "author": "Lucifer",
@@ -1464,12 +1446,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] Faction Control",
     "steamId": "1509102551",
@@ -1497,7 +1473,169 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "1.8.0.0"
+    "version": "2.2.0.0"
+  },
+  {
+    "author": "VouLT",
+    "name": "Better Pawn Control",
+    "steamId": "1541460369",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "jeonggihun",
+    "name": "Quarry retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pureMJ",
+    "name": "Vanilla Fix: Haul After Slaughter",
+    "steamId": "2801452324",
+    "version": "0.1.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Stuff Mass Matters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Pharmacist",
+    "steamId": "1365242717",
+    "version": "2.9.140"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Trunken",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": "1814987817",
+    "version": "1.2.0"
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "pointfeev",
+    "name": "Pawns Use Fire Extinguishers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SineSwiper",
+    "name": "Xenobionic Patcher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Mod Manager",
+    "steamId": "1507748539",
+    "version": "3.8.1038"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.1.48"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Command Palette",
+    "steamId": "2073966033",
+    "version": "1.8.108"
+  },
+  {
+    "author": "Krypt",
+    "name": "RWLayout",
+    "steamId": "2209393954",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "Grouped Pawns Lists",
+    "steamId": "2340773428",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "joe_the_tech",
+    "name": "Marine Armor Materials",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Recipe icons",
+    "steamId": "1616643195",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Haplo",
+    "name": "PowerSwitch",
+    "steamId": "717632155",
+    "version": "1.2.0"
+  },
+  {
+    "author": "Helixien,  Taranchuk and  Alastair",
+    "name": "ReGrowth Remastered: Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chaia",
+    "name": "Toxic Fallout Protection Suit",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "FrozenSnowFox",
