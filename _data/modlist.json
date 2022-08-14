@@ -84,12 +84,6 @@
     "version": "3.14.109"
   },
   {
-    "author": "Sandy",
-    "name": "RPG Style Inventory Revamped",
-    "steamId": "2478833213",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "NotooShabby,  Netrve and  Taranchuk",
     "name": "Awesome Inventory 1.3 Forked",
     "steamId": "2669036490",
@@ -393,7 +387,7 @@
     "author": "m00nl1ght-dev",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.4.3.0"
+    "version": "1.4.4.0"
   },
   {
     "author": "m00nl1ght-dev",
@@ -478,12 +472,6 @@
     "name": "[LTO] Colony Groups",
     "steamId": "2345493945",
     "version": "1.0.06"
-  },
-  {
-    "author": "Derek Bickley",
-    "name": "Colony Groups UI Rimworld",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Martin Basterrechea",
@@ -662,6 +650,12 @@
   {
     "author": "Adventurer -> TedDraws",
     "name": "Expanded Woodworking (Forked)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ItchyFlea -> Qwynn -> Adventurer",
+    "name": "Expanded Woodworking for Vegetable Garden Project",
     "steamId": null,
     "version": null
   },
@@ -866,8 +860,8 @@
   {
     "author": "Avius and  Hazzer",
     "name": "Locks",
-    "steamId": null,
-    "version": null
+    "steamId": "1157085076",
+    "version": "1.0.0.0"
   },
   {
     "author": "Lolidrop",
@@ -1038,9 +1032,9 @@
     "version": null
   },
   {
-    "author": "Velc",
-    "name": "Hats Display Selection",
-    "steamId": "1542291825",
+    "author": "Kiame Vivacity",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
     "version": "1.0.0.0"
   },
   {
@@ -1064,12 +1058,6 @@
   {
     "author": "Runne Latki",
     "name": "Rabbie The Moonrabbit race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Daemon976",
-    "name": "Nals Facial Animation for HAR",
     "steamId": null,
     "version": null
   },
@@ -1326,12 +1314,6 @@
     "version": "1.0.7875.31864"
   },
   {
-    "author": "AhnDemi",
-    "name": "Race sleep face addon 1.3",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "YAYO",
     "name": "Real Faction Guest",
     "steamId": "2263021260",
@@ -1340,6 +1322,12 @@
   {
     "author": "Lucifer",
     "name": "Realistic Rooms Rewritten",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AhnDemi",
+    "name": "Race sleep face addon 1.3",
     "steamId": null,
     "version": null
   },
@@ -1587,7 +1575,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   {
     "author": "Proxyer",

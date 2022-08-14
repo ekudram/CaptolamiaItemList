@@ -6992,7 +6992,7 @@
 	},
 	{
 		"abr": "gaspoweredexcavator",
-		"price": 408,
+		"price": -10,
 		"category": "Production",
 		"defname": "VPE_GasDrill"
 	},
@@ -7202,7 +7202,7 @@
 	},
 	{
 		"abr": "largevanometricpowercell",
-		"price": 4000,
+		"price": -10,
 		"category": "Special",
 		"defname": "VFE_LargeVanometricPowerCell"
 	},
@@ -7579,54 +7579,6 @@
 		"defname": "VAE_Headgear_RoyalTrooperHelmet"
 	},
 	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Red"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Blue"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Green"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Violet"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Yellow"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Orange"
-	},
-	{
-		"abr": "(old)walllamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "WallLamp"
-	},
-	{
 		"abr": "aberrantfleshbeast",
 		"price": -10,
 		"category": "Animals",
@@ -7663,12 +7615,6 @@
 		"defname": "EPIA_AdvancedBionicTail"
 	},
 	{
-		"abr": "advancedgasmaskhelmet",
-		"price": 583,
-		"category": "Headgear",
-		"defname": "Apparel_GasKevlar"
-	},
-	{
 		"abr": "advancedinfernocannon",
 		"price": 2333,
 		"category": "Ranged weapons",
@@ -7681,28 +7627,10 @@
 		"defname": "VFE_Gun_AdvancedInfernoSpewer"
 	},
 	{
-		"abr": "affixsix",
-		"price": 583,
-		"category": "Recreation",
-		"defname": "AffixSix"
-	},
-	{
 		"abr": "agepills",
 		"price": 100,
 		"category": "Drugs",
 		"defname": "GR_AgePills"
-	},
-	{
-		"abr": "aisr2g",
-		"price": 4083,
-		"category": "Road equipment",
-		"defname": "RotR_AISR2GNew"
-	},
-	{
-		"abr": "aisr2g",
-		"price": 10900,
-		"category": "Power",
-		"defname": "RotR_AISR2G"
 	},
 	{
 		"abr": "alloysmelter",
@@ -7777,12 +7705,6 @@
 		"defname": "VBE_AmbrandyMush"
 	},
 	{
-		"abr": "amethyst",
-		"price": 8,
-		"category": "Gemstones",
-		"defname": "Z_Amethyst"
-	},
-	{
 		"abr": "ammobox",
 		"price": 667,
 		"category": "Furniture",
@@ -7820,7 +7742,7 @@
 	},
 	{
 		"abr": "ancientbattery",
-		"price": 533,
+		"price": -10,
 		"category": "Power",
 		"defname": "VFEA_AncientBattery"
 	},
@@ -8131,12 +8053,6 @@
 		"defname": "VFEI_Antenna"
 	},
 	{
-		"abr": "antibiotics",
-		"price": 30,
-		"category": "Drugs",
-		"defname": "VG_antibiotics"
-	},
-	{
 		"abr": "antigrainmix",
 		"price": 42,
 		"category": "Chemicals",
@@ -8171,12 +8087,6 @@
 		"price": 27,
 		"category": "Recreation",
 		"defname": "VFEM_ArcheryTarget"
-	},
-	{
-		"abr": "archerytarget",
-		"price": 248,
-		"category": "Recreation",
-		"defname": "ArcheryTarget"
 	},
 	{
 		"abr": "archocentipede",
@@ -8231,12 +8141,6 @@
 		"price": 7492,
 		"category": "Production",
 		"defname": "VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry"
-	},
-	{
-		"abr": "artisticmeditationcushion",
-		"price": 333,
-		"category": "Furniture",
-		"defname": "ArtisticMeditationCushion"
 	},
 	{
 		"abr": "asphaltmix",
@@ -8431,28 +8335,10 @@
 		"defname": "Apparel_Newborn_Onesie"
 	},
 	{
-		"abr": "bamboo",
-		"price": 2,
-		"category": "Wood logs",
-		"defname": "Bamboo"
-	},
-	{
-		"abr": "bamboolumber",
-		"price": 2,
-		"category": "Lumber",
-		"defname": "LumberBamboo"
-	},
-	{
 		"abr": "bananas",
 		"price": 2,
 		"category": "Raw fruits",
 		"defname": "VCE_RawBanana"
-	},
-	{
-		"abr": "bandagekit",
-		"price": 10,
-		"category": "Medicine",
-		"defname": "Bandagekit"
 	},
 	{
 		"abr": "bandana",
@@ -8465,12 +8351,6 @@
 		"price": 29983,
 		"category": "Furniture",
 		"defname": "JDSBank_Vault"
-	},
-	{
-		"abr": "banner",
-		"price": 295,
-		"category": "Furniture",
-		"defname": "VFEPD_Banner"
 	},
 	{
 		"abr": "bar",
@@ -8743,52 +8623,16 @@
 		"defname": "BionicAnimalStomach"
 	},
 	{
-		"abr": "bionicbrainpal",
-		"price": -10,
-		"category": "Bionic",
-		"defname": "BionicTacticalImplant"
-	},
-	{
 		"abr": "bionictail",
 		"price": 1817,
 		"category": "Bionic",
 		"defname": "EPIA_BionicTail"
 	},
 	{
-		"abr": "birchlogs",
-		"price": 2,
-		"category": "Wood logs",
-		"defname": "WoodLog_Birch"
-	},
-	{
-		"abr": "birchlumber",
-		"price": 2,
-		"category": "Lumber",
-		"defname": "LumberBirch"
-	},
-	{
 		"abr": "bishophat",
 		"price": 75,
 		"category": "Headgear",
 		"defname": "VIEHAR_Apparel_BishopHat"
-	},
-	{
-		"abr": "blackcloth",
-		"price": 2,
-		"category": "Dyed Cloth",
-		"defname": "BlackCloth"
-	},
-	{
-		"abr": "blackpalmlogs",
-		"price": 3,
-		"category": "Wood logs",
-		"defname": "WoodLog_Palm"
-	},
-	{
-		"abr": "blackpalmlumber",
-		"price": 7,
-		"category": "Lumber",
-		"defname": "LumberPalm"
 	},
 	{
 		"abr": "blacksyntheticleather",
@@ -8803,28 +8647,10 @@
 		"defname": "VBE_BlackTea"
 	},
 	{
-		"abr": "blendedwool",
-		"price": 4,
-		"category": "Wools",
-		"defname": "VG_BlendedWool"
-	},
-	{
-		"abr": "bluecloth",
-		"price": 2,
-		"category": "Dyed Cloth",
-		"defname": "BlueCloth"
-	},
-	{
 		"abr": "blueberries",
 		"price": 2,
 		"category": "Raw fruits",
 		"defname": "VCE_RawBlueberries"
-	},
-	{
-		"abr": "boardgameboxes",
-		"price": 583,
-		"category": "Misc",
-		"defname": "BoardGameBoxes"
 	},
 	{
 		"abr": "bone",
@@ -8837,12 +8663,6 @@
 		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertBook"
-	},
-	{
-		"abr": "bookshelf",
-		"price": 254,
-		"category": "Furniture",
-		"defname": "VanillaBooksExpandedExpanded_Bookshelf"
 	},
 	{
 		"abr": "boomgenome",
@@ -9043,36 +8863,6 @@
 		"defname": "VCE_RawBuckwheat"
 	},
 	{
-		"abr": "builder(i)basestation",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_I"
-	},
-	{
-		"abr": "builder(ii)basestation",
-		"price": 2058,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_II"
-	},
-	{
-		"abr": "builder(iii)basestation",
-		"price": 4533,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_III"
-	},
-	{
-		"abr": "builder(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_IV"
-	},
-	{
-		"abr": "builder(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_V"
-	},
-	{
 		"abr": "bulkwater",
 		"price": 264,
 		"category": "Furniture",
@@ -9119,12 +8909,6 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "VCE_RawCabbage"
-	},
-	{
-		"abr": "cagebrazier",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "VFEPD_CageBrazier"
 	},
 	{
 		"abr": "candle",
@@ -9247,66 +9031,6 @@
 		"defname": "VCE_RawMoss"
 	},
 	{
-		"abr": "cecropialogs",
-		"price": 2,
-		"category": "Wood logs",
-		"defname": "WoodLog_Cecropia"
-	},
-	{
-		"abr": "cecropialumber",
-		"price": 3,
-		"category": "Lumber",
-		"defname": "LumberCecropia"
-	},
-	{
-		"abr": "ceilingdarklamp",
-		"price": 50,
-		"category": "Furniture",
-		"defname": "GLCeilingLampDark"
-	},
-	{
-		"abr": "ceilinglamp",
-		"price": 50,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp"
-	},
-	{
-		"abr": "ceilinglamp(blue)",
-		"price": 50,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp_Blue"
-	},
-	{
-		"abr": "ceilinglamp(green)",
-		"price": 50,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp_Green"
-	},
-	{
-		"abr": "ceilinglamp(orange)",
-		"price": 50,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp_Orange"
-	},
-	{
-		"abr": "ceilinglamp(red)",
-		"price": 50,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp_Red"
-	},
-	{
-		"abr": "ceilinglamp(violet)",
-		"price": 50,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp_Violet"
-	},
-	{
-		"abr": "ceilinglamp(yellow)",
-		"price": 50,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp_Yellow"
-	},
-	{
 		"abr": "celery",
 		"price": 2,
 		"category": "Vegetarian",
@@ -9335,18 +9059,6 @@
 		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertChain"
-	},
-	{
-		"abr": "chalcedony",
-		"price": 8,
-		"category": "Gemstones",
-		"defname": "Z_Chalcedony"
-	},
-	{
-		"abr": "charactersheet",
-		"price": 250,
-		"category": "Recreation",
-		"defname": "CharacterSheet"
 	},
 	{
 		"abr": "charcoal",
@@ -9649,22 +9361,10 @@
 		"defname": "VBE_Cigarettes"
 	},
 	{
-		"abr": "cigarillos",
-		"price": 17,
-		"category": "Drugs",
-		"defname": "Cigarillos"
-	},
-	{
 		"abr": "cigars",
 		"price": 100,
 		"category": "Drugs",
 		"defname": "VBE_Cigars"
-	},
-	{
-		"abr": "circuitbreaker",
-		"price": 326,
-		"category": "Power",
-		"defname": "Building_RTCircuitBreaker"
 	},
 	{
 		"abr": "circulartable",
@@ -9673,70 +9373,16 @@
 		"defname": "TableCircular"
 	},
 	{
-		"abr": "citrine",
-		"price": 8,
-		"category": "Gemstones",
-		"defname": "Z_Citrine"
-	},
-	{
 		"abr": "claymore",
 		"price": 442,
 		"category": "Melee weapons",
 		"defname": "VFEM_MeleeWeapon_Claymore"
 	},
 	{
-		"abr": "cleanerbasestation",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner"
-	},
-	{
-		"abr": "cleaner(ii)basestation",
-		"price": 2058,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_II"
-	},
-	{
-		"abr": "cleaner(iii)basestation",
-		"price": 4533,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_III"
-	},
-	{
-		"abr": "cleaner(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_IV"
-	},
-	{
-		"abr": "cleaner(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_V"
-	},
-	{
-		"abr": "clustercolumn",
-		"price": 525,
-		"category": "Security",
-		"defname": "DetColumnMod"
-	},
-	{
 		"abr": "coal",
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "VMEu_Coal"
-	},
-	{
-		"abr": "cocoawoodlogs",
-		"price": 3,
-		"category": "Wood logs",
-		"defname": "WoodLog_Cocoa"
-	},
-	{
-		"abr": "cocoawoodlumber",
-		"price": 5,
-		"category": "Lumber",
-		"defname": "LumberCocoa"
 	},
 	{
 		"abr": "coconuts",
@@ -9755,42 +9401,6 @@
 		"price": 2,
 		"category": "Plant matter",
 		"defname": "VBE_RawCoffee"
-	},
-	{
-		"abr": "coffeetable(1x1)",
-		"price": 102,
-		"category": "Furniture",
-		"defname": "VFEPD_CoffeeTableSmall"
-	},
-	{
-		"abr": "coffeetable(2x1)",
-		"price": 103,
-		"category": "Furniture",
-		"defname": "VFEPD_CoffeeTable"
-	},
-	{
-		"abr": "colonistsoftherim",
-		"price": 250,
-		"category": "Furniture",
-		"defname": "ColonistsGame"
-	},
-	{
-		"abr": "coloredflakjacket",
-		"price": 525,
-		"category": "Armor",
-		"defname": "Apparel_ColorFlakJacket"
-	},
-	{
-		"abr": "coloredflakpants",
-		"price": 400,
-		"category": "Armor",
-		"defname": "Apparel_ColorFlakPants"
-	},
-	{
-		"abr": "coloredflakvest",
-		"price": 400,
-		"category": "Armor",
-		"defname": "Apparel_ColorFlakVest"
 	},
 	{
 		"abr": "colossalgenome",
@@ -9877,64 +9487,16 @@
 		"defname": "AEXP_Corgi"
 	},
 	{
-		"abr": "corkboard",
-		"price": 10,
-		"category": "Furniture",
-		"defname": "ucp_corkboard"
-	},
-	{
-		"abr": "cottonfibre",
-		"price": 2,
-		"category": "Raw textiles",
-		"defname": "RawCotton"
-	},
-	{
 		"abr": "cowwool",
 		"price": 4,
 		"category": "Wools",
 		"defname": "VFEV_WoolCow"
 	},
 	{
-		"abr": "crafter(i)basestation",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_I"
-	},
-	{
-		"abr": "crafter(ii)basestation",
-		"price": 2058,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_II"
-	},
-	{
-		"abr": "crafter(iii)basestation",
-		"price": 4533,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_III"
-	},
-	{
-		"abr": "crafter(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_IV"
-	},
-	{
-		"abr": "crafter(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_V"
-	},
-	{
 		"abr": "craftingbench",
 		"price": 158,
 		"category": "Production",
 		"defname": "VFEC_CraftingBench"
-	},
-	{
-		"abr": "crashedbattery",
-		"price": -10,
-		"category": "Power",
-		"defname": "Battery_CrashLanded"
 	},
 	{
 		"abr": "cratea",
@@ -10063,36 +9625,6 @@
 		"defname": "VCE_RawCucumber"
 	},
 	{
-		"abr": "curtain(tribal)(1x1)",
-		"price": 88,
-		"category": "Buildings",
-		"defname": "HeronCurtainTribal"
-	},
-	{
-		"abr": "curtain(tribal)(2x1)",
-		"price": 177,
-		"category": "Buildings",
-		"defname": "HeronCurtainTribalDouble"
-	},
-	{
-		"abr": "curtain(tribal)(3x1)",
-		"price": 265,
-		"category": "Buildings",
-		"defname": "HeronCurtainTribalTriple"
-	},
-	{
-		"abr": "cypresslogs",
-		"price": 2,
-		"category": "Wood logs",
-		"defname": "WoodLog_Cypress"
-	},
-	{
-		"abr": "cypresslumber",
-		"price": 5,
-		"category": "Lumber",
-		"defname": "LumberCypress"
-	},
-	{
 		"abr": "dagger",
 		"price": 154,
 		"category": "Melee weapons",
@@ -10117,18 +9649,6 @@
 		"defname": "VFEM_Apparel_DameHat"
 	},
 	{
-		"abr": "dandelioncuttings",
-		"price": 2,
-		"category": "Plant matter",
-		"defname": "VG_DandelionCuttings"
-	},
-	{
-		"abr": "dandeliontea",
-		"price": 17,
-		"category": "Drugs",
-		"defname": "VG_DandelionTea"
-	},
-	{
 		"abr": "daneaxe",
 		"price": 450,
 		"category": "Melee weapons",
@@ -10139,12 +9659,6 @@
 		"price": 1,
 		"category": "Furniture",
 		"defname": "VFEM_DarkCandle"
-	},
-	{
-		"abr": "darkcolumn",
-		"price": 170,
-		"category": "Misc",
-		"defname": "DarkColumnMod"
 	},
 	{
 		"abr": "darkoil",
@@ -10177,58 +9691,16 @@
 		"defname": "VWEFT_Gun_Derringer"
 	},
 	{
-		"abr": "desk",
-		"price": 138,
-		"category": "Furniture",
-		"defname": "VFEPD_Desk"
-	},
-	{
 		"abr": "detonatingunstableegg",
 		"price": 75,
 		"category": "Manufactured",
 		"defname": "GR_EggBomb"
 	},
 	{
-		"abr": "devilsholepupfish",
-		"price": 1,
-		"category": "Raw fish",
-		"defname": "RG_RawDevilsHole"
-	},
-	{
-		"abr": "de-worm",
-		"price": 53,
-		"category": "Drugs",
-		"defname": "Deworm"
-	},
-	{
-		"abr": "diamond",
-		"price": 12,
-		"category": "Raw resources",
-		"defname": "Diamond"
-	},
-	{
-		"abr": "dignifiedmeditationcushion",
-		"price": 333,
-		"category": "Furniture",
-		"defname": "DignifiedMeditationCushion"
-	},
-	{
 		"abr": "dinodoll",
 		"price": 321,
 		"category": "Toy",
 		"defname": "Dino_Doll"
-	},
-	{
-		"abr": "discretedictator",
-		"price": 250,
-		"category": "Furniture",
-		"defname": "DiscreteDictator"
-	},
-	{
-		"abr": "dmscreen",
-		"price": 250,
-		"category": "Furniture",
-		"defname": "DMScreen"
 	},
 	{
 		"abr": "dnastoragebank",
@@ -10247,48 +9719,6 @@
 		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Dogman"
-	},
-	{
-		"abr": "doormat",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "LT_DoorMatLeather"
-	},
-	{
-		"abr": "doormat(blue)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "LT_DoorMatBlue"
-	},
-	{
-		"abr": "doormat(green)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "LT_DoorMatGreen"
-	},
-	{
-		"abr": "doormat(orange)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "LT_DoorMatOrange"
-	},
-	{
-		"abr": "doormat(red)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "LT_DoorMatRed"
-	},
-	{
-		"abr": "doormat(teal)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "LT_DoorMatTeal"
-	},
-	{
-		"abr": "doublebeddingset",
-		"price": 342,
-		"category": "Beddings",
-		"defname": "DoubleBedding"
 	},
 	{
 		"abr": "doublefurbed",
@@ -10315,18 +9745,6 @@
 		"defname": "VFES_Gun_DoubleBarreledShotgun"
 	},
 	{
-		"abr": "dragologs",
-		"price": 3,
-		"category": "Wood logs",
-		"defname": "WoodLog_Drago"
-	},
-	{
-		"abr": "dragolumber",
-		"price": 2,
-		"category": "Lumber",
-		"defname": "LumberDrago"
-	},
-	{
 		"abr": "dronegeneticmaterial",
 		"price": -10,
 		"category": "Manufactured",
@@ -10343,12 +9761,6 @@
 		"price": 102,
 		"category": "Furniture",
 		"defname": "VDE_DryadNest"
-	},
-	{
-		"abr": "dyebarrel",
-		"price": 194,
-		"category": "Production",
-		"defname": "BarrelDye"
 	},
 	{
 		"abr": "dynamite",
@@ -10381,34 +9793,10 @@
 		"defname": "VMEu_ElectricMetalSmelter"
 	},
 	{
-		"abr": "electricglassworks",
-		"price": 255,
-		"category": "Production",
-		"defname": "GlassworkTable"
-	},
-	{
-		"abr": "electricloom",
-		"price": 525,
-		"category": "Production",
-		"defname": "TableElecLoom"
-	},
-	{
 		"abr": "electricmendingstation",
 		"price": 683,
 		"category": "Production",
 		"defname": "VFEA_ElectricMendingStation"
-	},
-	{
-		"abr": "electricwoodworkingtable",
-		"price": 533,
-		"category": "Production",
-		"defname": "ElectricTableWoodworking"
-	},
-	{
-		"abr": "electronicbrainpal",
-		"price": -10,
-		"category": "Bionic",
-		"defname": "ElectronicTacticalImplant"
 	},
 	{
 		"abr": "electrowomb",
@@ -10417,22 +9805,10 @@
 		"defname": "GR_ElectroWomb"
 	},
 	{
-		"abr": "emerald",
-		"price": 60,
-		"category": "Gemstones",
-		"defname": "Z_Emerald"
-	},
-	{
 		"abr": "empgrenadebelt",
 		"price": 558,
 		"category": "Utility",
 		"defname": "VWE_Apparel_GrenadeEMPBelt"
-	},
-	{
-		"abr": "emptybrazier",
-		"price": 167,
-		"category": "Furniture",
-		"defname": "VFEPD_BrazierEmpty"
 	},
 	{
 		"abr": "energydrink",
@@ -10445,24 +9821,6 @@
 		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertEngram"
-	},
-	{
-		"abr": "environmentalprotectionhelmet",
-		"price": 303,
-		"category": "Headgear",
-		"defname": "Apparel_ABC_Helmet"
-	},
-	{
-		"abr": "environmentalprotectionpants",
-		"price": 288,
-		"category": "Apparel",
-		"defname": "Apparel_ABC_Pants"
-	},
-	{
-		"abr": "environmentalprotectionsuit",
-		"price": 408,
-		"category": "Apparel",
-		"defname": "Apparel_ABC_Jacket"
 	},
 	{
 		"abr": "equinegenome",
@@ -10483,36 +9841,6 @@
 		"defname": "GR_ParagonHorse"
 	},
 	{
-		"abr": "er(i)basestation",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_I"
-	},
-	{
-		"abr": "er(ii)basestation",
-		"price": 2058,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_II"
-	},
-	{
-		"abr": "er(iii)basestation",
-		"price": 4533,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_III"
-	},
-	{
-		"abr": "er(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_IV"
-	},
-	{
-		"abr": "er(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_V"
-	},
-	{
 		"abr": "espressomachine",
 		"price": 201,
 		"category": "Production",
@@ -10523,18 +9851,6 @@
 		"price": 17,
 		"category": "Drugs",
 		"defname": "VBE_LemonCoffee"
-	},
-	{
-		"abr": "exitsign(green)",
-		"price": 72,
-		"category": "Furniture",
-		"defname": "ucp_exitsigngreen"
-	},
-	{
-		"abr": "exitsign(red)",
-		"price": 72,
-		"category": "Furniture",
-		"defname": "ucp_exitsignred"
 	},
 	{
 		"abr": "exoskeletonframe",
@@ -10651,18 +9967,6 @@
 		"defname": "TableFiveFingerFilet"
 	},
 	{
-		"abr": "flamecolumn",
-		"price": 525,
-		"category": "Security",
-		"defname": "FlameColumnMod"
-	},
-	{
-		"abr": "flamemeditationcushion",
-		"price": 333,
-		"category": "Furniture",
-		"defname": "FlameMeditationCushion"
-	},
-	{
 		"abr": "flashgrenadebelt",
 		"price": 658,
 		"category": "Utility",
@@ -10676,7 +9980,7 @@
 	},
 	{
 		"abr": "fleshflies",
-		"price": 17,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_FleshFlies"
 	},
@@ -10697,12 +10001,6 @@
 		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Fleshling"
-	},
-	{
-		"abr": "fluez",
-		"price": 37,
-		"category": "Drugs",
-		"defname": "VG_FluEz"
 	},
 	{
 		"abr": "fossil",
@@ -10735,18 +10033,6 @@
 		"defname": "VWEFT_Gun_FrontierPistol"
 	},
 	{
-		"abr": "frozencolumn",
-		"price": 867,
-		"category": "Misc",
-		"defname": "IceColumnMod"
-	},
-	{
-		"abr": "fueledglassworks",
-		"price": 268,
-		"category": "Production",
-		"defname": "FueledGlassworkTable"
-	},
-	{
 		"abr": "fueledmendingstation",
 		"price": 650,
 		"category": "Production",
@@ -10759,34 +10045,10 @@
 		"defname": "VFEV_FurBed"
 	},
 	{
-		"abr": "furbedding",
-		"price": 242,
-		"category": "Beddings",
-		"defname": "SingleTribalBedding"
-	},
-	{
 		"abr": "garliccloves",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "VCE_RawGarlic"
-	},
-	{
-		"abr": "garnet",
-		"price": 8,
-		"category": "Gemstones",
-		"defname": "Z_Garnet"
-	},
-	{
-		"abr": "gasmask",
-		"price": 149,
-		"category": "Headgear",
-		"defname": "Apparel_GasMask"
-	},
-	{
-		"abr": "gasmaskhelmet",
-		"price": 286,
-		"category": "Headgear",
-		"defname": "Apparel_GasHelmet"
 	},
 	{
 		"abr": "gatlinggunturret",
@@ -10799,48 +10061,6 @@
 		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertGauntlet"
-	},
-	{
-		"abr": "gauranlenleaves",
-		"price": 11,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavesorange"
-	},
-	{
-		"abr": "gauranlenleaves(corner)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavescornerorange"
-	},
-	{
-		"abr": "gauranlenleaves(inner)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavesinnerorange"
-	},
-	{
-		"abr": "gauranlenleaves(patterna)",
-		"price": 22,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavespatternAorange"
-	},
-	{
-		"abr": "gauranlenleaves(patternb)",
-		"price": 22,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavespatternBorange"
-	},
-	{
-		"abr": "gauranlenleaves(patternc)",
-		"price": 22,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavespatternCorange"
-	},
-	{
-		"abr": "gauranlenleaves(patternd)",
-		"price": 22,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavespatternDorange"
 	},
 	{
 		"abr": "gausslance",
@@ -10946,7 +10166,7 @@
 	},
 	{
 		"abr": "genomeexcavator",
-		"price": 167,
+		"price": -10,
 		"category": "Genome excavators",
 		"defname": "GR_GenomeExcavator"
 	},
@@ -11023,64 +10243,16 @@
 		"defname": "Girl_Doll"
 	},
 	{
-		"abr": "glass",
-		"price": 12,
-		"category": "Manufactured",
-		"defname": "Glass"
-	},
-	{
-		"abr": "glassworkstv",
-		"price": 1417,
-		"category": "Recreation",
-		"defname": "GlassMonitorLarge"
-	},
-	{
 		"abr": "go-juicestock",
 		"price": 150,
 		"category": "Condiments",
 		"defname": "VBE_GoJuiceStock"
 	},
 	{
-		"abr": "goldbracelet",
-		"price": 417,
-		"category": "Jewelry",
-		"defname": "Jewelry_Bracelet"
-	},
-	{
-		"abr": "goldearring",
-		"price": 267,
-		"category": "Jewelry",
-		"defname": "Jewelry_Earring"
-	},
-	{
-		"abr": "goldeltexnecklace",
-		"price": 750,
-		"category": "Jewelry",
-		"defname": "Jewelry_PsychicNecklace"
-	},
-	{
-		"abr": "goldnecklace",
-		"price": 600,
-		"category": "Jewelry",
-		"defname": "Jewelry_Necklace"
-	},
-	{
-		"abr": "goldring",
-		"price": 250,
-		"category": "Jewelry",
-		"defname": "Jewelry_Ring"
-	},
-	{
 		"abr": "gourmetcocktail",
 		"price": 125,
 		"category": "Meals",
 		"defname": "VBE_GourmetCocktail"
-	},
-	{
-		"abr": "grandstatueofcolonist",
-		"price": 1258,
-		"category": "Art",
-		"defname": "TMB_StatueOfColonistKGrand"
 	},
 	{
 		"abr": "grapemust",
@@ -11113,22 +10285,10 @@
 		"defname": "VCE_RawBeans"
 	},
 	{
-		"abr": "greencloth",
-		"price": 2,
-		"category": "Dyed Cloth",
-		"defname": "GreenCloth"
-	},
-	{
 		"abr": "greentea",
 		"price": 23,
 		"category": "Drugs",
 		"defname": "VBE_GreenTea"
-	},
-	{
-		"abr": "greycloth",
-		"price": 2,
-		"category": "Dyed Cloth",
-		"defname": "GreyCloth"
 	},
 	{
 		"abr": "growthcell",
@@ -11161,12 +10321,6 @@
 		"defname": "GR_WolffaloMilk"
 	},
 	{
-		"abr": "hammock",
-		"price": 121,
-		"category": "Furniture",
-		"defname": "Rede"
-	},
-	{
 		"abr": "handheldgatlinggun",
 		"price": 1617,
 		"category": "Ranged weapons",
@@ -11189,36 +10343,6 @@
 		"price": 392,
 		"category": "Ranged weapons",
 		"defname": "VFE_Harpoon"
-	},
-	{
-		"abr": "haulerbasestation",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler"
-	},
-	{
-		"abr": "hauler(ii)basestation",
-		"price": 2058,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_II"
-	},
-	{
-		"abr": "hauler(iii)basestation",
-		"price": 4533,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_III"
-	},
-	{
-		"abr": "hauler(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_IV"
-	},
-	{
-		"abr": "hauler(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_V"
 	},
 	{
 		"abr": "headbag",
@@ -11291,12 +10415,6 @@
 		"price": 308,
 		"category": "Shields",
 		"defname": "VFEC_Shield_Heavy"
-	},
-	{
-		"abr": "hemp",
-		"price": 5,
-		"category": "Textiles",
-		"defname": "HempCloth"
 	},
 	{
 		"abr": "hnefatafltable",
@@ -11545,22 +10663,10 @@
 		"defname": "GR_HybridSilk"
 	},
 	{
-		"abr": "ibuprofen",
-		"price": 18,
-		"category": "Drugs",
-		"defname": "VG_Ibuprofen"
-	},
-	{
 		"abr": "icedcoffee",
 		"price": 15,
 		"category": "Drugs",
 		"defname": "VBE_IceCoffee"
-	},
-	{
-		"abr": "ideoligionbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VanillaBooksExpandedExpanded_IdeoligionBook"
 	},
 	{
 		"abr": "idol",
@@ -11678,7 +10784,7 @@
 	},
 	{
 		"abr": "industrialsoupvat",
-		"price": 3383,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFEM_IndustrialSoupVat"
 	},
@@ -11773,66 +10879,6 @@
 		"defname": "VMEu_Iron"
 	},
 	{
-		"abr": "isr2g",
-		"price": 958,
-		"category": "Road equipment",
-		"defname": "RotR_ISR2GNew"
-	},
-	{
-		"abr": "isr2g",
-		"price": -10,
-		"category": "Power",
-		"defname": "RotR_ISR2G"
-	},
-	{
-		"abr": "ivyleaves",
-		"price": 11,
-		"category": "Furniture",
-		"defname": "ucp_ivyleaves"
-	},
-	{
-		"abr": "ivyleaves(corner)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavescorner"
-	},
-	{
-		"abr": "ivyleaves(inner)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavesinner"
-	},
-	{
-		"abr": "ivyleaves(patterna)",
-		"price": 22,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavespatternA"
-	},
-	{
-		"abr": "ivyleaves(patternb)",
-		"price": 22,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavespatternB"
-	},
-	{
-		"abr": "ivyleaves(patternc)",
-		"price": 22,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavespatternC"
-	},
-	{
-		"abr": "ivyleaves(patternd)",
-		"price": 22,
-		"category": "Furniture",
-		"defname": "ucp_ivyleavespatternD"
-	},
-	{
-		"abr": "janko",
-		"price": 583,
-		"category": "Recreation",
-		"defname": "Janko"
-	},
-	{
 		"abr": "jarlcape",
 		"price": 583,
 		"category": "Apparel",
@@ -11899,36 +10945,6 @@
 		"defname": "VFEM_Apparel_KingsCrown"
 	},
 	{
-		"abr": "kitchen(i)basestation",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_I"
-	},
-	{
-		"abr": "kitchen(ii)basestation",
-		"price": 2058,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_II"
-	},
-	{
-		"abr": "kitchen(iii)basestation",
-		"price": 4533,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_III"
-	},
-	{
-		"abr": "kitchen(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_IV"
-	},
-	{
-		"abr": "kitchen(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_V"
-	},
-	{
 		"abr": "kiteshield",
 		"price": 195,
 		"category": "Shields",
@@ -11941,70 +10957,16 @@
 		"defname": "VBE_Kombucha"
 	},
 	{
-		"abr": "lapis",
-		"price": 8,
-		"category": "Gemstones",
-		"defname": "Z_Lapis"
-	},
-	{
 		"abr": "largecanpallet",
 		"price": 120,
 		"category": "Furniture",
 		"defname": "JDS_Large_Can_Pallet"
 	},
 	{
-		"abr": "largecircularglass",
-		"price": 17,
-		"category": "Manufactured",
-		"defname": "LargeCircularGlass"
-	},
-	{
-		"abr": "largedoormat",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "LT_DoorMatBigLeather"
-	},
-	{
-		"abr": "largedoormat(blue)",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "LT_DoorMatBigBlue"
-	},
-	{
-		"abr": "largedoormat(green)",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "LT_DoorMatBigGreen"
-	},
-	{
-		"abr": "largedoormat(orange)",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "LT_DoorMatBigOrange"
-	},
-	{
-		"abr": "largedoormat(red)",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "LT_DoorMatBigRed"
-	},
-	{
-		"abr": "largedoormat(teal)",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "LT_DoorMatBigTeal"
-	},
-	{
 		"abr": "largeelectrowomb",
 		"price": 600,
 		"category": "Production",
 		"defname": "GR_LargeElectroWomb"
-	},
-	{
-		"abr": "largefurbedding",
-		"price": 408,
-		"category": "Beddings",
-		"defname": "DoubleTribalBedding"
 	},
 	{
 		"abr": "largelocker",
@@ -12055,12 +11017,6 @@
 		"defname": "JDS_Large_Post_Box"
 	},
 	{
-		"abr": "largestatueofcolonist",
-		"price": 633,
-		"category": "Art",
-		"defname": "TMB_StatueOfColonistKLarge"
-	},
-	{
 		"abr": "larvae",
 		"price": -10,
 		"category": "Animals",
@@ -12083,12 +11039,6 @@
 		"price": 5000,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_LaserRifle"
-	},
-	{
-		"abr": "lasersculptingtable",
-		"price": 850,
-		"category": "Production",
-		"defname": "LaserTableSculpting"
 	},
 	{
 		"abr": "lasershotgun",
@@ -12199,28 +11149,10 @@
 		"defname": "VWEFT_Gun_LeverActionShotgun"
 	},
 	{
-		"abr": "lightcolumn",
-		"price": 170,
-		"category": "Misc",
-		"defname": "LightColumnMod"
-	},
-	{
 		"abr": "lightplatehelmet",
 		"price": 153,
 		"category": "Headgear",
 		"defname": "VFEM_Apparel_PlateHelmetLight"
-	},
-	{
-		"abr": "limecloth",
-		"price": 2,
-		"category": "Dyed Cloth",
-		"defname": "LimeCloth"
-	},
-	{
-		"abr": "linencloth",
-		"price": 7,
-		"category": "Textiles",
-		"defname": "Flaxcloth"
 	},
 	{
 		"abr": "liquidfreezer",
@@ -12295,12 +11227,6 @@
 		"defname": "VBE_LuciferiumPowder"
 	},
 	{
-		"abr": "luijaboard",
-		"price": 583,
-		"category": "Recreation",
-		"defname": "LuijaBoard"
-	},
-	{
 		"abr": "lumpycheese",
 		"price": 18,
 		"category": "Meals",
@@ -12313,22 +11239,10 @@
 		"defname": "GR_LuxuriantHybridWool"
 	},
 	{
-		"abr": "magneticshield",
-		"price": 742,
-		"category": "Power",
-		"defname": "Building_RTMagneticShield"
-	},
-	{
 		"abr": "mainecoon",
 		"price": 1250,
 		"category": "Animals",
 		"defname": "AEXP_CatMaineCoon"
-	},
-	{
-		"abr": "makeshiftfuse",
-		"price": 190,
-		"category": "Power",
-		"defname": "Building_RTMakeshiftFuse"
 	},
 	{
 		"abr": "makeshiftlmg",
@@ -12421,24 +11335,6 @@
 		"defname": "GR_Manwolf"
 	},
 	{
-		"abr": "maplelogs",
-		"price": 2,
-		"category": "Wood logs",
-		"defname": "WoodLog_Maple"
-	},
-	{
-		"abr": "maplelumber",
-		"price": 2,
-		"category": "Lumber",
-		"defname": "LumberMaple"
-	},
-	{
-		"abr": "martialartstarget",
-		"price": 214,
-		"category": "Recreation",
-		"defname": "MartialArtsTarget"
-	},
-	{
 		"abr": "masalachai",
 		"price": 20,
 		"category": "Drugs",
@@ -12491,12 +11387,6 @@
 		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mechachicken"
-	},
-	{
-		"abr": "mecha-gone",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "MechaGone"
 	},
 	{
 		"abr": "mecha-horse",
@@ -12643,18 +11533,6 @@
 		"defname": "VCE_RawMelon"
 	},
 	{
-		"abr": "mendingkit",
-		"price": 17,
-		"category": "Manufactured",
-		"defname": "MendingKit"
-	},
-	{
-		"abr": "mendingworkbench",
-		"price": 583,
-		"category": "Production",
-		"defname": "TableMending"
-	},
-	{
 		"abr": "metalcrate",
 		"price": 264,
 		"category": "Furniture",
@@ -12703,18 +11581,6 @@
 		"defname": "JDSMetal_Shelf_B_Full"
 	},
 	{
-		"abr": "methadone",
-		"price": 27,
-		"category": "Drugs",
-		"defname": "Methadone"
-	},
-	{
-		"abr": "microturretlauncher",
-		"price": 1442,
-		"category": "Ranged weapons",
-		"defname": "Gun_MicroTurretLauncher"
-	},
-	{
 		"abr": "militarycap",
 		"price": 109,
 		"category": "Headgear",
@@ -12743,24 +11609,6 @@
 		"price": 3342,
 		"category": "Furniture",
 		"defname": "JDSMilitary_Grade_Crate_Small_Pile"
-	},
-	{
-		"abr": "minimalistmeditationcushion",
-		"price": 333,
-		"category": "Furniture",
-		"defname": "MinimalistMeditationCushion"
-	},
-	{
-		"abr": "mininghelmet",
-		"price": 322,
-		"category": "Headgear",
-		"defname": "Apparel_MiningHelmet"
-	},
-	{
-		"abr": "miningvest",
-		"price": 375,
-		"category": "Apparel",
-		"defname": "Apparel_MiningVest"
 	},
 	{
 		"abr": "mintcoffee",
@@ -12823,12 +11671,6 @@
 		"defname": "VWE_Apparel_GrenadeMolotovBelt"
 	},
 	{
-		"abr": "monopsony",
-		"price": 250,
-		"category": "Furniture",
-		"defname": "MonopsonyBoard"
-	},
-	{
 		"abr": "moonmachiningtable",
 		"price": 758,
 		"category": "Production",
@@ -12851,12 +11693,6 @@
 		"price": 203,
 		"category": "Headgear",
 		"defname": "VFEV_MooseHeaddress"
-	},
-	{
-		"abr": "morbidmeditationcushion",
-		"price": 333,
-		"category": "Furniture",
-		"defname": "MorbidMeditationCushion"
 	},
 	{
 		"abr": "muffalogenome",
@@ -12979,34 +11815,10 @@
 		"defname": "VFEA_NaniteSampler"
 	},
 	{
-		"abr": "nanoprinter",
-		"price": -10,
-		"category": "Production",
-		"defname": "NanoPrinter"
-	},
-	{
-		"abr": "nanoscanner",
-		"price": -10,
-		"category": "Production",
-		"defname": "NanoScanner"
-	},
-	{
 		"abr": "nanotechretractor",
 		"price": 5700,
 		"category": "Misc",
 		"defname": "VFEA_NanotechRetractor"
-	},
-	{
-		"abr": "naturemeditationcushion",
-		"price": 333,
-		"category": "Furniture",
-		"defname": "NatureMeditationCushion"
-	},
-	{
-		"abr": "neutroflowerpetals",
-		"price": 2,
-		"category": "Plant matter",
-		"defname": "NeutroPetals"
 	},
 	{
 		"abr": "neutroamineinfuser",
@@ -13052,21 +11864,9 @@
 	},
 	{
 		"abr": "nutrientvat",
-		"price": 248,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GR_NutrientVat"
-	},
-	{
-		"abr": "oaklogs",
-		"price": 3,
-		"category": "Wood logs",
-		"defname": "WoodLog_Oak"
-	},
-	{
-		"abr": "oaklumber",
-		"price": 6,
-		"category": "Lumber",
-		"defname": "LumberOak"
 	},
 	{
 		"abr": "oats",
@@ -13087,18 +11887,6 @@
 		"defname": "VCE_RawOlives"
 	},
 	{
-		"abr": "omni(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Omni_V"
-	},
-	{
-		"abr": "one",
-		"price": 250,
-		"category": "Furniture",
-		"defname": "OneCards"
-	},
-	{
 		"abr": "onions",
 		"price": 2,
 		"category": "Vegetarian",
@@ -13111,12 +11899,6 @@
 		"defname": "VFEC_Opium"
 	},
 	{
-		"abr": "orangecloth",
-		"price": 2,
-		"category": "Dyed Cloth",
-		"defname": "OrangeCloth"
-	},
-	{
 		"abr": "oranges",
 		"price": 2,
 		"category": "Raw fruits",
@@ -13127,18 +11909,6 @@
 		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertApple"
-	},
-	{
-		"abr": "orbitaltradecolumn",
-		"price": 358,
-		"category": "Misc",
-		"defname": "OrbitalTradeColumnMod"
-	},
-	{
-		"abr": "outdoorgroundlamp",
-		"price": 36,
-		"category": "Furniture",
-		"defname": "OutdoorGroundLamp"
 	},
 	{
 		"abr": "packagedsurvivalfinemeal",
@@ -13237,28 +12007,10 @@
 		"defname": "VFEI_PheromoneSecretor"
 	},
 	{
-		"abr": "pinelogs",
-		"price": 2,
-		"category": "Wood logs",
-		"defname": "WoodLog_Pine"
-	},
-	{
-		"abr": "pinelumber",
-		"price": 5,
-		"category": "Lumber",
-		"defname": "LumberPine"
-	},
-	{
 		"abr": "pineapples",
 		"price": 7,
 		"category": "Raw fruits",
 		"defname": "VCE_RawPineapple"
-	},
-	{
-		"abr": "pinkcloth",
-		"price": 2,
-		"category": "Dyed Cloth",
-		"defname": "PinkCloth"
 	},
 	{
 		"abr": "plaguemask",
@@ -13321,12 +12073,6 @@
 		"defname": "VFEM_MasonryAndMetallicsFactory_PlasteelForge"
 	},
 	{
-		"abr": "plasteelthread",
-		"price": 3,
-		"category": "Raw textiles",
-		"defname": "VG_PlasteelThread"
-	},
-	{
 		"abr": "plasticbricks",
 		"price": 1,
 		"category": "Raw resources",
@@ -13343,12 +12089,6 @@
 		"price": 134,
 		"category": "Art",
 		"defname": "VMEu_PlasticSculpture"
-	},
-	{
-		"abr": "playerhandbook",
-		"price": 583,
-		"category": "Misc",
-		"defname": "PlayerHandbook"
 	},
 	{
 		"abr": "plums",
@@ -13393,18 +12133,6 @@
 		"defname": "AEXP_Poodle"
 	},
 	{
-		"abr": "poplarlogs",
-		"price": 2,
-		"category": "Wood logs",
-		"defname": "WoodLog_Poplar"
-	},
-	{
-		"abr": "poplarlumber",
-		"price": 3,
-		"category": "Lumber",
-		"defname": "LumberPoplar"
-	},
-	{
 		"abr": "predatorstomach",
 		"price": 2000,
 		"category": "Insect",
@@ -13421,12 +12149,6 @@
 		"price": 1,
 		"category": "Raw resources",
 		"defname": "VMEu_RockPowder"
-	},
-	{
-		"abr": "printingpress",
-		"price": 717,
-		"category": "Production",
-		"defname": "VanillaBooksExpandedExpanded_PrintingPressManual"
 	},
 	{
 		"abr": "privateerarmor",
@@ -13513,78 +12235,6 @@
 		"defname": "VFES_PsychicPylon"
 	},
 	{
-		"abr": "psytrainer(arcticpinhole)",
-		"price": 667,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_MorePsycasts_ArcticPinhole"
-	},
-	{
-		"abr": "psytrainer(cleanskip)",
-		"price": 917,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_MorePsycasts_CleanSkip"
-	},
-	{
-		"abr": "psytrainer(fertilityskip)",
-		"price": 1667,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_MorePsycasts_FertilitySkip"
-	},
-	{
-		"abr": "psytrainer(flashheal)",
-		"price": 917,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_MorePsycasts_FlashHeal"
-	},
-	{
-		"abr": "psytrainer(haulskip)",
-		"price": 1167,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_MorePsycasts_HaulSkip"
-	},
-	{
-		"abr": "psytrainer(healscars)",
-		"price": 1167,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_MorePsycasts_HealScars"
-	},
-	{
-		"abr": "psytrainer(healingtouch)",
-		"price": 667,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_MorePsycasts_HealingTouch"
-	},
-	{
-		"abr": "psytrainer(ignite)",
-		"price": 417,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_MorePsycasts_Ignite"
-	},
-	{
-		"abr": "psytrainer(mending)",
-		"price": 1417,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_MorePsycasts_Mending"
-	},
-	{
-		"abr": "psytrainer(regrowbodyparts)",
-		"price": 1417,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_MorePsycasts_RegrowBodyParts"
-	},
-	{
-		"abr": "psytrainer(revivingtouch)",
-		"price": 1667,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_MorePsycasts_RevivingTouch"
-	},
-	{
-		"abr": "psytrainer(stabilizingtouch)",
-		"price": 417,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_MorePsycasts_StabilizingTouch"
-	},
-	{
 		"abr": "pug",
 		"price": 500,
 		"category": "Animals",
@@ -13609,18 +12259,6 @@
 		"defname": "Joy_PunchingBag"
 	},
 	{
-		"abr": "purewhitecloth",
-		"price": 2,
-		"category": "Dyed Cloth",
-		"defname": "PureWhiteCloth"
-	},
-	{
-		"abr": "purplecloth",
-		"price": 2,
-		"category": "Dyed Cloth",
-		"defname": "PurpleCloth"
-	},
-	{
 		"abr": "pyramid",
 		"price": -10,
 		"category": "Inert relics",
@@ -13631,12 +12269,6 @@
 		"price": 2800,
 		"category": "Production",
 		"defname": "VFE_Mechanoids_PyroBase"
-	},
-	{
-		"abr": "quartz",
-		"price": 3,
-		"category": "Gemstones",
-		"defname": "Z_Quartz"
 	},
 	{
 		"abr": "quiltedvest",
@@ -13921,18 +12553,6 @@
 		"defname": "VFE_Mechanoids_RaiderBase"
 	},
 	{
-		"abr": "railgun",
-		"price": 2667,
-		"category": "Ranged weapons",
-		"defname": "Gun_RailgunMKI"
-	},
-	{
-		"abr": "raspberries",
-		"price": 2,
-		"category": "Raw fruits",
-		"defname": "RG_RawRaspberries"
-	},
-	{
 		"abr": "ratcheese",
 		"price": 18,
 		"category": "Meals",
@@ -13963,24 +12583,6 @@
 		"defname": "VFEV_Apparel_RavagerHelmet"
 	},
 	{
-		"abr": "rawcactus",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "RG_RawCactus"
-	},
-	{
-		"abr": "rawdevilstrand",
-		"price": 5,
-		"category": "Raw textiles",
-		"defname": "RawDevilstrand"
-	},
-	{
-		"abr": "rawflax",
-		"price": 4,
-		"category": "Raw textiles",
-		"defname": "RawFlax"
-	},
-	{
 		"abr": "rawhoney",
 		"price": 7,
 		"category": "Animal products",
@@ -13991,24 +12593,6 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "VCE_RawBellPeppers"
-	},
-	{
-		"abr": "redcloth",
-		"price": 2,
-		"category": "Dyed Cloth",
-		"defname": "RedCloth"
-	},
-	{
-		"abr": "reinforcedglass",
-		"price": 30,
-		"category": "Manufactured",
-		"defname": "ReinforcedGlass"
-	},
-	{
-		"abr": "reinforcedglassworks",
-		"price": 600,
-		"category": "Production",
-		"defname": "ReinforcedGlassworkTable"
 	},
 	{
 		"abr": "relief",
@@ -14173,48 +12757,6 @@
 		"defname": "SignRoadLED"
 	},
 	{
-		"abr": "roboticcomponent",
-		"price": 333,
-		"category": "Items",
-		"defname": "RPP_Component"
-	},
-	{
-		"abr": "roboticmatrix(advanced)",
-		"price": 8817,
-		"category": "Items",
-		"defname": "RPP_Matrix_IV"
-	},
-	{
-		"abr": "roboticmatrix(anti-logic)",
-		"price": 17967,
-		"category": "Items",
-		"defname": "RPP_Matrix_V"
-	},
-	{
-		"abr": "roboticmatrix(basic)",
-		"price": 1825,
-		"category": "Items",
-		"defname": "RPP_Matrix_II"
-	},
-	{
-		"abr": "roboticmatrix(intermediate)",
-		"price": 4158,
-		"category": "Items",
-		"defname": "RPP_Matrix_III"
-	},
-	{
-		"abr": "roboticmatrix(simple)",
-		"price": 775,
-		"category": "Items",
-		"defname": "RPP_Matrix_I"
-	},
-	{
-		"abr": "roboticsworkbench",
-		"price": 1675,
-		"category": "Production",
-		"defname": "Table_RPP_RoboticsBench"
-	},
-	{
 		"abr": "rodentgenomegenetrainer",
 		"price": -10,
 		"category": "Genetrainers",
@@ -14341,12 +12883,6 @@
 		"defname": "Table_Royal3x3c"
 	},
 	{
-		"abr": "ruby",
-		"price": 10,
-		"category": "Raw resources",
-		"defname": "Ruby"
-	},
-	{
 		"abr": "ruinedfinegrill",
 		"price": 30,
 		"category": "Meals",
@@ -14395,46 +12931,10 @@
 		"defname": "SignArchWoodRustic"
 	},
 	{
-		"abr": "sacredwhitefox",
-		"price": 2500,
-		"category": "Animals",
-		"defname": "Whitefox"
-	},
-	{
-		"abr": "sacredwhitefoxtail",
-		"price": 750,
-		"category": "Items",
-		"defname": "WhitefoxTail"
-	},
-	{
-		"abr": "sacredwhitefoxwool",
-		"price": 10,
-		"category": "Wools",
-		"defname": "WhitefoxWool"
-	},
-	{
 		"abr": "safe",
 		"price": 400,
 		"category": "Furniture",
 		"defname": "JDSSafe"
-	},
-	{
-		"abr": "sake",
-		"price": 20,
-		"category": "Drugs",
-		"defname": "VBE_Sake"
-	},
-	{
-		"abr": "sakemush",
-		"price": 4,
-		"category": "Musts and syrups",
-		"defname": "VBE_SakeMush"
-	},
-	{
-		"abr": "sakestill",
-		"price": 56,
-		"category": "Production",
-		"defname": "VBE_SakeStill"
 	},
 	{
 		"abr": "salt",
@@ -14485,12 +12985,6 @@
 		"defname": "VWEL_Gun_SalvagedLaserSniperRifle"
 	},
 	{
-		"abr": "sapphire",
-		"price": 10,
-		"category": "Raw resources",
-		"defname": "Sapphire"
-	},
-	{
 		"abr": "scarecrow",
 		"price": 129,
 		"category": "Misc",
@@ -14531,12 +13025,6 @@
 		"price": 1058,
 		"category": "Security",
 		"defname": "VFES_Turret_SentryGun"
-	},
-	{
-		"abr": "serpentine",
-		"price": 8,
-		"category": "Gemstones",
-		"defname": "Z_Serpentine"
 	},
 	{
 		"abr": "shelf(1x1)",
@@ -14587,12 +13075,6 @@
 		"defname": "VWE_MeleeWeapon_Shiv"
 	},
 	{
-		"abr": "shootingtarget",
-		"price": -10,
-		"category": "Recreation",
-		"defname": "ShootingRangeTarget"
-	},
-	{
 		"abr": "shroud",
 		"price": -10,
 		"category": "Inert relics",
@@ -14627,36 +13109,6 @@
 		"price": 3275,
 		"category": "Furniture",
 		"defname": "JDSSilo"
-	},
-	{
-		"abr": "silverbracelet",
-		"price": 417,
-		"category": "Jewelry",
-		"defname": "Jewelry_Bracelet_Silver"
-	},
-	{
-		"abr": "silverearring",
-		"price": 267,
-		"category": "Jewelry",
-		"defname": "Jewelry_Earring_Silver"
-	},
-	{
-		"abr": "silvereltexnecklace",
-		"price": 750,
-		"category": "Jewelry",
-		"defname": "Jewelry_PsychicNecklace_Silver"
-	},
-	{
-		"abr": "silvernecklace",
-		"price": 600,
-		"category": "Jewelry",
-		"defname": "Jewelry_Necklace_Silver"
-	},
-	{
-		"abr": "silverring",
-		"price": 250,
-		"category": "Jewelry",
-		"defname": "Jewelry_Ring_Silver"
 	},
 	{
 		"abr": "simpleanimalearimplant",
@@ -14761,12 +13213,6 @@
 		"defname": "VFEA_SimulationDrive"
 	},
 	{
-		"abr": "singlebeddingset",
-		"price": 204,
-		"category": "Beddings",
-		"defname": "SingleBedding"
-	},
-	{
 		"abr": "sittingcushion",
 		"price": 86,
 		"category": "Furniture",
@@ -14845,12 +13291,6 @@
 		"defname": "VFE_RugSmall"
 	},
 	{
-		"abr": "smallshelf",
-		"price": 71,
-		"category": "Furniture",
-		"defname": "SmallShelf"
-	},
-	{
 		"abr": "smallshieldgenerator",
 		"price": 4317,
 		"category": "Security",
@@ -14864,7 +13304,7 @@
 	},
 	{
 		"abr": "smallvanometricpowercell",
-		"price": 667,
+		"price": -10,
 		"category": "Special",
 		"defname": "VFE_SmallVanometricPowerCell"
 	},
@@ -14951,12 +13391,6 @@
 		"price": 3550,
 		"category": "Furniture",
 		"defname": "VFEI_SonicInfestationRepeller"
-	},
-	{
-		"abr": "sorcery,theassembly",
-		"price": 250,
-		"category": "Furniture",
-		"defname": "SorceryCards"
 	},
 	{
 		"abr": "soysauce",
@@ -15091,12 +13525,6 @@
 		"defname": "VPE_GasLamp"
 	},
 	{
-		"abr": "statueofcolonist",
-		"price": 358,
-		"category": "Art",
-		"defname": "TMB_StatueOfColonistK"
-	},
-	{
 		"abr": "statuette",
 		"price": -10,
 		"category": "Inert relics",
@@ -15127,22 +13555,10 @@
 		"defname": "VAE_Headgear_StoneWarMask"
 	},
 	{
-		"abr": "succulentribs",
-		"price": 2,
-		"category": "Wood logs",
-		"defname": "WoodLog_Succulent"
-	},
-	{
 		"abr": "sugar",
 		"price": 20,
 		"category": "Condiments",
 		"defname": "VCE_RawSugar"
-	},
-	{
-		"abr": "suncolumn",
-		"price": 800,
-		"category": "Misc",
-		"defname": "SunColumnMod"
 	},
 	{
 		"abr": "sunflowerseeds",
@@ -15313,12 +13729,6 @@
 		"defname": "VFEM_Apparel_Tabard"
 	},
 	{
-		"abr": "table",
-		"price": 62,
-		"category": "Furniture",
-		"defname": "GlassTableShort"
-	},
-	{
 		"abr": "table(1x1)",
 		"price": 70,
 		"category": "Furniture",
@@ -15343,12 +13753,6 @@
 		"defname": "VFE_TailorCabinet"
 	},
 	{
-		"abr": "tailor'sloom",
-		"price": 264,
-		"category": "Production",
-		"defname": "TableLoom"
-	},
-	{
 		"abr": "taroroots",
 		"price": 2,
 		"category": "Vegetarian",
@@ -15367,6 +13771,1770 @@
 		"defname": "VBE_RawTea"
 	},
 	{
+		"abr": "teargasgrenadebelt",
+		"price": 458,
+		"category": "Utility",
+		"defname": "VWE_Apparel_GrenadeTearGasBelt"
+	},
+	{
+		"abr": "tech",
+		"price": -10,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertEngine"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Red"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Blue"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Green"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Violet"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Yellow"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Orange"
+	},
+	{
+		"abr": "(old)walllamp",
+		"price": 45,
+		"category": "Furniture",
+		"defname": "WallLamp"
+	},
+	{
+		"abr": "acacialogs",
+		"price": 4,
+		"category": "Wood logs",
+		"defname": "WoodLog_Acacia"
+	},
+	{
+		"abr": "acacialumber",
+		"price": 8,
+		"category": "Lumber",
+		"defname": "LumberAcacia"
+	},
+	{
+		"abr": "advancedgasmaskhelmet",
+		"price": 583,
+		"category": "Headgear",
+		"defname": "Apparel_GasKevlar"
+	},
+	{
+		"abr": "affixsix",
+		"price": 583,
+		"category": "Recreation",
+		"defname": "AffixSix"
+	},
+	{
+		"abr": "aisr2g",
+		"price": 4083,
+		"category": "Road equipment",
+		"defname": "RotR_AISR2GNew"
+	},
+	{
+		"abr": "aisr2g",
+		"price": 10900,
+		"category": "Power",
+		"defname": "RotR_AISR2G"
+	},
+	{
+		"abr": "amethyst",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Amethyst"
+	},
+	{
+		"abr": "antibiotics",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "VG_antibiotics"
+	},
+	{
+		"abr": "applewoodlogs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "WoodLog_Apple"
+	},
+	{
+		"abr": "applewoodlumber",
+		"price": 4,
+		"category": "Lumber",
+		"defname": "LumberApple"
+	},
+	{
+		"abr": "archerytarget",
+		"price": 248,
+		"category": "Recreation",
+		"defname": "ArcheryTarget"
+	},
+	{
+		"abr": "artisticmeditationcushion",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "ArtisticMeditationCushion"
+	},
+	{
+		"abr": "bamboo",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "Bamboo"
+	},
+	{
+		"abr": "bamboolumber",
+		"price": 2,
+		"category": "Lumber",
+		"defname": "LumberBamboo"
+	},
+	{
+		"abr": "bandagekit",
+		"price": 10,
+		"category": "Medicine",
+		"defname": "Bandagekit"
+	},
+	{
+		"abr": "banner",
+		"price": 295,
+		"category": "Furniture",
+		"defname": "VFEPD_Banner"
+	},
+	{
+		"abr": "bionicbrainpal",
+		"price": 5000,
+		"category": "Bionic",
+		"defname": "BionicTacticalImplant"
+	},
+	{
+		"abr": "birchlogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Birch"
+	},
+	{
+		"abr": "birchlumber",
+		"price": 2,
+		"category": "Lumber",
+		"defname": "LumberBirch"
+	},
+	{
+		"abr": "blackcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "BlackCloth"
+	},
+	{
+		"abr": "blackpalmlogs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "WoodLog_Palm"
+	},
+	{
+		"abr": "blackpalmlumber",
+		"price": 7,
+		"category": "Lumber",
+		"defname": "LumberPalm"
+	},
+	{
+		"abr": "blendedwool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "VG_BlendedWool"
+	},
+	{
+		"abr": "bluecloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "BlueCloth"
+	},
+	{
+		"abr": "boardgameboxes",
+		"price": 583,
+		"category": "Misc",
+		"defname": "BoardGameBoxes"
+	},
+	{
+		"abr": "bookshelf",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "VanillaBooksExpandedExpanded_Bookshelf"
+	},
+	{
+		"abr": "builder(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_I"
+	},
+	{
+		"abr": "builder(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_II"
+	},
+	{
+		"abr": "builder(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_III"
+	},
+	{
+		"abr": "builder(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_IV"
+	},
+	{
+		"abr": "builder(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_V"
+	},
+	{
+		"abr": "cagebrazier",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "VFEPD_CageBrazier"
+	},
+	{
+		"abr": "camellialogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Camellia"
+	},
+	{
+		"abr": "camellialumber",
+		"price": 3,
+		"category": "Lumber",
+		"defname": "LumberCamellia"
+	},
+	{
+		"abr": "cecropialogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Cecropia"
+	},
+	{
+		"abr": "cecropialumber",
+		"price": 3,
+		"category": "Lumber",
+		"defname": "LumberCecropia"
+	},
+	{
+		"abr": "ceilingdarklamp",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLampDark"
+	},
+	{
+		"abr": "ceilinglamp",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp"
+	},
+	{
+		"abr": "ceilinglamp(blue)",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Blue"
+	},
+	{
+		"abr": "ceilinglamp(green)",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Green"
+	},
+	{
+		"abr": "ceilinglamp(orange)",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Orange"
+	},
+	{
+		"abr": "ceilinglamp(red)",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Red"
+	},
+	{
+		"abr": "ceilinglamp(violet)",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Violet"
+	},
+	{
+		"abr": "ceilinglamp(yellow)",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Yellow"
+	},
+	{
+		"abr": "chalcedony",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Chalcedony"
+	},
+	{
+		"abr": "charactersheet",
+		"price": 250,
+		"category": "Recreation",
+		"defname": "CharacterSheet"
+	},
+	{
+		"abr": "cherryblossomlogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_CherryBlossom"
+	},
+	{
+		"abr": "cherryblossomlumber",
+		"price": 6,
+		"category": "Lumber",
+		"defname": "LumberCherryBlossom"
+	},
+	{
+		"abr": "cherrywoodlogs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "WoodLog_Cherry"
+	},
+	{
+		"abr": "cherrywoodlumber",
+		"price": 5,
+		"category": "Lumber",
+		"defname": "LumberCherry"
+	},
+	{
+		"abr": "cigarillos",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Cigarillos"
+	},
+	{
+		"abr": "circuitbreaker",
+		"price": 326,
+		"category": "Power",
+		"defname": "Building_RTCircuitBreaker"
+	},
+	{
+		"abr": "citrine",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Citrine"
+	},
+	{
+		"abr": "cleanerbasestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner"
+	},
+	{
+		"abr": "cleaner(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_II"
+	},
+	{
+		"abr": "cleaner(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_III"
+	},
+	{
+		"abr": "cleaner(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_IV"
+	},
+	{
+		"abr": "cleaner(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_V"
+	},
+	{
+		"abr": "clustercolumn",
+		"price": 525,
+		"category": "Security",
+		"defname": "DetColumnMod"
+	},
+	{
+		"abr": "cocoawoodlogs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "WoodLog_Cocoa"
+	},
+	{
+		"abr": "cocoawoodlumber",
+		"price": 5,
+		"category": "Lumber",
+		"defname": "LumberCocoa"
+	},
+	{
+		"abr": "coffeetable(1x1)",
+		"price": 102,
+		"category": "Furniture",
+		"defname": "VFEPD_CoffeeTableSmall"
+	},
+	{
+		"abr": "coffeetable(2x1)",
+		"price": 103,
+		"category": "Furniture",
+		"defname": "VFEPD_CoffeeTable"
+	},
+	{
+		"abr": "colonistsoftherim",
+		"price": 250,
+		"category": "Furniture",
+		"defname": "ColonistsGame"
+	},
+	{
+		"abr": "coloredflakjacket",
+		"price": 525,
+		"category": "Armor",
+		"defname": "Apparel_ColorFlakJacket"
+	},
+	{
+		"abr": "coloredflakpants",
+		"price": 400,
+		"category": "Armor",
+		"defname": "Apparel_ColorFlakPants"
+	},
+	{
+		"abr": "coloredflakvest",
+		"price": 400,
+		"category": "Armor",
+		"defname": "Apparel_ColorFlakVest"
+	},
+	{
+		"abr": "corkboard",
+		"price": 10,
+		"category": "Furniture",
+		"defname": "ucp_corkboard"
+	},
+	{
+		"abr": "cottonfibre",
+		"price": 2,
+		"category": "Raw textiles",
+		"defname": "RawCotton"
+	},
+	{
+		"abr": "crafter(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_I"
+	},
+	{
+		"abr": "crafter(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_II"
+	},
+	{
+		"abr": "crafter(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_III"
+	},
+	{
+		"abr": "crafter(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_IV"
+	},
+	{
+		"abr": "crafter(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_V"
+	},
+	{
+		"abr": "crashedbattery",
+		"price": 270,
+		"category": "Power",
+		"defname": "Battery_CrashLanded"
+	},
+	{
+		"abr": "curtain(tribal)(1x1)",
+		"price": 88,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribal"
+	},
+	{
+		"abr": "curtain(tribal)(2x1)",
+		"price": 177,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribalDouble"
+	},
+	{
+		"abr": "curtain(tribal)(3x1)",
+		"price": 265,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribalTriple"
+	},
+	{
+		"abr": "cypresslogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Cypress"
+	},
+	{
+		"abr": "cypresslumber",
+		"price": 5,
+		"category": "Lumber",
+		"defname": "LumberCypress"
+	},
+	{
+		"abr": "dandelioncuttings",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "VG_DandelionCuttings"
+	},
+	{
+		"abr": "dandeliontea",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "VG_DandelionTea"
+	},
+	{
+		"abr": "darkcolumn",
+		"price": 170,
+		"category": "Misc",
+		"defname": "DarkColumnMod"
+	},
+	{
+		"abr": "datepalmlogs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "WoodLog_DatePalm"
+	},
+	{
+		"abr": "datepalmlumber",
+		"price": 6,
+		"category": "Lumber",
+		"defname": "LumberDatePalm"
+	},
+	{
+		"abr": "desk",
+		"price": 138,
+		"category": "Furniture",
+		"defname": "VFEPD_Desk"
+	},
+	{
+		"abr": "devilsholepupfish",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "RG_RawDevilsHole"
+	},
+	{
+		"abr": "de-worm",
+		"price": 53,
+		"category": "Drugs",
+		"defname": "Deworm"
+	},
+	{
+		"abr": "diamond",
+		"price": 12,
+		"category": "Raw resources",
+		"defname": "Diamond"
+	},
+	{
+		"abr": "dignifiedmeditationcushion",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "DignifiedMeditationCushion"
+	},
+	{
+		"abr": "discretedictator",
+		"price": 250,
+		"category": "Furniture",
+		"defname": "DiscreteDictator"
+	},
+	{
+		"abr": "dmscreen",
+		"price": 250,
+		"category": "Furniture",
+		"defname": "DMScreen"
+	},
+	{
+		"abr": "doormat",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatLeather"
+	},
+	{
+		"abr": "doormat(blue)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBlue"
+	},
+	{
+		"abr": "doormat(green)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatGreen"
+	},
+	{
+		"abr": "doormat(orange)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatOrange"
+	},
+	{
+		"abr": "doormat(red)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatRed"
+	},
+	{
+		"abr": "doormat(teal)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatTeal"
+	},
+	{
+		"abr": "doublebeddingset",
+		"price": 342,
+		"category": "Beddings",
+		"defname": "DoubleBedding"
+	},
+	{
+		"abr": "dragologs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "WoodLog_Drago"
+	},
+	{
+		"abr": "dragolumber",
+		"price": 2,
+		"category": "Lumber",
+		"defname": "LumberDrago"
+	},
+	{
+		"abr": "dyebarrel",
+		"price": 194,
+		"category": "Production",
+		"defname": "BarrelDye"
+	},
+	{
+		"abr": "electricglassworks",
+		"price": 255,
+		"category": "Production",
+		"defname": "GlassworkTable"
+	},
+	{
+		"abr": "electricloom",
+		"price": 525,
+		"category": "Production",
+		"defname": "TableElecLoom"
+	},
+	{
+		"abr": "electricwoodworkingtable",
+		"price": 533,
+		"category": "Production",
+		"defname": "ElectricTableWoodworking"
+	},
+	{
+		"abr": "electronicbrainpal",
+		"price": 3083,
+		"category": "Bionic",
+		"defname": "ElectronicTacticalImplant"
+	},
+	{
+		"abr": "emerald",
+		"price": 60,
+		"category": "Gemstones",
+		"defname": "Z_Emerald"
+	},
+	{
+		"abr": "emptybrazier",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "VFEPD_BrazierEmpty"
+	},
+	{
+		"abr": "environmentalprotectionhelmet",
+		"price": 303,
+		"category": "Headgear",
+		"defname": "Apparel_ABC_Helmet"
+	},
+	{
+		"abr": "environmentalprotectionpants",
+		"price": 288,
+		"category": "Apparel",
+		"defname": "Apparel_ABC_Pants"
+	},
+	{
+		"abr": "environmentalprotectionsuit",
+		"price": 408,
+		"category": "Apparel",
+		"defname": "Apparel_ABC_Jacket"
+	},
+	{
+		"abr": "er(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_I"
+	},
+	{
+		"abr": "er(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_II"
+	},
+	{
+		"abr": "er(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_III"
+	},
+	{
+		"abr": "er(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_IV"
+	},
+	{
+		"abr": "er(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_V"
+	},
+	{
+		"abr": "exitsign(green)",
+		"price": 72,
+		"category": "Furniture",
+		"defname": "ucp_exitsigngreen"
+	},
+	{
+		"abr": "exitsign(red)",
+		"price": 72,
+		"category": "Furniture",
+		"defname": "ucp_exitsignred"
+	},
+	{
+		"abr": "figwoodlogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Fig"
+	},
+	{
+		"abr": "figwoodlumber",
+		"price": 5,
+		"category": "Lumber",
+		"defname": "LumberFig"
+	},
+	{
+		"abr": "flamecolumn",
+		"price": 525,
+		"category": "Security",
+		"defname": "FlameColumnMod"
+	},
+	{
+		"abr": "flamemeditationcushion",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "FlameMeditationCushion"
+	},
+	{
+		"abr": "fluez",
+		"price": 37,
+		"category": "Drugs",
+		"defname": "VG_FluEz"
+	},
+	{
+		"abr": "frozencolumn",
+		"price": 867,
+		"category": "Misc",
+		"defname": "IceColumnMod"
+	},
+	{
+		"abr": "fueledglassworks",
+		"price": 268,
+		"category": "Production",
+		"defname": "FueledGlassworkTable"
+	},
+	{
+		"abr": "furbedding",
+		"price": 242,
+		"category": "Beddings",
+		"defname": "SingleTribalBedding"
+	},
+	{
+		"abr": "garnet",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Garnet"
+	},
+	{
+		"abr": "gasmask",
+		"price": 149,
+		"category": "Headgear",
+		"defname": "Apparel_GasMask"
+	},
+	{
+		"abr": "gasmaskhelmet",
+		"price": 286,
+		"category": "Headgear",
+		"defname": "Apparel_GasHelmet"
+	},
+	{
+		"abr": "gauranlenleaves",
+		"price": 11,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavesorange"
+	},
+	{
+		"abr": "gauranlenleaves(corner)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavescornerorange"
+	},
+	{
+		"abr": "gauranlenleaves(inner)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavesinnerorange"
+	},
+	{
+		"abr": "gauranlenleaves(patterna)",
+		"price": 22,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavespatternAorange"
+	},
+	{
+		"abr": "gauranlenleaves(patternb)",
+		"price": 22,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavespatternBorange"
+	},
+	{
+		"abr": "gauranlenleaves(patternc)",
+		"price": 22,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavespatternCorange"
+	},
+	{
+		"abr": "gauranlenleaves(patternd)",
+		"price": 22,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavespatternDorange"
+	},
+	{
+		"abr": "glass",
+		"price": 12,
+		"category": "Manufactured",
+		"defname": "Glass"
+	},
+	{
+		"abr": "glassworkstv",
+		"price": 1417,
+		"category": "Recreation",
+		"defname": "GlassMonitorLarge"
+	},
+	{
+		"abr": "goldbracelet",
+		"price": 417,
+		"category": "Jewelry",
+		"defname": "Jewelry_Bracelet"
+	},
+	{
+		"abr": "goldearring",
+		"price": 267,
+		"category": "Jewelry",
+		"defname": "Jewelry_Earring"
+	},
+	{
+		"abr": "goldeltexnecklace",
+		"price": 750,
+		"category": "Jewelry",
+		"defname": "Jewelry_PsychicNecklace"
+	},
+	{
+		"abr": "goldnecklace",
+		"price": 600,
+		"category": "Jewelry",
+		"defname": "Jewelry_Necklace"
+	},
+	{
+		"abr": "goldring",
+		"price": 250,
+		"category": "Jewelry",
+		"defname": "Jewelry_Ring"
+	},
+	{
+		"abr": "grandstatueofcolonist",
+		"price": 1258,
+		"category": "Art",
+		"defname": "TMB_StatueOfColonistKGrand"
+	},
+	{
+		"abr": "greencloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "GreenCloth"
+	},
+	{
+		"abr": "greycloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "GreyCloth"
+	},
+	{
+		"abr": "hammock",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "Rede"
+	},
+	{
+		"abr": "haulerbasestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler"
+	},
+	{
+		"abr": "hauler(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_II"
+	},
+	{
+		"abr": "hauler(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_III"
+	},
+	{
+		"abr": "hauler(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_IV"
+	},
+	{
+		"abr": "hauler(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_V"
+	},
+	{
+		"abr": "hemp",
+		"price": 5,
+		"category": "Textiles",
+		"defname": "HempCloth"
+	},
+	{
+		"abr": "ibuprofen",
+		"price": 18,
+		"category": "Drugs",
+		"defname": "VG_Ibuprofen"
+	},
+	{
+		"abr": "ideoligionbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VanillaBooksExpandedExpanded_IdeoligionBook"
+	},
+	{
+		"abr": "ironwoodlogs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "VG_IronWoodLog"
+	},
+	{
+		"abr": "ironwoodlumber",
+		"price": 6,
+		"category": "Lumber",
+		"defname": "VG_LumberIronwood"
+	},
+	{
+		"abr": "isr2g",
+		"price": 958,
+		"category": "Road equipment",
+		"defname": "RotR_ISR2GNew"
+	},
+	{
+		"abr": "isr2g",
+		"price": 48,
+		"category": "Power",
+		"defname": "RotR_ISR2G"
+	},
+	{
+		"abr": "ivyleaves",
+		"price": 11,
+		"category": "Furniture",
+		"defname": "ucp_ivyleaves"
+	},
+	{
+		"abr": "ivyleaves(corner)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavescorner"
+	},
+	{
+		"abr": "ivyleaves(inner)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavesinner"
+	},
+	{
+		"abr": "ivyleaves(patterna)",
+		"price": 22,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavespatternA"
+	},
+	{
+		"abr": "ivyleaves(patternb)",
+		"price": 22,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavespatternB"
+	},
+	{
+		"abr": "ivyleaves(patternc)",
+		"price": 22,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavespatternC"
+	},
+	{
+		"abr": "ivyleaves(patternd)",
+		"price": 22,
+		"category": "Furniture",
+		"defname": "ucp_ivyleavespatternD"
+	},
+	{
+		"abr": "janko",
+		"price": 583,
+		"category": "Recreation",
+		"defname": "Janko"
+	},
+	{
+		"abr": "japanesemaplelogs",
+		"price": 4,
+		"category": "Wood logs",
+		"defname": "WoodLog_JapaneseMaple"
+	},
+	{
+		"abr": "japanesemaplelumber",
+		"price": 8,
+		"category": "Lumber",
+		"defname": "LumberJapaneseMaple"
+	},
+	{
+		"abr": "kitchen(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_I"
+	},
+	{
+		"abr": "kitchen(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_II"
+	},
+	{
+		"abr": "kitchen(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_III"
+	},
+	{
+		"abr": "kitchen(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_IV"
+	},
+	{
+		"abr": "kitchen(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_V"
+	},
+	{
+		"abr": "lapis",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Lapis"
+	},
+	{
+		"abr": "largecircularglass",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "LargeCircularGlass"
+	},
+	{
+		"abr": "largedoormat",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigLeather"
+	},
+	{
+		"abr": "largedoormat(blue)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigBlue"
+	},
+	{
+		"abr": "largedoormat(green)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigGreen"
+	},
+	{
+		"abr": "largedoormat(orange)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigOrange"
+	},
+	{
+		"abr": "largedoormat(red)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigRed"
+	},
+	{
+		"abr": "largedoormat(teal)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigTeal"
+	},
+	{
+		"abr": "largefurbedding",
+		"price": 408,
+		"category": "Beddings",
+		"defname": "DoubleTribalBedding"
+	},
+	{
+		"abr": "largestatueofcolonist",
+		"price": 633,
+		"category": "Art",
+		"defname": "TMB_StatueOfColonistKLarge"
+	},
+	{
+		"abr": "lasersculptingtable",
+		"price": 850,
+		"category": "Production",
+		"defname": "LaserTableSculpting"
+	},
+	{
+		"abr": "lightcolumn",
+		"price": 170,
+		"category": "Misc",
+		"defname": "LightColumnMod"
+	},
+	{
+		"abr": "limecloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "LimeCloth"
+	},
+	{
+		"abr": "linencloth",
+		"price": 7,
+		"category": "Textiles",
+		"defname": "Flaxcloth"
+	},
+	{
+		"abr": "luijaboard",
+		"price": 583,
+		"category": "Recreation",
+		"defname": "LuijaBoard"
+	},
+	{
+		"abr": "magneticshield",
+		"price": 742,
+		"category": "Power",
+		"defname": "Building_RTMagneticShield"
+	},
+	{
+		"abr": "makeshiftfuse",
+		"price": 190,
+		"category": "Power",
+		"defname": "Building_RTMakeshiftFuse"
+	},
+	{
+		"abr": "maplelogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Maple"
+	},
+	{
+		"abr": "maplelumber",
+		"price": 2,
+		"category": "Lumber",
+		"defname": "LumberMaple"
+	},
+	{
+		"abr": "martialartstarget",
+		"price": 214,
+		"category": "Recreation",
+		"defname": "MartialArtsTarget"
+	},
+	{
+		"abr": "mecha-gone",
+		"price": 117,
+		"category": "Drugs",
+		"defname": "MechaGone"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "methadone",
+		"price": 27,
+		"category": "Drugs",
+		"defname": "Methadone"
+	},
+	{
+		"abr": "microturretlauncher",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "Gun_MicroTurretLauncher"
+	},
+	{
+		"abr": "minimalistmeditationcushion",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "MinimalistMeditationCushion"
+	},
+	{
+		"abr": "mininghelmet",
+		"price": 322,
+		"category": "Headgear",
+		"defname": "Apparel_MiningHelmet"
+	},
+	{
+		"abr": "miningvest",
+		"price": 375,
+		"category": "Apparel",
+		"defname": "Apparel_MiningVest"
+	},
+	{
+		"abr": "monopsony",
+		"price": 250,
+		"category": "Furniture",
+		"defname": "MonopsonyBoard"
+	},
+	{
+		"abr": "morbidmeditationcushion",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "MorbidMeditationCushion"
+	},
+	{
+		"abr": "nanoprinter",
+		"price": 758,
+		"category": "Production",
+		"defname": "NanoPrinter"
+	},
+	{
+		"abr": "nanoscanner",
+		"price": 160,
+		"category": "Production",
+		"defname": "NanoScanner"
+	},
+	{
+		"abr": "naturemeditationcushion",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "NatureMeditationCushion"
+	},
+	{
+		"abr": "neutroflowerpetals",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "NeutroPetals"
+	},
+	{
+		"abr": "oaklogs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "WoodLog_Oak"
+	},
+	{
+		"abr": "oaklumber",
+		"price": 6,
+		"category": "Lumber",
+		"defname": "LumberOak"
+	},
+	{
+		"abr": "omni(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Omni_V"
+	},
+	{
+		"abr": "one",
+		"price": 250,
+		"category": "Furniture",
+		"defname": "OneCards"
+	},
+	{
+		"abr": "orangecloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "OrangeCloth"
+	},
+	{
+		"abr": "orangewoodlogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Orange"
+	},
+	{
+		"abr": "orangewoodlumber",
+		"price": 3,
+		"category": "Lumber",
+		"defname": "LumberOrange"
+	},
+	{
+		"abr": "orbitaltradecolumn",
+		"price": 358,
+		"category": "Misc",
+		"defname": "OrbitalTradeColumnMod"
+	},
+	{
+		"abr": "outdoorgroundlamp",
+		"price": 36,
+		"category": "Furniture",
+		"defname": "OutdoorGroundLamp"
+	},
+	{
+		"abr": "peachwoodlogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Peach"
+	},
+	{
+		"abr": "peachwoodlumber",
+		"price": 5,
+		"category": "Lumber",
+		"defname": "LumberPeach"
+	},
+	{
+		"abr": "pinelogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Pine"
+	},
+	{
+		"abr": "pinelumber",
+		"price": 5,
+		"category": "Lumber",
+		"defname": "LumberPine"
+	},
+	{
+		"abr": "pinkcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "PinkCloth"
+	},
+	{
+		"abr": "plasteelthread",
+		"price": 3,
+		"category": "Raw textiles",
+		"defname": "VG_PlasteelThread"
+	},
+	{
+		"abr": "playerhandbook",
+		"price": 583,
+		"category": "Misc",
+		"defname": "PlayerHandbook"
+	},
+	{
+		"abr": "poplarlogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Poplar"
+	},
+	{
+		"abr": "poplarlumber",
+		"price": 3,
+		"category": "Lumber",
+		"defname": "LumberPoplar"
+	},
+	{
+		"abr": "printingpress",
+		"price": 717,
+		"category": "Production",
+		"defname": "VanillaBooksExpandedExpanded_PrintingPressManual"
+	},
+	{
+		"abr": "psytrainer(arcticpinhole)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_ArcticPinhole"
+	},
+	{
+		"abr": "psytrainer(cleanskip)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_CleanSkip"
+	},
+	{
+		"abr": "psytrainer(fertilityskip)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_FertilitySkip"
+	},
+	{
+		"abr": "psytrainer(flashheal)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_FlashHeal"
+	},
+	{
+		"abr": "psytrainer(haulskip)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_HaulSkip"
+	},
+	{
+		"abr": "psytrainer(healscars)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_HealScars"
+	},
+	{
+		"abr": "psytrainer(healingtouch)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_HealingTouch"
+	},
+	{
+		"abr": "psytrainer(ignite)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_Ignite"
+	},
+	{
+		"abr": "psytrainer(mending)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_Mending"
+	},
+	{
+		"abr": "psytrainer(regrowbodyparts)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_RegrowBodyParts"
+	},
+	{
+		"abr": "psytrainer(revivingtouch)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_RevivingTouch"
+	},
+	{
+		"abr": "psytrainer(stabilizingtouch)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_StabilizingTouch"
+	},
+	{
+		"abr": "purewhitecloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "PureWhiteCloth"
+	},
+	{
+		"abr": "purplecloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "PurpleCloth"
+	},
+	{
+		"abr": "quartz",
+		"price": 3,
+		"category": "Gemstones",
+		"defname": "Z_Quartz"
+	},
+	{
+		"abr": "railgun",
+		"price": 2667,
+		"category": "Ranged weapons",
+		"defname": "Gun_RailgunMKI"
+	},
+	{
+		"abr": "raspberries",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "RG_RawRaspberries"
+	},
+	{
+		"abr": "rawcactus",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "RG_RawCactus"
+	},
+	{
+		"abr": "rawdevilstrand",
+		"price": 5,
+		"category": "Raw textiles",
+		"defname": "RawDevilstrand"
+	},
+	{
+		"abr": "rawflax",
+		"price": 4,
+		"category": "Raw textiles",
+		"defname": "RawFlax"
+	},
+	{
+		"abr": "redcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "RedCloth"
+	},
+	{
+		"abr": "redmaplelogs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_RedMaple"
+	},
+	{
+		"abr": "redmaplelumber",
+		"price": 5,
+		"category": "Lumber",
+		"defname": "LumberRedMaple"
+	},
+	{
+		"abr": "redpalmlogs",
+		"price": 3,
+		"category": "Wood logs",
+		"defname": "WoodLog_Coconut"
+	},
+	{
+		"abr": "redpalmlumber",
+		"price": 7,
+		"category": "Lumber",
+		"defname": "LumberCoconut"
+	},
+	{
+		"abr": "reinforcedglass",
+		"price": 30,
+		"category": "Manufactured",
+		"defname": "ReinforcedGlass"
+	},
+	{
+		"abr": "reinforcedglassworks",
+		"price": 600,
+		"category": "Production",
+		"defname": "ReinforcedGlassworkTable"
+	},
+	{
+		"abr": "roboticcomponent",
+		"price": 333,
+		"category": "Items",
+		"defname": "RPP_Component"
+	},
+	{
+		"abr": "roboticmatrix(advanced)",
+		"price": 8817,
+		"category": "Items",
+		"defname": "RPP_Matrix_IV"
+	},
+	{
+		"abr": "roboticmatrix(anti-logic)",
+		"price": 17967,
+		"category": "Items",
+		"defname": "RPP_Matrix_V"
+	},
+	{
+		"abr": "roboticmatrix(basic)",
+		"price": 1825,
+		"category": "Items",
+		"defname": "RPP_Matrix_II"
+	},
+	{
+		"abr": "roboticmatrix(intermediate)",
+		"price": 4158,
+		"category": "Items",
+		"defname": "RPP_Matrix_III"
+	},
+	{
+		"abr": "roboticmatrix(simple)",
+		"price": 775,
+		"category": "Items",
+		"defname": "RPP_Matrix_I"
+	},
+	{
+		"abr": "roboticsworkbench",
+		"price": 1675,
+		"category": "Production",
+		"defname": "Table_RPP_RoboticsBench"
+	},
+	{
+		"abr": "ruby",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "Ruby"
+	},
+	{
+		"abr": "sacredwhitefox",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "Whitefox"
+	},
+	{
+		"abr": "sacredwhitefoxtail",
+		"price": 750,
+		"category": "Items",
+		"defname": "WhitefoxTail"
+	},
+	{
+		"abr": "sacredwhitefoxwool",
+		"price": 10,
+		"category": "Wools",
+		"defname": "WhitefoxWool"
+	},
+	{
+		"abr": "sake",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "VBE_Sake"
+	},
+	{
+		"abr": "sakemush",
+		"price": 4,
+		"category": "Musts and syrups",
+		"defname": "VBE_SakeMush"
+	},
+	{
+		"abr": "sakestill",
+		"price": 56,
+		"category": "Production",
+		"defname": "VBE_SakeStill"
+	},
+	{
+		"abr": "sapphire",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "Sapphire"
+	},
+	{
+		"abr": "serpentine",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Serpentine"
+	},
+	{
+		"abr": "shootingtarget",
+		"price": 325,
+		"category": "Recreation",
+		"defname": "ShootingRangeTarget"
+	},
+	{
+		"abr": "silverbracelet",
+		"price": 417,
+		"category": "Jewelry",
+		"defname": "Jewelry_Bracelet_Silver"
+	},
+	{
+		"abr": "silverearring",
+		"price": 267,
+		"category": "Jewelry",
+		"defname": "Jewelry_Earring_Silver"
+	},
+	{
+		"abr": "silvereltexnecklace",
+		"price": 750,
+		"category": "Jewelry",
+		"defname": "Jewelry_PsychicNecklace_Silver"
+	},
+	{
+		"abr": "silvernecklace",
+		"price": 600,
+		"category": "Jewelry",
+		"defname": "Jewelry_Necklace_Silver"
+	},
+	{
+		"abr": "silverring",
+		"price": 250,
+		"category": "Jewelry",
+		"defname": "Jewelry_Ring_Silver"
+	},
+	{
+		"abr": "singlebeddingset",
+		"price": 204,
+		"category": "Beddings",
+		"defname": "SingleBedding"
+	},
+	{
+		"abr": "smallshelf",
+		"price": 71,
+		"category": "Furniture",
+		"defname": "SmallShelf"
+	},
+	{
+		"abr": "sorcery,theassembly",
+		"price": 250,
+		"category": "Furniture",
+		"defname": "SorceryCards"
+	},
+	{
+		"abr": "statueofcolonist",
+		"price": 358,
+		"category": "Art",
+		"defname": "TMB_StatueOfColonistK"
+	},
+	{
+		"abr": "succulentribs",
+		"price": 2,
+		"category": "Wood logs",
+		"defname": "WoodLog_Succulent"
+	},
+	{
+		"abr": "suncolumn",
+		"price": 800,
+		"category": "Misc",
+		"defname": "SunColumnMod"
+	},
+	{
+		"abr": "table",
+		"price": 62,
+		"category": "Furniture",
+		"defname": "GlassTableShort"
+	},
+	{
+		"abr": "tailor'sloom",
+		"price": 264,
+		"category": "Production",
+		"defname": "TableLoom"
+	},
+	{
 		"abr": "teaklogs",
 		"price": 4,
 		"category": "Wood logs",
@@ -15383,18 +15551,6 @@
 		"price": 2,
 		"category": "Dyed Cloth",
 		"defname": "TealCloth"
-	},
-	{
-		"abr": "teargasgrenadebelt",
-		"price": 458,
-		"category": "Utility",
-		"defname": "VWE_Apparel_GrenadeTearGasBelt"
-	},
-	{
-		"abr": "tech",
-		"price": -10,
-		"category": "Inert relics",
-		"defname": "VIE_RelicInertEngine"
 	},
 	{
 		"abr": "techprint(advancedcompactweaponry)",
@@ -15428,7 +15584,7 @@
 	},
 	{
 		"abr": "templategenome",
-		"price": -10,
+		"price": 667,
 		"category": "Genetic materials (tier 1)",
 		"defname": "GR_TemplateGenetic"
 	},
@@ -15518,31 +15674,31 @@
 	},
 	{
 		"abr": "thrumbalope",
-		"price": -10,
+		"price": 5000,
 		"category": "Animals",
 		"defname": "GR_Thrumbalope"
 	},
 	{
 		"abr": "thrumbear",
-		"price": -10,
+		"price": 7500,
 		"category": "Animals",
 		"defname": "GR_Thrumbear"
 	},
 	{
 		"abr": "thrumbocat",
-		"price": -10,
+		"price": 2917,
 		"category": "Animals",
 		"defname": "GR_Thrumbocat"
 	},
 	{
 		"abr": "thrumbochicken",
-		"price": -10,
+		"price": 5000,
 		"category": "Animals",
 		"defname": "GR_Thrumbochicken"
 	},
 	{
 		"abr": "thrumbochickenegg(fert.)",
-		"price": -10,
+		"price": 42,
 		"category": "Eggs (fert.)",
 		"defname": "GR_ThrumbochickenEggFertilized"
 	},
@@ -15554,31 +15710,31 @@
 	},
 	{
 		"abr": "thrumbolizard",
-		"price": -10,
+		"price": 7500,
 		"category": "Animals",
 		"defname": "GR_Thrumbolizard"
 	},
 	{
 		"abr": "thrumboman",
-		"price": -10,
+		"price": 6667,
 		"category": "Animals",
 		"defname": "GR_Thrumboman"
 	},
 	{
 		"abr": "thrumborat",
-		"price": -10,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "GR_Thrumborat"
 	},
 	{
 		"abr": "thrumbospider",
-		"price": -10,
+		"price": 4167,
 		"category": "Animals",
 		"defname": "GR_Thrumbospider"
 	},
 	{
 		"abr": "thrumffalo",
-		"price": -10,
+		"price": 5833,
 		"category": "Animals",
 		"defname": "GR_Thrumffalo"
 	},
@@ -15596,13 +15752,13 @@
 	},
 	{
 		"abr": "thrumhorse",
-		"price": -10,
+		"price": 7500,
 		"category": "Animals",
 		"defname": "GR_Thrumhorse"
 	},
 	{
 		"abr": "thrumwolf",
-		"price": -10,
+		"price": 4167,
 		"category": "Animals",
 		"defname": "GR_Thrumwolf"
 	},
@@ -15674,7 +15830,7 @@
 	},
 	{
 		"abr": "tools",
-		"price": -10,
+		"price": 833,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertTools"
 	},
@@ -15740,13 +15896,13 @@
 	},
 	{
 		"abr": "turkeyman",
-		"price": -10,
+		"price": 250,
 		"category": "Animals",
 		"defname": "GR_Turkeyman"
 	},
 	{
 		"abr": "turkeymanegg(fert.)",
-		"price": -10,
+		"price": 12,
 		"category": "Eggs (fert.)",
 		"defname": "GR_TurkeymanEggFertilized"
 	},
@@ -15878,19 +16034,19 @@
 	},
 	{
 		"abr": "ursinegenome",
-		"price": -10,
+		"price": 17,
 		"category": "Genetic materials (tier 1)",
 		"defname": "GR_UrsineGenetic"
 	},
 	{
 		"abr": "ursinegenomegenetrainer",
-		"price": -10,
+		"price": 167,
 		"category": "Genetrainers",
 		"defname": "GR_UrsineGenetrainer"
 	},
 	{
 		"abr": "ursineparagon",
-		"price": -10,
+		"price": 1833,
 		"category": "Animals",
 		"defname": "GR_ParagonBear"
 	},
@@ -16670,37 +16826,37 @@
 	},
 	{
 		"abr": "wolfalope",
-		"price": -10,
+		"price": 617,
 		"category": "Animals",
 		"defname": "GR_Wolfalope"
 	},
 	{
 		"abr": "wolfbear",
-		"price": -10,
+		"price": 617,
 		"category": "Animals",
 		"defname": "GR_Wolfbear"
 	},
 	{
 		"abr": "wolfbeaver",
-		"price": -10,
+		"price": 458,
 		"category": "Animals",
 		"defname": "GR_Wolfbeaver"
 	},
 	{
 		"abr": "wolfcat",
-		"price": -10,
+		"price": 617,
 		"category": "Animals",
 		"defname": "GR_Wolfcat"
 	},
 	{
 		"abr": "wolfchicken",
-		"price": -10,
+		"price": 617,
 		"category": "Animals",
 		"defname": "GR_Wolfchicken"
 	},
 	{
 		"abr": "wolfchickenegg(fert.)",
-		"price": -10,
+		"price": 12,
 		"category": "Eggs (fert.)",
 		"defname": "GR_WolfchickenEggFertilized"
 	},
@@ -16712,13 +16868,13 @@
 	},
 	{
 		"abr": "wolffalo",
-		"price": -10,
+		"price": 617,
 		"category": "Animals",
 		"defname": "GR_Wolffalo"
 	},
 	{
 		"abr": "wolfhorse",
-		"price": -10,
+		"price": 1417,
 		"category": "Animals",
 		"defname": "GR_Wolfhorse"
 	},
@@ -16736,13 +16892,13 @@
 	},
 	{
 		"abr": "wolfscarab",
-		"price": -10,
+		"price": 667,
 		"category": "Animals",
 		"defname": "GR_Wolfscarab"
 	},
 	{
 		"abr": "wolfsnake",
-		"price": -10,
+		"price": 750,
 		"category": "Animals",
 		"defname": "GR_Wolfsnake"
 	},
@@ -16784,7 +16940,7 @@
 	},
 	{
 		"abr": "woolycow",
-		"price": -10,
+		"price": 767,
 		"category": "Animals",
 		"defname": "VFEV_WoolyCow"
 	},
@@ -16832,7 +16988,7 @@
 	},
 	{
 		"abr": "zombrella",
-		"price": -10,
+		"price": 3333,
 		"category": "Misc",
 		"defname": "Zombrella"
 	},
@@ -16847,7 +17003,13 @@
 		"price": 1817,
 		"category": "Alien tails (original)",
 		"defname": "RB_BionicTail"
+	},
+	{
+		"abr": "legendaryweapon",
+		"price": 1,
+		"category": "Special melee weapons",
+		"defname": "Nr_Lightbringer"
 	}
 	],
-	"total": 2808
+	"total": 2835
 }
