@@ -192,7 +192,8 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [
-
+        "bleedingheart",
+        "desensitized"
       ],
       "bypassLimit": false,
       "data": {
@@ -202,7 +203,8 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "bleedingheart",
+          "desensitized"
         ],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -292,7 +294,8 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [
-
+        "bleedingheart",
+        "gourmet"
       ],
       "bypassLimit": false,
       "data": {
@@ -302,7 +305,8 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "bleedingheart",
+          "gourmet"
         ],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -902,7 +906,7 @@
 
       ],
       "conflicts": [
-
+        "open-minded"
       ],
       "bypassLimit": false,
       "data": {
@@ -912,7 +916,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "open-minded"
         ],
         "stats": [
 
@@ -932,7 +936,7 @@
 
       ],
       "conflicts": [
-
+        "open-minded"
       ],
       "bypassLimit": false,
       "data": {
@@ -942,7 +946,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "open-minded"
         ],
         "stats": [
 
@@ -993,7 +997,7 @@
         "+8% mental break threshold"
       ],
       "conflicts": [
-
+        "heavysleeper"
       ],
       "bypassLimit": false,
       "data": {
@@ -1003,7 +1007,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "heavysleeper"
         ],
         "stats": [
           "+20% global work speed",
@@ -1086,7 +1090,7 @@
 
       ],
       "conflicts": [
-
+        "prude"
       ],
       "bypassLimit": false,
       "data": {
@@ -1096,7 +1100,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "prude"
         ],
         "stats": [
 
@@ -1326,7 +1330,9 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [
-
+        "bleedingheart",
+        "desensitized",
+        "open-minded"
       ],
       "bypassLimit": false,
       "data": {
@@ -1336,7 +1342,9 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "bleedingheart",
+          "desensitized",
+          "open-minded"
         ],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -1884,7 +1892,7 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [
-
+        "outdoorsy"
       ],
       "bypassLimit": false,
       "data": {
@@ -1894,7 +1902,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "outdoorsy"
         ],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -1915,7 +1923,7 @@
         "+14% mental break threshold"
       ],
       "conflicts": [
-
+        "heavysleeper"
       ],
       "bypassLimit": false,
       "data": {
@@ -1925,7 +1933,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "heavysleeper"
         ],
         "stats": [
           "+40% global work speed",
@@ -2027,7 +2035,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -2057,128 +2065,8 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": -1
-    },
-    {
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 2
-    },
-    {
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "hygienic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1
-    },
-    {
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "slob",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": -2
     },
     {
       "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
@@ -2213,11 +2101,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
       "stats": [
 
       ],
@@ -2229,7 +2117,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2238,8 +2126,722 @@
 
         ]
       },
-      "defName": "VME_Elder",
-      "name": "elder",
+      "defName": "Hygienic",
+      "name": "germaphobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "hygienic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "slob",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy detests manual labor, feeling that tasks such as cleaning and hauling are beneath him. he will perform such tasks more slowly than others would, and will also carry less per load when required to haul.",
+      "stats": [
+        "-20% general labor speed",
+        "-25 carrying capacity"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "More Than Capable",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-20% general labor speed",
+          "-25 carrying capacity"
+        ]
+      },
+      "defName": "HatesDumbLabor",
+      "name": "hatesdumblabor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
+      "stats": [
+        "+0.10 move speed",
+        "+20% global work speed",
+        "-100% psychic sensitivity",
+        "-95% toxic sensitivity",
+        "-90% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Misc. Robots",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.10 move speed",
+          "+20% global work speed",
+          "-100% psychic sensitivity",
+          "-95% toxic sensitivity",
+          "-90% mental break threshold"
+        ]
+      },
+      "defName": "AIRobot_BaseTrait",
+      "name": "robot",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy hates the sight of the human body. he will be extremely unhappy when naked, more displeased than usual in tattered or worn-out clothing, and dislike the sight of other naked people.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "nudist",
+        "lecher",
+        "polyamorous",
+        "open-minded"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "nudist",
+          "lecher",
+          "polyamorous",
+          "open-minded"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Prude",
+      "name": "prude",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy finds it difficult to sleep because of his condition. he will prioritize sleep less, wake up sooner, and get less rest from sleeping.",
+      "stats": [
+        "+150% rest rate multiplier"
+      ],
+      "conflicts": [
+        "heavysleeper"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "heavysleeper"
+        ],
+        "stats": [
+          "+150% rest rate multiplier"
+        ]
+      },
+      "defName": "Insomniac",
+      "name": "insomniac",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a big heart and gets very emotional. he loves helping people, and abhors violence and injustice. he is more affected by these things than others.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "psychopath",
+        "bloodlust",
+        "cannibal",
+        "desensitized"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "psychopath",
+          "bloodlust",
+          "cannibal",
+          "desensitized"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BleedingHeart",
+      "name": "bleedingheart",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is always a critic when it comes to food. he expects to be fed well and will complain if his meals aren't up to par.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "cannibal",
+        "ascetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "cannibal",
+          "ascetic"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Gourmet",
+      "name": "gourmet",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is more prone to random mood swings, which can be more severe than normal for others.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Unstable",
+      "name": "unstable",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is unabashedly lecherous and a thoughtless heartbreaker. he will hit on anyone he desires with no regard for the consequences.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "codependent",
+        "prude",
+        "open-minded"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "codependent",
+          "prude",
+          "open-minded"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Lecher",
+      "name": "lecher",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is romantically needy and won't be happy unless in a relationship. he will be devastated by infidelity and breakups.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "lecher",
+        "polyamorous"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "lecher",
+          "polyamorous"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Codependent",
+      "name": "codependent",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy loves to be outside. he gets a mood bonus when there is no roof over his head.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "undergrounder"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "undergrounder"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Outdoorsy",
+      "name": "outdoorsy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy likes the rain. he gets a mood bonus when it's pouring outside, especially if he gets to go out in it.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Pluviophile",
+      "name": "pluviophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has eyes, either through gene modding or random mutation, that are extremely light-sensitive. he finds bright light extremely painful and indoor lighting bothersome, and will be happiest in the dark.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Photosensitive",
+      "name": "photosensitive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy loves to party! his mere presence inspires more parties in the colony, because everyone enjoys partying with him.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Socialite",
+      "name": "socialite",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has seen enough violence and death that it no longer shocks him like it used to.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "bleedingheart",
+        "psychopath",
+        "bloodlust"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bleedingheart",
+          "psychopath",
+          "bloodlust"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Desensitized",
+      "name": "desensitized",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy sleeps like a rock, never bothered by adverse sleeping conditions, but is difficult to wake up.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "insomniac",
+        "neurotic",
+        "veryneurotic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "insomniac",
+          "neurotic",
+          "veryneurotic"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "HeavySleeper",
+      "name": "heavysleeper",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy doesn't see any problem with having multiple partners. he doesn't mind if his partner romances other people, but will be less happy in a restraining, monogamous relationship.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "prude",
+        "codependent"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "prude",
+          "codependent"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Polygamous",
+      "name": "polyamorous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy sees people for what they are on the inside, not the outside. he doesn't judge others for their appearances.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "prude",
+        "lecher",
+        "misandrist",
+        "misogynist",
+        "bodypurist",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "prude",
+          "lecher",
+          "misandrist",
+          "misogynist",
+          "bodypurist",
+          "psychopath"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "OpenMinded",
+      "name": "open-minded",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy isn't a very active person. he isn't very physically fit, but he enjoys sitting around all day working on things.",
+      "stats": [
+        "-0.15 move speed"
+      ],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger"
+        ],
+        "stats": [
+          "-0.15 move speed"
+        ]
+      },
+      "defName": "Sedentary",
+      "name": "sedentary",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy just talks and talks and talks... and talks. he tends to have longer conversations than most, because he can't seem to end them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.4",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Chatty",
+      "name": "chatty",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2270,6 +2872,36 @@
       },
       "defName": "VCEF_Fisherman",
       "name": "fisherman",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VME_Elder",
+      "name": "elder",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2475,7 +3107,7 @@
     {
       "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
       "stats": [
-        "+10.0C Maximum comfortable temperature"
+        "+10.0C [18.0F] Maximum comfortable temperature"
       ],
       "conflicts": [
         "coldinclined"
@@ -2491,7 +3123,7 @@
           "coldinclined"
         ],
         "stats": [
-          "+10.0C Maximum comfortable temperature"
+          "+10.0C [18.0F] Maximum comfortable temperature"
         ]
       },
       "defName": "VTE_HeatInclined",
@@ -2505,7 +3137,7 @@
     {
       "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
       "stats": [
-        "-10.0C Minimum comfortable temperature"
+        "-10.0C [-18.0F] Minimum comfortable temperature"
       ],
       "conflicts": [
         "heatinclined"
@@ -2521,7 +3153,7 @@
           "heatinclined"
         ],
         "stats": [
-          "-10.0C Minimum comfortable temperature"
+          "-10.0C [-18.0F] Minimum comfortable temperature"
         ]
       },
       "defName": "VTE_ColdInclined",
@@ -3955,760 +4587,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
-    },
-    {
-      "description": "Timmy's heart has innocence. Maybe it's because you've never experienced a tough world before.\nhe will be more traumatized by violent acts such as cannibalism, organ harvesting and sight of dead bodies.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "psychopath",
-        "bloodlust",
-        "cannibal"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Babies and Children [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "psychopath",
-          "bloodlust",
-          "cannibal"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Innocent",
-      "name": "innocence",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy awakened with a new type. he is amazing at dodging, and get +5 points for melee and shooting. ",
-      "stats": [
-        "+5 melee",
-        "+5 shooting",
-        "+25.0 melee dodge chance",
-        "x20% trap spring chance"
-      ],
-      "conflicts": [
-        "nimble"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Babies and Children [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "nimble"
-        ],
-        "stats": [
-          "+5 melee",
-          "+5 shooting",
-          "+25.0 melee dodge chance",
-          "x20% trap spring chance"
-        ]
-      },
-      "defName": "Newtype",
-      "name": "newtype",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VFEP_WarcasketTrait",
-      "name": "warcasket",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VFEP_Shellcasket",
-      "name": "shellcasket",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
-      "stats": [
-        "+0.10 move speed",
-        "+20% global work speed",
-        "-100% psychic sensitivity",
-        "-95% toxic sensitivity",
-        "-90% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Misc. Robots",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+0.10 move speed",
-          "+20% global work speed",
-          "-100% psychic sensitivity",
-          "-95% toxic sensitivity",
-          "-90% mental break threshold"
-        ]
-      },
-      "defName": "AIRobot_BaseTrait",
-      "name": "robot",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy detests manual labor, feeling that tasks such as cleaning and hauling are beneath him. he will perform such tasks more slowly than others would, and will also carry less per load when required to haul.",
-      "stats": [
-        "-20% general labor speed",
-        "-25 carrying capacity"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "More Than Capable",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-20% general labor speed",
-          "-25 carrying capacity"
-        ]
-      },
-      "defName": "HatesDumbLabor",
-      "name": "hatesdumblabor",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy hates the sight of the human body. he will be extremely unhappy when naked, more displeased than usual in tattered or worn-out clothing, and dislike the sight of other naked people.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "nudist",
-        "lecher",
-        "polyamorous",
-        "open-minded"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "nudist",
-          "lecher",
-          "polyamorous",
-          "open-minded"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Prude",
-      "name": "prude",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy finds it difficult to sleep because of his condition. he will prioritize sleep less, wake up sooner, and get less rest from sleeping.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "heavysleeper"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "heavysleeper"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Insomniac",
-      "name": "insomniac",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has a big heart and gets very emotional. he loves helping people, and abhors violence and injustice. he is more affected by these things than others.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "psychopath",
-        "bloodlust",
-        "cannibal",
-        "desensitized"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "psychopath",
-          "bloodlust",
-          "cannibal",
-          "desensitized"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "BleedingHeart",
-      "name": "bleedingheart",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is always a critic when it comes to food. he expects to be fed well and will complain if his meals aren't up to par.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "cannibal",
-        "ascetic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "cannibal",
-          "ascetic"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Gourmet",
-      "name": "gourmet",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is more prone to random mood swings, which can be more severe than normal for others.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Unstable",
-      "name": "unstable",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is unabashedly lecherous and a thoughtless heartbreaker. he will hit on anyone he desires with no regard for the consequences.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "codependent",
-        "prude",
-        "open-minded"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "codependent",
-          "prude",
-          "open-minded"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Lecher",
-      "name": "lecher",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is romantically needy and won't be happy unless in a relationship. he will be devastated by infidelity and breakups.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "lecher",
-        "polyamorous"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "lecher",
-          "polyamorous"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Codependent",
-      "name": "codependent",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy loves to be outside. he gets a mood bonus when there is no roof over his head.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "undergrounder"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "undergrounder"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Outdoorsy",
-      "name": "outdoorsy",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy likes the rain. he gets a mood bonus when it's pouring outside, especially if he gets to go out in it.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Pluviophile",
-      "name": "pluviophile",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has eyes, either through gene modding or random mutation, that are extremely light-sensitive. he finds bright light extremely painful and indoor lighting bothersome, and will be happiest in the dark.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Photosensitive",
-      "name": "photosensitive",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy loves to party! his mere presence inspires more parties in the colony, because everyone enjoys partying with him.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Socialite",
-      "name": "socialite",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has seen enough violence and death that it no longer shocks him like it used to.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "bleedingheart",
-        "psychopath",
-        "bloodlust"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "bleedingheart",
-          "psychopath",
-          "bloodlust"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Desensitized",
-      "name": "desensitized",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy sleeps like a rock, never bothered by adverse sleeping conditions, but is difficult to wake up.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "insomniac",
-        "neurotic",
-        "veryneurotic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "insomniac",
-          "neurotic",
-          "veryneurotic"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "HeavySleeper",
-      "name": "heavysleeper",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy doesn't see any problem with having multiple partners. he doesn't mind if his partner romances other people, but will be less happy in a restraining, monogamous relationship.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "prude",
-        "codependent"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "prude",
-          "codependent"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Polygamous",
-      "name": "polyamorous",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy sees people for what they are on the inside, not the outside. he doesn't judge others for their appearances.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "prude",
-        "lecher",
-        "misandrist",
-        "misogynist",
-        "bodypurist",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "prude",
-          "lecher",
-          "misandrist",
-          "misogynist",
-          "bodypurist",
-          "psychopath"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "OpenMinded",
-      "name": "open-minded",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy isn't a very active person. he isn't very physically fit, but he enjoys sitting around all day working on things.",
-      "stats": [
-        "-0.15 move speed"
-      ],
-      "conflicts": [
-        "slowpoke",
-        "fastwalker",
-        "jogger"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "slowpoke",
-          "fastwalker",
-          "jogger"
-        ],
-        "stats": [
-          "-0.15 move speed"
-        ]
-      },
-      "defName": "Sedentary",
-      "name": "sedentary",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy just talks and talks and talks... and talks. he tends to have longer conversations than most, because he can't seem to end them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.4",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Chatty",
-      "name": "chatty",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
     }
   ],
   "races": [
@@ -4764,10 +4642,10 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.\n\n<i><color=#66E0E4FF>Nyaron race</color></i>",
+      "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.\n<i><color=#66E0E4FF>Nyaron race</color></i>",
       "defName": "Alien_Nyaron",
       "enabled": true,
-      "name": "nyaron",
+      "name": "Nyaron",
       "price": 5000
     },
     {
@@ -4801,10 +4679,10 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
       "defName": "Ratkin",
       "enabled": true,
-      "name": "ratkin",
+      "name": "Ratkin",
       "price": 3333
     },
     {
@@ -4839,60 +4717,10 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
       "defName": "Ratkin_Su",
       "enabled": false,
-      "name": "ratkinsubject",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+55.00 Mass",
-          "+100% Flammability",
-          "+$2000 Market value",
-          "+4.85 Move speed",
-          "+38% Mental break threshold",
-          "+26.0C [46.8F] Maximum comfortable temperature",
-          "+16.0C [28.8F] Minimum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+60 Meat amount",
-          "+50 Leather amount",
-          "+80% Pain shock threshold",
-          "+120% Psychic sensitivity",
-          "+0.9 Melee dodge chance",
-          "+0.8 Melee hit chance",
-          "+80% Aiming time",
-          "+1.2 Shooting accuracy",
-          "+100.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+100.00% Social impact",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Rest rate multiplier",
-          "+100% Plant work speed",
-          "+120% Research speed",
-          "+110% Medical tend quality",
-          "+120% Drug synthesis speed",
-          "+120% Medical surgery success chance",
-          "+80% Mining speed",
-          "+100% Mining yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "토끼의 유전자를 가진, 전쟁과 건설에 능숙한 달 도시의 주민들입니다.\n\n거의 번화계 수준에 다다른 기술로 여러 우주로 이주해 다니며, 플라네타륨이 분포하는 행성을 찾아 그 달에 도시를 건설하고 있습니다. \n\n먼 거리로 인해 이전 우주의 래비들과는 단절됩니다.\n\n<i><color=#66E0E4FF>Rabbie The Moonrabbit race</color></i>",
-      "defName": "Rabbie",
-      "enabled": true,
-      "name": "Rabbie",
+      "name": "Ratkin subject",
       "price": 3333
     }
   ]
