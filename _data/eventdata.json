@@ -89,10 +89,10 @@
   },
   "heatwave": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 720,
+    "LocalCooldown": 720,
     "Mod": "Twitch Toolkit"
   },
   "flashstorm": {
@@ -105,10 +105,10 @@
   },
   "coldsnap": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 720,
+    "LocalCooldown": 720,
     "Mod": "Twitch Toolkit"
   },
   "solarflare": {
@@ -201,18 +201,18 @@
   },
   "tradeship": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": true,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 600,
     "LocalCooldown": 600,
     "Mod": "Twitch Toolkit"
   },
   "meteor": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 60,
+    "LocalCooldown": 60,
     "Mod": "Twitch Toolkit"
   },
   "maninblack": {
@@ -225,10 +225,10 @@
   },
   "madanimal": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 720,
+    "LocalCooldown": 720,
     "Mod": "Twitch Toolkit"
   },
   "psychicdrone": {
@@ -745,34 +745,34 @@
   },
   "raidpoachers": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 720,
+    "LocalCooldown": 720,
     "Mod": "Unknown"
   },
   "raidloggers": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 720,
+    "LocalCooldown": 720,
     "Mod": "Unknown"
   },
   "hostiletraveler": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 720,
+    "LocalCooldown": 720,
     "Mod": "Unknown"
   },
   "hostilecaravan": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 720,
+    "LocalCooldown": 720,
     "Mod": "Unknown"
   },
   "iceage": {

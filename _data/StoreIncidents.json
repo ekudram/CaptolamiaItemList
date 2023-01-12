@@ -7,8 +7,8 @@
 	},
 	{
 		"abr": "tornados",
-		"price": 100000,
-		"karmatype": "Doom"
+		"price": 2600,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
@@ -19,11 +19,6 @@
 		"abr": "rain",
 		"price": 350,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "vomitrain",
-		"price": 5000,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "foggyrain",
@@ -87,7 +82,7 @@
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 100000,
+		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
@@ -286,6 +281,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
@@ -364,11 +364,6 @@
 		"abr": "randomadulthood",
 		"price": 3000,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
 	},
 	{
 		"abr": "sanctuary",
@@ -496,5 +491,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 99
+	"total": 98
 }
