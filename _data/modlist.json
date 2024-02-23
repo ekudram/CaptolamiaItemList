@@ -1,5 +1,17 @@
 [
   {
+    "author": "neitsa",
+    "name": "Prepare Landing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dakk Passerida",
+    "name": "Replantable Anima Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "DragonKing",
     "name": "Dragon's Fertile Fields Regrowth Patches",
     "steamId": null,
@@ -576,12 +588,6 @@
     "version": null
   },
   {
-    "author": "SineSwiper",
-    "name": "Xenobionic Patcher",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Linkolas",
     "name": "Stabilize",
     "steamId": null,
@@ -768,8 +774,8 @@
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] No Default Shelf Storage",
+    "author": "Kiame Vivacity and Taranchuk",
+    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings [1.4]",
     "steamId": null,
     "version": null
   },
@@ -794,6 +800,60 @@
   {
     "author": "Derek Bickley",
     "name": "Worthless Junk",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] No Default Shelf Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage - Refrigeration",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Superniquito",
+    "name": "Trait and Backstory Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and xrushha",
+    "name": "Vanilla Ideology Expanded - Anima Theme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "M.Y.G",
+    "name": "Ratkin Faction:Oberonia aurea",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SineSwiper",
+    "name": "Xenobionic Patcher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rin",
+    "name": "Ratkin Apparel+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EoralMilk",
+    "name": "Ratkin Gene Expanded",
     "steamId": null,
     "version": null
   },
