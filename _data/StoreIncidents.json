@@ -1,11 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -22,7 +17,7 @@
 	},
 	{
 		"abr": "rainythunderstorm",
-		"price": 5000,
+		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
@@ -176,14 +171,39 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "predators",
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "disease",
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "randomdisease",
 		"price": 1000,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
@@ -207,8 +227,13 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 1,
+		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -221,9 +246,29 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
@@ -244,6 +289,11 @@
 		"abr": "rescueme",
 		"price": 1200,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
@@ -301,5 +351,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 60
+	"total": 70
 }

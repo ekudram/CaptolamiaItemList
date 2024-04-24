@@ -30,6 +30,12 @@
     "version": "3.9.2.0"
   },
   {
+    "author": "swablu",
+    "name": "Ambient Rim",
+    "steamId": "3158997430",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Suno and Neceros",
     "name": "Animal Medical Bed",
     "steamId": null,
@@ -85,9 +91,9 @@
   },
   {
     "author": "VouLT",
-    "name": "Better Pawn Control - Continued",
-    "steamId": "3220722757",
-    "version": "1.0.0.0"
+    "name": "Better Pawn Control",
+    "steamId": "1541460369",
+    "version": "2.7.0"
   },
   {
     "author": "m00nl1ght",
@@ -177,7 +183,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8875.40322"
+    "version": "1.0.8879.42576"
   },
   {
     "author": "PeteTimesSix",
@@ -318,20 +324,8 @@
     "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Export Agency",
-    "steamId": "1467209473",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Kosaro",
     "name": "Fahrenheit and Celsius",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Garethp",
-    "name": "Family Tree",
     "steamId": null,
     "version": null
   },
@@ -448,12 +442,6 @@
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
     "version": "3.0.0.0"
-  },
-  {
-    "author": "RunningBugs",
-    "name": "ItemPolicy",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "DarkFlame7",
@@ -585,7 +573,7 @@
     "author": "legodude17 and ISOREX",
     "name": "Pawn Editor",
     "steamId": "3219801790",
-    "version": "1.0.4"
+    "version": "1.0.5"
   },
   {
     "author": "Haplo",
@@ -1284,12 +1272,6 @@
     "version": null
   },
   {
-    "author": "Windows XP",
-    "name": "Realistic Planets Continued",
-    "steamId": "2557451791",
-    "version": "1.0.8873.36240"
-  },
-  {
     "author": "Zylle",
     "name": "More Vanilla Biomes",
     "steamId": "1931453053",
@@ -1310,8 +1292,8 @@
   {
     "author": "Various",
     "name": "Realistic Planets Continued",
-    "steamId": null,
-    "version": null
+    "steamId": "3225521979",
+    "version": "1.0.8873.36240"
   },
   {
     "author": "Carolusclen",
@@ -1322,12 +1304,6 @@
   {
     "author": "Orion",
     "name": "Xeva's Rimhair",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kiame Vivacity, Taranchuk and Fishpear",
-    "name": "[1.5][KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings ",
     "steamId": null,
     "version": null
   },
