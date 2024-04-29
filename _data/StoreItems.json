@@ -88,25 +88,25 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": 4333
+      "price": -10
     },
     {
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "bioniceye",
@@ -748,7 +748,7 @@
       "abr": "techprofsubpersonacore",
       "category": "Misc",
       "defname": "TechprofSubpersonaCore",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "thrumbohorn",
@@ -1738,235 +1738,235 @@
       "abr": "grizzlybear",
       "category": "Animals",
       "defname": "Bear_Grizzly",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "polarbear",
       "category": "Animals",
       "defname": "Bear_Polar",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "ostrich",
       "category": "Animals",
       "defname": "Ostrich",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "emu",
       "category": "Animals",
       "defname": "Emu",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "cassowary",
       "category": "Animals",
       "defname": "Cassowary",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "cougar",
       "category": "Animals",
       "defname": "Cougar",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "panther",
       "category": "Animals",
       "defname": "Panther",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "lynx",
       "category": "Animals",
       "defname": "Lynx",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "cat",
       "category": "Animals",
       "defname": "Cat",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "yorkshireterrier",
       "category": "Animals",
       "defname": "YorkshireTerrier",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "guineapig",
       "category": "Animals",
       "defname": "GuineaPig",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "labradorretriever",
       "category": "Animals",
       "defname": "LabradorRetriever",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "husky",
       "category": "Animals",
       "defname": "Husky",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "monkey",
       "category": "Animals",
       "defname": "Monkey",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "chicken",
       "category": "Animals",
       "defname": "Chicken",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "duck",
       "category": "Animals",
       "defname": "Duck",
-      "price": 100
+      "price": -10
     },
     {
       "abr": "turkey",
       "category": "Animals",
       "defname": "Turkey",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "goose",
       "category": "Animals",
       "defname": "Goose",
-      "price": 150
+      "price": -10
     },
     {
       "abr": "cow",
       "category": "Animals",
       "defname": "Cow",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "boomalope",
       "category": "Animals",
       "defname": "Boomalope",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "muffalo",
       "category": "Animals",
       "defname": "Muffalo",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "bison",
       "category": "Animals",
       "defname": "Bison",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "dromedary",
       "category": "Animals",
       "defname": "Dromedary",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "goat",
       "category": "Animals",
       "defname": "Goat",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "elk",
       "category": "Animals",
       "defname": "Elk",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "yak",
       "category": "Animals",
       "defname": "Yak",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "caribou",
       "category": "Animals",
       "defname": "Caribou",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "horse",
       "category": "Animals",
       "defname": "Horse",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "donkey",
       "category": "Animals",
       "defname": "Donkey",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "elephant",
       "category": "Animals",
       "defname": "Elephant",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "rhinoceros",
       "category": "Animals",
       "defname": "Rhinoceros",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "hare",
       "category": "Animals",
       "defname": "Hare",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "snowhare",
       "category": "Animals",
       "defname": "Snowhare",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "megascarab",
       "category": "Animals",
       "defname": "Megascarab",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "spelopede",
       "category": "Animals",
       "defname": "Spelopede",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "megaspider",
       "category": "Animals",
       "defname": "Megaspider",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "thrumbo",
       "category": "Animals",
       "defname": "Thrumbo",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "cobra",
       "category": "Animals",
       "defname": "Cobra",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "tortoise",
       "category": "Animals",
       "defname": "Tortoise",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "alphabeaver",
@@ -1978,43 +1978,43 @@
       "abr": "pig",
       "category": "Animals",
       "defname": "Pig",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "wildboar",
       "category": "Animals",
       "defname": "WildBoar",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "ibex",
       "category": "Animals",
       "defname": "Ibex",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "deer",
       "category": "Animals",
       "defname": "Deer",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "gazelle",
       "category": "Animals",
       "defname": "Gazelle",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "chinchilla",
       "category": "Animals",
       "defname": "Chinchilla",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "sheep",
       "category": "Animals",
       "defname": "Sheep",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "alpaca",
@@ -2026,55 +2026,55 @@
       "abr": "megasloth",
       "category": "Animals",
       "defname": "Megasloth",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "capybara",
       "category": "Animals",
       "defname": "Capybara",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "squirrel",
       "category": "Animals",
       "defname": "Squirrel",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "rat",
       "category": "Animals",
       "defname": "Rat",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "raccoon",
       "category": "Animals",
       "defname": "Raccoon",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "iguana",
       "category": "Animals",
       "defname": "Iguana",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "warg",
       "category": "Animals",
       "defname": "Warg",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "timberwolf",
       "category": "Animals",
       "defname": "Wolf_Timber",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "arcticwolf",
@@ -2086,13 +2086,13 @@
       "abr": "fennecfox",
       "category": "Animals",
       "defname": "Fox_Fennec",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "redfox",
       "category": "Animals",
       "defname": "Fox_Red",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "arcticfox",
@@ -2104,19 +2104,19 @@
       "abr": "psychicsensitizer",
       "category": "Archotech",
       "defname": "PsychicSensitizer",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "psychicharmonizer",
       "category": "Archotech",
       "defname": "PsychicHarmonizer",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "psychicreader",
       "category": "Archotech",
       "defname": "PsychicReader",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "neurocalculator",
@@ -2878,49 +2878,49 @@
       "abr": "chalice",
       "category": "Inert relics",
       "defname": "RelicInertCup",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "pendant",
       "category": "Inert relics",
       "defname": "RelicInertPendant",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "box",
       "category": "Inert relics",
       "defname": "RelicInertBox",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "tablet",
       "category": "Inert relics",
       "defname": "RelicInertTablet",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "fragment",
       "category": "Inert relics",
       "defname": "RelicInertFragment",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "hilt",
       "category": "Inert relics",
       "defname": "RelicInertSwordHandle",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "ark",
       "category": "Inert relics",
       "defname": "RelicInertArk",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "cube",
       "category": "Inert relics",
       "defname": "RelicInertCube",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "gauranlenseed",
@@ -3328,13 +3328,13 @@
       "abr": "wasterat",
       "category": "Animals",
       "defname": "WasteRat",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "toxalope",
       "category": "Animals",
       "defname": "Toxalope",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "tome",
@@ -4438,7 +4438,7 @@
       "abr": "amulet",
       "category": "Inert relics",
       "defname": "VIE_RelicInertAmulet",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "anchovy",
@@ -4462,37 +4462,37 @@
       "abr": "ancientbarrel",
       "category": "Misc",
       "defname": "VME_AncientBarrel",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientbath",
       "category": "Hygiene",
       "defname": "AncientBath",
-      "price": 119
+      "price": -10
     },
     {
       "abr": "ancientbed",
       "category": "Misc",
       "defname": "VME_AncientBed",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "ancientcontainer",
       "category": "Misc",
       "defname": "VME_AncientContainer",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientcrate",
       "category": "Misc",
       "defname": "VME_AncientCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientdisplaybank",
       "category": "Misc",
       "defname": "VME_AncientDisplayBank",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "ancientengineblock",
@@ -4504,7 +4504,7 @@
       "abr": "ancientequipmentblocks",
       "category": "Misc",
       "defname": "VME_AncientEquipmentBlocks",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "ancientfence",
@@ -4516,7 +4516,7 @@
       "abr": "ancientgenerator",
       "category": "Misc",
       "defname": "VME_AncientGenerator",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientgiantwheel",
@@ -4534,7 +4534,7 @@
       "abr": "ancientkitchensink",
       "category": "Hygiene",
       "defname": "AncientKitchenSink",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "ancientkitchensink",
@@ -4552,7 +4552,7 @@
       "abr": "ancientlockerbank",
       "category": "Misc",
       "defname": "VME_AncientLockerBank",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "ancientlongcrate",
@@ -4564,7 +4564,7 @@
       "abr": "ancientmachine",
       "category": "Misc",
       "defname": "VME_AncientMachine",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "ancientmacro-engineblock",
@@ -4576,25 +4576,25 @@
       "abr": "ancientmechdropbeacon",
       "category": "Misc",
       "defname": "VME_AncientMechDropBeacon",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmechanoiddetritus",
       "category": "Misc",
       "defname": "VME_AncientMechanoidShell",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmega-cannonbarrel",
       "category": "Misc",
       "defname": "VME_AncientMegaCannonBarrel",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmega-cannonplatform",
       "category": "Misc",
       "defname": "VME_AncientMegaCannonTripod",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmicrowave",
@@ -4606,19 +4606,19 @@
       "abr": "ancientmilitarycrate",
       "category": "Misc",
       "defname": "VME_AncientMilitaryCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientnavbeacon",
       "category": "Misc",
       "defname": "VME_AncientShipBeacon",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientoperatingtable",
       "category": "Misc",
       "defname": "VME_AncientOperatingTable",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientoven",
@@ -4630,7 +4630,7 @@
       "abr": "ancientpipes",
       "category": "Misc",
       "defname": "VME_AncientPipes",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientpostbox",
@@ -4642,13 +4642,13 @@
       "abr": "ancientrazorwire",
       "category": "Misc",
       "defname": "VME_AncientRazorWire",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientrefrigerator",
       "category": "Misc",
       "defname": "AncientRefrigerator",
-      "price": 99
+      "price": -10
     },
     {
       "abr": "ancientrefrigerator",
@@ -4660,7 +4660,7 @@
       "abr": "ancientsecurityturret",
       "category": "Misc",
       "defname": "VME_AncientSecurityTurret",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientshoppingcart",
@@ -4678,19 +4678,19 @@
       "abr": "ancientspacejunk",
       "category": "Misc",
       "defname": "VME_AncientSpaceJunk",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientspacercrate",
       "category": "Misc",
       "defname": "VME_AncientSpacerCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientstoragecylinder",
       "category": "Misc",
       "defname": "VME_AncientStorageCylinder",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "ancientstove",
@@ -4702,19 +4702,19 @@
       "abr": "ancientsystemrack",
       "category": "Misc",
       "defname": "VME_AncientSystemRack",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "ancienttanktrap",
       "category": "Misc",
       "defname": "VME_AncientTankTrap",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancienttoilet",
       "category": "Hygiene",
       "defname": "AncientToilet",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "ancienttoilet",
@@ -4732,7 +4732,7 @@
       "abr": "ancientwashingmachine",
       "category": "Misc",
       "defname": "AncientWashingMachine",
-      "price": 118
+      "price": -10
     },
     {
       "abr": "ancientwashingmachine",
@@ -4990,7 +4990,7 @@
       "abr": "antlers",
       "category": "Inert relics",
       "defname": "VIE_RelicInertAntlers",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "apples",
@@ -5158,67 +5158,67 @@
       "abr": "awakenedbarkskindryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Barkskin",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "awakenedberrymakerdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Berrymaker",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "awakenedcarrierdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Carrier",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "awakenedclawerdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Clawer",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "awakenedgaubricmakerdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Gaubricmaker",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "awakenedmedicinemakerdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Medicinemaker",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "awakenednectarmakerdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Nectarmaker",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "awakenedspitterdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Spitter",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "awakenedstonediggerdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Stonedigger",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "awakenedwoodmakerdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Woodmaker",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "axehead",
       "category": "Inert relics",
       "defname": "VIE_RelicInertAxeHead",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "backpack",
@@ -5386,7 +5386,7 @@
       "abr": "bearalope",
       "category": "Animals",
       "defname": "GR_Bearalope",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "bearberries",
@@ -5398,7 +5398,7 @@
       "abr": "bearcat",
       "category": "Animals",
       "defname": "GR_Bearcat",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "bearcatpelt",
@@ -5410,7 +5410,7 @@
       "abr": "bearchicken",
       "category": "Animals",
       "defname": "GR_Bearchicken",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "bearchickenegg(fert.)",
@@ -5428,7 +5428,7 @@
       "abr": "bearffalo",
       "category": "Animals",
       "defname": "GR_Bearffalo",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "bearffalocheese",
@@ -5446,43 +5446,43 @@
       "abr": "bearhorse",
       "category": "Animals",
       "defname": "GR_Bearhorse",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "bearman",
       "category": "Animals",
       "defname": "GR_Bearman",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "bearmole",
       "category": "Animals",
       "defname": "GR_Bearmole",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "bearodile",
       "category": "Animals",
       "defname": "GR_Bearodile",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "bearscarab",
       "category": "Animals",
       "defname": "GR_Bearscarab",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "bearwolf",
       "category": "Animals",
       "defname": "GR_Bearwolf",
-      "price": 617
+      "price": -10
     },
     {
       "abr": "beaverwolf",
       "category": "Animals",
       "defname": "GR_Beaverwolf",
-      "price": 458
+      "price": -10
     },
     {
       "abr": "beaverwolfcastoreum",
@@ -5716,7 +5716,7 @@
       "abr": "blackrhinoceros",
       "category": "Animals",
       "defname": "AEXP_BlackRhino",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "blacktea",
@@ -5728,7 +5728,7 @@
       "abr": "black-footedferret",
       "category": "Animals",
       "defname": "AEXP_BlackFootedFerret",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "black-footedferretmeat",
@@ -5758,7 +5758,7 @@
       "abr": "bone",
       "category": "Inert relics",
       "defname": "VIE_RelicInertBone",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "bonfire",
@@ -5770,7 +5770,7 @@
       "abr": "bonobo",
       "category": "Animals",
       "defname": "AEXP_Bonobo",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "bonobomeat",
@@ -5788,7 +5788,7 @@
       "abr": "book",
       "category": "Inert relics",
       "defname": "VIE_RelicInertBook",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "boomgenome",
@@ -5806,13 +5806,13 @@
       "abr": "boomabear",
       "category": "Animals",
       "defname": "GR_Boomabear",
-      "price": 625
+      "price": -10
     },
     {
       "abr": "boomachicken",
       "category": "Animals",
       "defname": "GR_Boomachicken",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "boomachickenegg(fert.)",
@@ -5830,37 +5830,37 @@
       "abr": "boomalopeparagon",
       "category": "Animals",
       "defname": "GR_ParagonBoomalope",
-      "price": 967
+      "price": -10
     },
     {
       "abr": "booman",
       "category": "Animals",
       "defname": "GR_Booman",
-      "price": 458
+      "price": -10
     },
     {
       "abr": "boombeetle",
       "category": "Animals",
       "defname": "GR_Boombeetle",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "boomcat",
       "category": "Animals",
       "defname": "GR_Boomcat",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "boomffalo",
       "category": "Animals",
       "defname": "GR_Boomffalo",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "boomhorse",
       "category": "Animals",
       "defname": "GR_Boomhorse",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "boom-pustuletrap",
@@ -5872,19 +5872,19 @@
       "abr": "boomsnake",
       "category": "Animals",
       "defname": "GR_Boomsnake",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "boomsquirrel",
       "category": "Animals",
       "defname": "GR_Boomsquirrel",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "boomwolf",
       "category": "Animals",
       "defname": "GR_Boomwolf",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "boots",
@@ -5896,19 +5896,19 @@
       "abr": "bottle",
       "category": "Inert relics",
       "defname": "VIE_RelicInertBottle",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "bowl",
       "category": "Inert relics",
       "defname": "VIE_RelicInertBowl",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "bracelet",
       "category": "Inert relics",
       "defname": "VIE_RelicInertBracelet",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "brainstimulator",
@@ -5932,19 +5932,19 @@
       "abr": "brokenmask",
       "category": "Inert relics",
       "defname": "VIE_RelicInertBrokenMask",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "brokenspear",
       "category": "Inert relics",
       "defname": "VIE_RelicInertBrokenSpear",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "brokensword",
       "category": "Inert relics",
       "defname": "VIE_RelicInertSword",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "browncheese",
@@ -5962,7 +5962,7 @@
       "abr": "bucket",
       "category": "Inert relics",
       "defname": "VIE_RelicInertBucket",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "buckwheat",
@@ -6034,7 +6034,7 @@
       "abr": "bun-dog",
       "category": "Animals",
       "defname": "Cynobun",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "bun-dogmeat",
@@ -6082,7 +6082,7 @@
       "abr": "canineparagon",
       "category": "Animals",
       "defname": "GR_ParagonWolf",
-      "price": 1233
+      "price": -10
     },
     {
       "abr": "cannedeggs",
@@ -6226,25 +6226,25 @@
       "abr": "catalope",
       "category": "Animals",
       "defname": "GR_Catalope",
-      "price": 208
+      "price": -10
     },
     {
       "abr": "catbear",
       "category": "Animals",
       "defname": "GR_Catbear",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "catchicken",
       "category": "Animals",
       "defname": "GR_Catchicken",
-      "price": 183
+      "price": -10
     },
     {
       "abr": "catffalo",
       "category": "Animals",
       "defname": "GR_Catffalo",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "catfish",
@@ -6262,25 +6262,25 @@
       "abr": "cathorse",
       "category": "Animals",
       "defname": "GR_Cathorse",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "catman",
       "category": "Animals",
       "defname": "GR_Catman",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "catrabbit",
       "category": "Animals",
       "defname": "GR_Catrabbit",
-      "price": 200
+      "price": -10
     },
     {
       "abr": "catwolf",
       "category": "Animals",
       "defname": "GR_Catwolf",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "cavemoss",
@@ -6364,13 +6364,13 @@
       "abr": "ceremonialmask",
       "category": "Inert relics",
       "defname": "VIE_RelicInertCeremonialMask",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "chain",
       "category": "Inert relics",
       "defname": "VIE_RelicInertChain",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "chainmail",
@@ -6514,7 +6514,7 @@
       "abr": "chickenbear",
       "category": "Animals",
       "defname": "GR_Chickenbear",
-      "price": 192
+      "price": -10
     },
     {
       "abr": "chickenbearegg(fert.)",
@@ -6538,7 +6538,7 @@
       "abr": "chickencat",
       "category": "Animals",
       "defname": "GR_Chickencat",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "chickencategg(fert.)",
@@ -6556,7 +6556,7 @@
       "abr": "chickenffalo",
       "category": "Animals",
       "defname": "GR_Chickenffalo",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "chickenffalocheese",
@@ -6586,7 +6586,7 @@
       "abr": "chickenhorse",
       "category": "Animals",
       "defname": "GR_Chickenhorse",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "chickenhorseegg(fert.)",
@@ -6604,7 +6604,7 @@
       "abr": "chickenlizard",
       "category": "Animals",
       "defname": "GR_Chickenlizard",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "chickenlizardegg(fert.)",
@@ -6622,7 +6622,7 @@
       "abr": "chickenlope",
       "category": "Animals",
       "defname": "GR_Chickenlope",
-      "price": 158
+      "price": -10
     },
     {
       "abr": "chickenlopeegg(fert.)",
@@ -6640,7 +6640,7 @@
       "abr": "chickenrabbit",
       "category": "Animals",
       "defname": "GR_Chickenrabbit",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chickenrabbitegg(fert.)",
@@ -6658,7 +6658,7 @@
       "abr": "chickenspider",
       "category": "Animals",
       "defname": "GR_Chickenspider",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "chickenspideregg(unfert.)",
@@ -6670,7 +6670,7 @@
       "abr": "chickenwolf",
       "category": "Animals",
       "defname": "GR_Chickenwolf",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "chickenwolfegg(fert.)",
@@ -6844,7 +6844,7 @@
       "abr": "colossalparagon",
       "category": "Animals",
       "defname": "GR_ParagonThrumbo",
-      "price": 8333
+      "price": -10
     },
     {
       "abr": "combathandgun",
@@ -6970,7 +6970,7 @@
       "abr": "crocorse",
       "category": "Animals",
       "defname": "GR_Crocorse",
-      "price": 1583
+      "price": -10
     },
     {
       "abr": "crossback",
@@ -7183,12 +7183,6 @@
       "price": 37
     },
     {
-      "abr": "diamond",
-      "category": "Gemstones",
-      "defname": "Z_Diamond",
-      "price": 83
-    },
-    {
       "abr": "digestibleresurrectornanites",
       "category": "Condiments",
       "defname": "VCE_DigestibleResurrectorNanites",
@@ -7216,7 +7210,7 @@
       "abr": "dogman",
       "category": "Animals",
       "defname": "GR_Dogman",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "doormat",
@@ -7234,31 +7228,31 @@
       "abr": "doormat(blue)",
       "category": "Furniture",
       "defname": "LT_DoorMatBlue",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "doormat(green)",
       "category": "Furniture",
       "defname": "LT_DoorMatGreen",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "doormat(orange)",
       "category": "Furniture",
       "defname": "LT_DoorMatOrange",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "doormat(red)",
       "category": "Furniture",
       "defname": "LT_DoorMatRed",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "doormat(teal)",
       "category": "Furniture",
       "defname": "LT_DoorMatTeal",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "doublebeddingset",
@@ -7492,7 +7486,7 @@
       "abr": "engram",
       "category": "Inert relics",
       "defname": "VIE_RelicInertEngram",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "equinegenome",
@@ -7510,7 +7504,7 @@
       "abr": "equineparagon",
       "category": "Animals",
       "defname": "GR_ParagonHorse",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "ergonomicbed",
@@ -7624,7 +7618,7 @@
       "abr": "felineparagon",
       "category": "Animals",
       "defname": "GR_ParagonFeline",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "fertilityunblocker",
@@ -7744,19 +7738,19 @@
       "abr": "fleshflies",
       "category": "Animals",
       "defname": "GR_FleshFlies",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "fleshgrowth",
       "category": "Animals",
       "defname": "GR_FleshGrowth",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "fleshmonstrosity",
       "category": "Animals",
       "defname": "GR_FleshMonstrosity",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "fleshcraftedarm",
@@ -7864,7 +7858,7 @@
       "abr": "fleshling",
       "category": "Animals",
       "defname": "GR_Fleshling",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "flintlock",
@@ -7900,7 +7894,7 @@
       "abr": "fossil",
       "category": "Inert relics",
       "defname": "VIE_RelicInertFossil",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "fountain",
@@ -7990,7 +7984,7 @@
       "abr": "gauntlet",
       "category": "Inert relics",
       "defname": "VIE_RelicInertGauntlet",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "gausslance",
@@ -8128,13 +8122,13 @@
       "abr": "giantpanda",
       "category": "Animals",
       "defname": "AEXP_Panda",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "giantpangolin",
       "category": "Animals",
       "defname": "AEXP_Pangolin",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "giantpangolinmeat",
@@ -8470,7 +8464,7 @@
       "abr": "hemolope",
       "category": "Animals",
       "defname": "RG_Hemolope",
-      "price": 1033
+      "price": -10
     },
     {
       "abr": "hemolopemeat",
@@ -8524,7 +8518,7 @@
       "abr": "horn",
       "category": "Inert relics",
       "defname": "VIE_RelicInertHorn",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "horsemask",
@@ -8740,13 +8734,13 @@
       "abr": "humanoidparagon",
       "category": "Animals",
       "defname": "GR_ParagonHumanoid",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "hurseman",
       "category": "Animals",
       "defname": "GR_Hurseman",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "hybridchitin",
@@ -8794,7 +8788,7 @@
       "abr": "idol",
       "category": "Inert relics",
       "defname": "VIE_RelicInertIdol",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "illuminateddresser",
@@ -8818,7 +8812,7 @@
       "abr": "implant",
       "category": "Inert relics",
       "defname": "VIE_RelicInertImplant",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "implantaugmentator",
@@ -8914,7 +8908,7 @@
       "abr": "insectskull",
       "category": "Inert relics",
       "defname": "VIE_RelicInertInsectSkull",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "insectoidgenome",
@@ -8932,7 +8926,7 @@
       "abr": "insectoidparagon",
       "category": "Animals",
       "defname": "GR_ParagonInsectoid",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "instinctoptimizingnanobots",
@@ -9016,7 +9010,7 @@
       "abr": "kinghamster",
       "category": "Animals",
       "defname": "RK_KingHamster",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "kinghamsterfur",
@@ -9052,7 +9046,7 @@
       "abr": "kiwi",
       "category": "Animals",
       "defname": "RG_KiwiBird",
-      "price": 133
+      "price": -10
     },
     {
       "abr": "kiwiegg(fert.)",
@@ -9454,7 +9448,7 @@
       "abr": "lizardman",
       "category": "Animals",
       "defname": "GR_Lizardman",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "lobster",
@@ -9562,31 +9556,31 @@
       "abr": "manalope",
       "category": "Animals",
       "defname": "GR_Manalope",
-      "price": 300
+      "price": -10
     },
     {
       "abr": "manbear",
       "category": "Animals",
       "defname": "GR_Manbear",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "mancat",
       "category": "Animals",
       "defname": "GR_Mancat",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "manchicken",
       "category": "Animals",
       "defname": "GR_Manchicken",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "manffalo",
       "category": "Animals",
       "defname": "GR_Manffalo",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "mangoes",
@@ -9598,19 +9592,19 @@
       "abr": "manscarab",
       "category": "Animals",
       "defname": "GR_Manscarab",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "mansquirrel",
       "category": "Animals",
       "defname": "GR_Mansquirrel",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "manwolf",
       "category": "Animals",
       "defname": "GR_Manwolf",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "maplelogs",
@@ -9682,19 +9676,19 @@
       "abr": "mechabear",
       "category": "Animals",
       "defname": "GR_Mechabear",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "mechacat",
       "category": "Animals",
       "defname": "GR_Mechacat",
-      "price": 3000
+      "price": -10
     },
     {
       "abr": "mecha-chicken",
       "category": "Animals",
       "defname": "GR_Mechachicken",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mecha-gone",
@@ -9706,25 +9700,25 @@
       "abr": "mecha-horse",
       "category": "Animals",
       "defname": "GR_Mechahorse",
-      "price": 3000
+      "price": -10
     },
     {
       "abr": "mechalope",
       "category": "Animals",
       "defname": "GR_Mechalope",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "mecha-mime",
       "category": "Animals",
       "defname": "GR_Mechamime",
-      "price": 3000
+      "price": -10
     },
     {
       "abr": "mecha-muffalo",
       "category": "Animals",
       "defname": "GR_Mechamuffalo",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "mechanitebooster",
@@ -9754,7 +9748,7 @@
       "abr": "mechanoidhead",
       "category": "Inert relics",
       "defname": "VIE_RelicInertMechanoidHead",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "mechanoidmilk",
@@ -9772,31 +9766,31 @@
       "abr": "mecha-rat",
       "category": "Animals",
       "defname": "GR_Mecharat",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "mechaspider",
       "category": "Animals",
       "defname": "GR_Mechaspider",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "mechathrumbo",
       "category": "Animals",
       "defname": "GR_Mechathrumbo",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "mechaturtle",
       "category": "Animals",
       "defname": "GR_Mechaturtle",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "mechawolf",
       "category": "Animals",
       "defname": "GR_Mechawolf",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "medstorage",
@@ -9808,7 +9802,7 @@
       "abr": "medallion",
       "category": "Inert relics",
       "defname": "VIE_RelicInertMedallion",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "medicbag",
@@ -9994,7 +9988,7 @@
       "abr": "moa",
       "category": "Animals",
       "defname": "AEXP_Moa",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "moaegg(fert.)",
@@ -10018,19 +10012,19 @@
       "abr": "molebear",
       "category": "Animals",
       "defname": "GR_Molebear",
-      "price": 458
+      "price": -10
     },
     {
       "abr": "molehorse",
       "category": "Animals",
       "defname": "GR_Molehorse",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "moleman",
       "category": "Animals",
       "defname": "GR_Moleman",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "molotovbelt",
@@ -10060,7 +10054,7 @@
       "abr": "muffaloparagon",
       "category": "Animals",
       "defname": "GR_ParagonMuffalo",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "muffalopelt",
@@ -10078,7 +10072,7 @@
       "abr": "muffalobear",
       "category": "Animals",
       "defname": "GR_Muffalobear",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "muffalobearmilk",
@@ -10090,13 +10084,13 @@
       "abr": "muffalocat",
       "category": "Animals",
       "defname": "GR_Muffalocat",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "muffalochicken",
       "category": "Animals",
       "defname": "GR_Muffalochicken",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "muffalochickenmilk",
@@ -10108,49 +10102,49 @@
       "abr": "muffalohorse",
       "category": "Animals",
       "defname": "GR_Muffalohorse",
-      "price": 1583
+      "price": -10
     },
     {
       "abr": "muffalokomodo",
       "category": "Animals",
       "defname": "GR_Muffalokomodo",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "muffaloman",
       "category": "Animals",
       "defname": "GR_Muffaloman",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "muffalope",
       "category": "Animals",
       "defname": "GR_Muffalope",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "muffalopede",
       "category": "Animals",
       "defname": "GR_Muffalopede",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "muffalorat",
       "category": "Animals",
       "defname": "GR_Muffalorat",
-      "price": 175
+      "price": -10
     },
     {
       "abr": "muffalowolf",
       "category": "Animals",
       "defname": "GR_Muffalowolf",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "mug",
       "category": "Inert relics",
       "defname": "VIE_RelicInertMug",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "musclestimulator",
@@ -10192,7 +10186,7 @@
       "abr": "neutrolope",
       "category": "Animals",
       "defname": "RG_Neutrolope",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "neutrolopemeat",
@@ -10372,7 +10366,7 @@
       "abr": "orb",
       "category": "Inert relics",
       "defname": "VIE_RelicInertApple",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "organicoptimizingnanobots",
@@ -10588,7 +10582,7 @@
       "abr": "plantmonster",
       "category": "Animals",
       "defname": "Nr_PlantMonster_Race",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "plasmsword",
@@ -10666,7 +10660,7 @@
       "abr": "polishedrock",
       "category": "Inert relics",
       "defname": "VIE_RelicInertPolishedRock",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "pollutionfastpump",
@@ -11734,7 +11728,7 @@
       "abr": "pyramid",
       "category": "Inert relics",
       "defname": "VIE_RelicInertPyramid",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "quadrefrigerator",
@@ -11746,7 +11740,7 @@
       "abr": "quagga",
       "category": "Animals",
       "defname": "AEXP_Quagga",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "quartz",
@@ -11770,7 +11764,7 @@
       "abr": "rabbit",
       "category": "Animals",
       "defname": "RG_Rabbit",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "rabbitmeat",
@@ -11782,13 +11776,13 @@
       "abr": "rabbitcat",
       "category": "Animals",
       "defname": "GR_Rabbitcat",
-      "price": 958
+      "price": -10
     },
     {
       "abr": "rabbitchicken",
       "category": "Animals",
       "defname": "GR_Rabbitchicken",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "radiator",
@@ -11830,7 +11824,7 @@
       "abr": "ratffalo",
       "category": "Animals",
       "defname": "GR_Ratffalo",
-      "price": 175
+      "price": -10
     },
     {
       "abr": "ratffalomilk",
@@ -12394,7 +12388,7 @@
       "abr": "reptileparagon",
       "category": "Animals",
       "defname": "GR_ParagonIguana",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "reptileparagonegg(fert.)",
@@ -12490,13 +12484,13 @@
       "abr": "ring",
       "category": "Inert relics",
       "defname": "VIE_RelicInertRing",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "rockconstruct",
       "category": "Animals",
       "defname": "VPE_RockConstruct",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "rockmill",
@@ -12514,7 +12508,7 @@
       "abr": "rockhopperpenguin",
       "category": "Animals",
       "defname": "AEXP_RockhopperPenguin",
-      "price": 200
+      "price": -10
     },
     {
       "abr": "rockhopperpenguinegg(fert.)",
@@ -12532,7 +12526,7 @@
       "abr": "rodentparagon",
       "category": "Animals",
       "defname": "GR_ParagonRat",
-      "price": 200
+      "price": -10
     },
     {
       "abr": "rodent/leporidgenome",
@@ -12556,7 +12550,7 @@
       "abr": "rotti",
       "category": "Animals",
       "defname": "Rotti",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "rottihat",
@@ -12665,12 +12659,6 @@
       "category": "Hygiene",
       "defname": "RoyalToilet",
       "price": 209
-    },
-    {
-      "abr": "ruby",
-      "category": "Gemstones",
-      "defname": "Z_Ruby",
-      "price": 60
     },
     {
       "abr": "ruinedfinegrill",
@@ -12787,12 +12775,6 @@
       "price": 342
     },
     {
-      "abr": "sapphire",
-      "category": "Gemstones",
-      "defname": "Z_Sapphire",
-      "price": 60
-    },
-    {
       "abr": "saunaseating",
       "category": "Furniture",
       "defname": "DBHSaunaSeating",
@@ -12826,7 +12808,7 @@
       "abr": "scroll",
       "category": "Inert relics",
       "defname": "VIE_RelicInertScroll",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "scytherblade",
@@ -12880,7 +12862,7 @@
       "abr": "shaggybun-dog",
       "category": "Animals",
       "defname": "CynobunHirsutus",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "shaggybun-dogmeat",
@@ -12988,7 +12970,7 @@
       "abr": "shroud",
       "category": "Inert relics",
       "defname": "VIE_RelicInertShroud",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "siegebreakerarmor",
@@ -13018,7 +13000,7 @@
       "abr": "simpleanimalearimplant",
       "category": "Animal Body Part",
       "defname": "EarAnimalSimple",
-      "price": 121
+      "price": -10
     },
     {
       "abr": "simpleanimaljawimplant",
@@ -13030,13 +13012,13 @@
       "abr": "simpleanimalnose",
       "category": "Animal Body Part",
       "defname": "NoseAnimalSimple",
-      "price": 121
+      "price": -10
     },
     {
       "abr": "simpleanimalspine",
       "category": "Animal Body Part",
       "defname": "SpineAnimalSimple",
-      "price": 202
+      "price": -10
     },
     {
       "abr": "simplebake",
@@ -13126,7 +13108,7 @@
       "abr": "skeleton",
       "category": "Animals",
       "defname": "VPE_SummonedSkeleton",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "skip",
@@ -13144,7 +13126,7 @@
       "abr": "skull",
       "category": "Inert relics",
       "defname": "VIE_RelicInertSkull",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "skullcap",
@@ -13162,7 +13144,7 @@
       "abr": "slag",
       "category": "Inert relics",
       "defname": "VIE_RelicInertPlate",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "slaughterfish",
@@ -13288,7 +13270,7 @@
       "abr": "snakecat",
       "category": "Animals",
       "defname": "GR_Snakecat",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "soda",
@@ -13342,19 +13324,19 @@
       "abr": "spidercat",
       "category": "Animals",
       "defname": "GR_Spidercat",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "spiderhorse",
       "category": "Animals",
       "defname": "GR_Spiderhorse",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "spidersnake",
       "category": "Animals",
       "defname": "GR_Spidersnake",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "spikedskullcap",
@@ -13369,12 +13351,6 @@
       "price": -10
     },
     {
-      "abr": "sprinkler",
-      "category": "Misc",
-      "defname": "VFE_Sprinkler",
-      "price": 182
-    },
-    {
       "abr": "squarechair",
       "category": "Furniture",
       "defname": "Seat_SquareChair",
@@ -13384,7 +13360,7 @@
       "abr": "squirralope",
       "category": "Animals",
       "defname": "GR_Squirralope",
-      "price": 208
+      "price": -10
     },
     {
       "abr": "sraf:canary",
@@ -13450,13 +13426,13 @@
       "abr": "stack",
       "category": "Inert relics",
       "defname": "VIE_RelicInertStack",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "statuette",
       "category": "Inert relics",
       "defname": "VIE_RelicInertStatuette",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "steelarm",
@@ -13468,7 +13444,7 @@
       "abr": "steelconstruct",
       "category": "Animals",
       "defname": "VPE_SteelConstruct",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "stomach",
@@ -13708,7 +13684,7 @@
       "abr": "tasmaniandevil",
       "category": "Animals",
       "defname": "AEXP_TasmanianDevil",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "tasmaniandevilmeat",
@@ -13762,7 +13738,7 @@
       "abr": "tech",
       "category": "Inert relics",
       "defname": "VIE_RelicInertEngine",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "techprint(advancedcompactweaponry)",
@@ -13882,25 +13858,25 @@
       "abr": "thrumbalope",
       "category": "Animals",
       "defname": "GR_Thrumbalope",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "thrumbear",
       "category": "Animals",
       "defname": "GR_Thrumbear",
-      "price": 7500
+      "price": -10
     },
     {
       "abr": "thrumbocat",
       "category": "Animals",
       "defname": "GR_Thrumbocat",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "thrumbochicken",
       "category": "Animals",
       "defname": "GR_Thrumbochicken",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "thrumbochickenegg(fert.)",
@@ -13918,31 +13894,31 @@
       "abr": "thrumbolizard",
       "category": "Animals",
       "defname": "GR_Thrumbolizard",
-      "price": 7500
+      "price": -10
     },
     {
       "abr": "thrumboman",
       "category": "Animals",
       "defname": "GR_Thrumboman",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "thrumborat",
       "category": "Animals",
       "defname": "GR_Thrumborat",
-      "price": 4000
+      "price": -10
     },
     {
       "abr": "thrumbospider",
       "category": "Animals",
       "defname": "GR_Thrumbospider",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "thrumffalo",
       "category": "Animals",
       "defname": "GR_Thrumffalo",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "thrumffalogouda",
@@ -13960,19 +13936,19 @@
       "abr": "thrumhorse",
       "category": "Animals",
       "defname": "GR_Thrumhorse",
-      "price": 7500
+      "price": -10
     },
     {
       "abr": "thrumwolf",
       "category": "Animals",
       "defname": "GR_Thrumwolf",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "thylacine",
       "category": "Animals",
       "defname": "AEXP_Thylacine",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "thylacinemeat",
@@ -14026,7 +14002,7 @@
       "abr": "tools",
       "category": "Inert relics",
       "defname": "VIE_RelicInertTools",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "torbicarapidcaster",
@@ -14134,7 +14110,7 @@
       "abr": "turkeyman",
       "category": "Animals",
       "defname": "GR_Turkeyman",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "turkeymanegg(fert.)",
@@ -14248,7 +14224,7 @@
       "abr": "ursineparagon",
       "category": "Animals",
       "defname": "GR_ParagonBear",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "vase",
@@ -14326,7 +14302,7 @@
       "abr": "walllight",
       "category": "Inert relics",
       "defname": "RelicInertWallLight",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "wallsinglerefrigerator",
@@ -14518,31 +14494,31 @@
       "abr": "wolfalope",
       "category": "Animals",
       "defname": "GR_Wolfalope",
-      "price": 617
+      "price": -10
     },
     {
       "abr": "wolfbear",
       "category": "Animals",
       "defname": "GR_Wolfbear",
-      "price": 617
+      "price": -10
     },
     {
       "abr": "wolfbeaver",
       "category": "Animals",
       "defname": "GR_Wolfbeaver",
-      "price": 458
+      "price": -10
     },
     {
       "abr": "wolfcat",
       "category": "Animals",
       "defname": "GR_Wolfcat",
-      "price": 617
+      "price": -10
     },
     {
       "abr": "wolfchicken",
       "category": "Animals",
       "defname": "GR_Wolfchicken",
-      "price": 617
+      "price": -10
     },
     {
       "abr": "wolfchickenegg(fert.)",
@@ -14560,25 +14536,25 @@
       "abr": "wolffalo",
       "category": "Animals",
       "defname": "GR_Wolffalo",
-      "price": 617
+      "price": -10
     },
     {
       "abr": "wolfhorse",
       "category": "Animals",
       "defname": "GR_Wolfhorse",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "wolfscarab",
       "category": "Animals",
       "defname": "GR_Wolfscarab",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "wolfsnake",
       "category": "Animals",
       "defname": "GR_Wolfsnake",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "woodlogs",
@@ -14651,7 +14627,421 @@
       "category": "Drugs",
       "defname": "VBE_Yuenyeung",
       "price": 13
+    },
+    {
+      "abr": "ancientcontainer",
+      "category": "Misc",
+      "defname": "AncientContainer",
+      "price": -10
+    },
+    {
+      "abr": "animalfeeder",
+      "category": "Furniture",
+      "defname": "FFE_AnimalFeeder",
+      "price": 20
+    },
+    {
+      "abr": "animalhospitalbed",
+      "category": "Furniture",
+      "defname": "FFE_AnimalMedTable",
+      "price": 273
+    },
+    {
+      "abr": "animaltrough",
+      "category": "Furniture",
+      "defname": "FFE_AnimalTrough",
+      "price": 170
+    },
+    {
+      "abr": "banner",
+      "category": "Furniture",
+      "defname": "FFE_Banner",
+      "price": 289
+    },
+    {
+      "abr": "box",
+      "category": "Furniture",
+      "defname": "FFE_WoodenBox",
+      "price": 85
+    },
+    {
+      "abr": "captolite",
+      "category": "Dragon's Ores",
+      "defname": "Captolite",
+      "price": -10
+    },
+    {
+      "abr": "cargocontainer",
+      "category": "Furniture",
+      "defname": "FFE_ShippingContainer",
+      "price": 1117
+    },
+    {
+      "abr": "choppedmeat",
+      "category": "Meat",
+      "defname": "FFE_ChoppedMeat",
+      "price": 6
+    },
+    {
+      "abr": "circuitbreaker",
+      "category": "Power",
+      "defname": "Building_RTCircuitBreaker",
+      "price": 278
+    },
+    {
+      "abr": "cookingtable",
+      "category": "Production",
+      "defname": "FFE_CookingTable",
+      "price": 294
+    },
+    {
+      "abr": "divider",
+      "category": "Furniture",
+      "defname": "FFE_Divider",
+      "price": 144
+    },
+    {
+      "abr": "foodbags",
+      "category": "Furniture",
+      "defname": "FFE_FoodBags",
+      "price": 51
+    },
+    {
+      "abr": "foodbarrel",
+      "category": "Furniture",
+      "defname": "FFE_FoodBarell",
+      "price": 85
+    },
+    {
+      "abr": "industrialfridge",
+      "category": "Furniture",
+      "defname": "FFE_KitchenFridgeLarge",
+      "price": 592
+    },
+    {
+      "abr": "keellikoi",
+      "category": "Dragon's Ores",
+      "defname": "Keellikoi",
+      "price": 2
+    },
+    {
+      "abr": "kitchenfridge",
+      "category": "Furniture",
+      "defname": "FFE_KitchenFridge",
+      "price": 375
+    },
+    {
+      "abr": "laatim",
+      "category": "Dragon's Ores",
+      "defname": "Laatim",
+      "price": 2
+    },
+    {
+      "abr": "largeboxedpallet",
+      "category": "Furniture",
+      "defname": "FFE_PalletBoxesLarge",
+      "price": 475
+    },
+    {
+      "abr": "largecupboard",
+      "category": "Furniture",
+      "defname": "FFE_CupboardLarge",
+      "price": 315
+    },
+    {
+      "abr": "largepallet",
+      "category": "Furniture",
+      "defname": "FFE_PalletLarge",
+      "price": 342
+    },
+    {
+      "abr": "magneticshield",
+      "category": "Power",
+      "defname": "Building_RTMagneticShield",
+      "price": 1633
+    },
+    {
+      "abr": "makeshiftfuse",
+      "category": "Power",
+      "defname": "Building_RTMakeshiftFuse",
+      "price": 120
+    },
+    {
+      "abr": "meathooks",
+      "category": "Furniture",
+      "defname": "FFE_Meat_Hook",
+      "price": 218
+    },
+    {
+      "abr": "meatmincer",
+      "category": "Production",
+      "defname": "FFE_MeatMincer",
+      "price": 227
+    },
+    {
+      "abr": "medicalcabinet",
+      "category": "Furniture",
+      "defname": "FFE_Medical_Cabinet",
+      "price": 203
+    },
+    {
+      "abr": "mediumboxespallet",
+      "category": "Furniture",
+      "defname": "FFE_PalletBoxesMedium",
+      "price": 237
+    },
+    {
+      "abr": "mediumpallet",
+      "category": "Furniture",
+      "defname": "FFE_PalletMedium",
+      "price": 170
+    },
+    {
+      "abr": "minibar",
+      "category": "Furniture",
+      "defname": "FFE_Minibar",
+      "price": 203
+    },
+    {
+      "abr": "mirror",
+      "category": "Furniture",
+      "defname": "FFE_Mirror",
+      "price": 189
+    },
+    {
+      "abr": "originalepoeworkbench(debug)",
+      "category": "Production",
+      "defname": "TableProsthetics",
+      "price": 1433
+    },
+    {
+      "abr": "personallockers",
+      "category": "Furniture",
+      "defname": "FFE_PersonalLockers",
+      "price": 235
+    },
+    {
+      "abr": "roosterium",
+      "category": "Dragon's Ores",
+      "defname": "Roosterium",
+      "price": 2
+    },
+    {
+      "abr": "royalsofa",
+      "category": "Furniture",
+      "defname": "FFE_RoyalSofa",
+      "price": 2792
+    },
+    {
+      "abr": "smallboxespallet",
+      "category": "Furniture",
+      "defname": "FFE_PalletBoxesSmall",
+      "price": 118
+    },
+    {
+      "abr": "smallcupboard",
+      "category": "Furniture",
+      "defname": "FFE_CupboardSmall",
+      "price": 177
+    },
+    {
+      "abr": "smallpallet",
+      "category": "Furniture",
+      "defname": "FFE_PalletSmall",
+      "price": 85
+    },
+    {
+      "abr": "spacercontainer",
+      "category": "Furniture",
+      "defname": "FFE_SpacerContainer",
+      "price": 900
+    },
+    {
+      "abr": "tumblum",
+      "category": "Dragon's Ores",
+      "defname": "Tumblum",
+      "price": 3
+    },
+    {
+      "abr": "vanometricstorage",
+      "category": "Furniture",
+      "defname": "FFE_VanometricStorage",
+      "price": 1667
+    },
+    {
+      "abr": "wallmealrack",
+      "category": "Furniture",
+      "defname": "FFE_WallMealRack",
+      "price": 255
+    },
+    {
+      "abr": "weaponrack(bows)",
+      "category": "Furniture",
+      "defname": "FFE_WeaponRackBows",
+      "price": 166
+    },
+    {
+      "abr": "weaponrack(melee)",
+      "category": "Furniture",
+      "defname": "FFE_WeaponRackMelee",
+      "price": 166
+    },
+    {
+      "abr": "weaponrack(shields)",
+      "category": "Furniture",
+      "defname": "FFE_WeaponRackShields",
+      "price": 166
+    },
+    {
+      "abr": "weaponslocker",
+      "category": "Furniture",
+      "defname": "FFE_WeaponsLocker",
+      "price": 500
+    },
+    {
+      "abr": "wood-firedheater",
+      "category": "Temperature",
+      "defname": "FFE_WoodFiredHeater",
+      "price": 196
+    },
+    {
+      "abr": "diamond",
+      "category": "Raw resources",
+      "defname": "Diamond",
+      "price": 12
+    },
+    {
+      "abr": "goldbracelet",
+      "category": "Jewelry",
+      "defname": "Jewelry_Bracelet",
+      "price": 417
+    },
+    {
+      "abr": "goldearring",
+      "category": "Jewelry",
+      "defname": "Jewelry_Earring",
+      "price": 267
+    },
+    {
+      "abr": "goldeltexbracelet",
+      "category": "Jewelry",
+      "defname": "Jewelry_EltexBracelet",
+      "price": 417
+    },
+    {
+      "abr": "goldeltexearring",
+      "category": "Jewelry",
+      "defname": "Jewelry_EltexEarring",
+      "price": 267
+    },
+    {
+      "abr": "goldeltexnecklace",
+      "category": "Jewelry",
+      "defname": "Jewelry_PsychicNecklace",
+      "price": 750
+    },
+    {
+      "abr": "goldeltexring",
+      "category": "Jewelry",
+      "defname": "Jewelry_EltexRing",
+      "price": 250
+    },
+    {
+      "abr": "goldnecklace",
+      "category": "Jewelry",
+      "defname": "Jewelry_Necklace",
+      "price": 600
+    },
+    {
+      "abr": "goldring",
+      "category": "Jewelry",
+      "defname": "Jewelry_Ring",
+      "price": 250
+    },
+    {
+      "abr": "lasersculptingtable",
+      "category": "Production",
+      "defname": "LaserTableSculpting",
+      "price": 850
+    },
+    {
+      "abr": "ruby",
+      "category": "Raw resources",
+      "defname": "Ruby",
+      "price": 10
+    },
+    {
+      "abr": "sapphire",
+      "category": "Raw resources",
+      "defname": "Sapphire",
+      "price": 10
+    },
+    {
+      "abr": "silverbracelet",
+      "category": "Jewelry",
+      "defname": "Jewelry_Bracelet_Silver",
+      "price": 417
+    },
+    {
+      "abr": "silverearring",
+      "category": "Jewelry",
+      "defname": "Jewelry_Earring_Silver",
+      "price": 267
+    },
+    {
+      "abr": "silvereltexbracelet",
+      "category": "Jewelry",
+      "defname": "Jewelry_EltexBracelet_Silver",
+      "price": 417
+    },
+    {
+      "abr": "silvereltexearring",
+      "category": "Jewelry",
+      "defname": "Jewelry_EltexEarring_Silver",
+      "price": 267
+    },
+    {
+      "abr": "silvereltexnecklace",
+      "category": "Jewelry",
+      "defname": "Jewelry_PsychicNecklace_Silver",
+      "price": 750
+    },
+    {
+      "abr": "lshelmet",
+      "category": "Headgear",
+      "defname": "LightSafetyHelmet",
+      "price": 200
+    },
+    {
+      "abr": "lshelmetc-type",
+      "category": "Headgear",
+      "defname": "ColdType",
+      "price": 262
+    },
+    {
+      "abr": "lshelmetd-type",
+      "category": "Headgear",
+      "defname": "DesertType",
+      "price": 244
+    },
+    {
+      "abr": "silvereltexring",
+      "category": "Jewelry",
+      "defname": "Jewelry_EltexRing_Silver",
+      "price": 250
+    },
+    {
+      "abr": "silvernecklace",
+      "category": "Jewelry",
+      "defname": "Jewelry_Necklace_Silver",
+      "price": 600
+    },
+    {
+      "abr": "silverring",
+      "category": "Jewelry",
+      "defname": "Jewelry_Ring_Silver",
+      "price": 250
     }
   ],
-  "total": 2442
+  "total": 2507
 }
