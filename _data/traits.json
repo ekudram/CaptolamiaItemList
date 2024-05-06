@@ -1860,7 +1860,7 @@
     "name": "joyous"
   },
   {
-    "canAdd": true,
+    "canAdd": false,
     "canRemove": true,
     "addPrice": 2000,
     "removePrice": 2000,
