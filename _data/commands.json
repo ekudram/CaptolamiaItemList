@@ -210,7 +210,7 @@
     },
     "description": null,
     "name": "Join queue",
-    "usage": "!joinqueue",
+    "usage": "!join",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "JoinQueue"
@@ -239,9 +239,9 @@
       "isBuy": true,
       "isBalance": false,
       "hasGlobalCooldown": false,
-      "globalCooldown": 0,
+      "globalCooldown": 60,
       "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "localCooldown": 60,
       "mod": "Twitch Toolkit"
     },
     "description": null,

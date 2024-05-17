@@ -19,7 +19,7 @@
     "defName": "Human",
     "enabled": true,
     "name": "human",
-    "price": 500
+    "price": 2917
   },
   {
     "data": {
@@ -39,9 +39,9 @@
     },
     "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
     "defName": "CreepJoiner",
-    "enabled": false,
+    "enabled": true,
     "name": "human",
-    "price": 500
+    "price": 2917
   },
   {
     "data": {
@@ -67,7 +67,7 @@
     "defName": "Alien_BunTribe",
     "enabled": true,
     "name": "Bun",
-    "price": 500
+    "price": 2917
   },
   {
     "data": {
@@ -104,7 +104,7 @@
     "defName": "Ratkin",
     "enabled": true,
     "name": "Ratkin",
-    "price": 500
+    "price": 3333
   },
   {
     "data": {
@@ -142,7 +142,7 @@
     "defName": "Ratkin_Su",
     "enabled": false,
     "name": "Ratkin subject",
-    "price": 500
+    "price": 3333
   },
   {
     "data": {
@@ -151,25 +151,10 @@
         "+65.00 Mass",
         "+100% Flammability",
         "+$3000 Market value",
-        "+5 Honor value",
-        "+75 Carrying capacity",
+        "+100 Carrying capacity",
         "+100% Global learning factor",
-        "+80% Psychic sensitivity",
-        "+80% Rest rate multiplier",
-        "+70% Global work speed",
         "+0 Foraged food amount",
-        "+120.00% Negotiation ability",
-        "+120.00% Social impact",
-        "+120.00% Trade price improvement",
-        "+40 Leather amount",
-        "+82% Pain shock threshold",
-        "+30% Mental break threshold",
-        "+22.0C [39.6F] Min comfortable temperature",
-        "+40.0C [72.0F] Max comfortable temperature",
-        "+5.20 Move speed",
-        "+95% Aiming time",
-        "+10.0 Melee dodge chance",
-        "+1.2 Melee hit chance"
+        "+40 Leather amount"
       ],
       "mod": "Unknown",
       "karmaType": null
@@ -178,6 +163,6 @@
     "defName": "Alien_Nyaron",
     "enabled": true,
     "name": "Nyaron",
-    "price": 500
+    "price": 5000
   }
 ]
