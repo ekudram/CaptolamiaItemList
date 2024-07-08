@@ -73,7 +73,7 @@
     "data": {
       "customName": false,
       "stats": [
-        "+50.00 Mass",
+        "+35.00 Mass",
         "+100% Flammability",
         "+$2000 Market value",
         "+4.85 Move speed",
@@ -85,7 +85,7 @@
         "+90% Toxic environment resistance",
         "+110% Eating speed",
         "+35 Meat amount",
-        "+30 Leather amount",
+        "+35 Leather amount",
         "+1.2 Melee dodge chance",
         "+118% Aiming time",
         "+85.00% Negotiation ability",
@@ -95,7 +95,8 @@
         "+110% Plant work speed",
         "+115% Hunting stealth",
         "+90% Construction speed",
-        "+80% Research speed"
+        "+80% Research speed",
+        "+60.00% Food poison chance"
       ],
       "mod": "Unknown",
       "karmaType": null
@@ -110,7 +111,7 @@
     "data": {
       "customName": false,
       "stats": [
-        "+50.00 Mass",
+        "+35.00 Mass",
         "+100% Flammability",
         "+$2000 Market value",
         "+4.85 Move speed",
@@ -122,7 +123,7 @@
         "+80% Toxic environment resistance",
         "+110% Eating speed",
         "+35 Meat amount",
-        "+30 Leather amount",
+        "+35 Leather amount",
         "+1.2 Melee dodge chance",
         "+118% Aiming time",
         "+75.00% Negotiation ability",
@@ -133,6 +134,7 @@
         "+115% Hunting stealth",
         "+90% Construction speed",
         "+80% Research speed",
+        "+60.00% Food poison chance",
         "+85% Psychic sensitivity"
       ],
       "mod": "Unknown",

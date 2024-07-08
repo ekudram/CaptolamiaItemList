@@ -9,7 +9,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.3"
+    "version": "11.0.4"
   },
   {
     "author": "Owlchemist and jptrrs",
@@ -51,7 +51,7 @@
     "author": "ColossalFossil",
     "name": "Animals are fun! (Continued)",
     "steamId": "3245454244",
-    "version": "1.5.2+42f651bf56390fa6b39720cd3d493291a69fc9a5"
+    "version": "1.5.5+8e19f26ed6593f797960519275a94545b9e1889c"
   },
   {
     "author": "Dubwise",
@@ -102,12 +102,6 @@
     "version": "1.2.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Area Unlocker",
-    "steamId": "725153576",
-    "version": "3.14.109"
-  },
-  {
     "author": "Ben",
     "name": "Automatic Night Owl",
     "steamId": "2056012179",
@@ -129,7 +123,19 @@
     "author": "VouLT",
     "name": "Better Pawn Control",
     "steamId": "1541460369",
-    "version": "2.7.0"
+    "version": "2.7.4"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kikohi and Sarg",
+    "name": "Better ground-penetrating scanner",
+    "steamId": "3203274131",
+    "version": "1.0.0.0"
   },
   {
     "author": "m00nl1ght",
@@ -201,7 +207,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.0.4.0"
+    "version": "3.2.0.0"
   },
   {
     "author": "OELS",
@@ -220,6 +226,18 @@
     "name": "Colonist Bar KF (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.8911.30668"
   },
   {
     "author": "PeteTimesSix",
@@ -244,12 +262,6 @@
     "name": "Cuter Biotech Cat/Dog Ear Replacer",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
   },
   {
     "author": "Farxmai2",
@@ -294,12 +306,6 @@
     "version": "1.2.7365"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
-    "version": "1.0.0+2534407508e276c66794b6b0ba18f36e2117384e"
-  },
-  {
     "author": "swablu",
     "name": "Dynamic Flooding",
     "steamId": "3144491125",
@@ -322,12 +328,6 @@
     "name": "Epitaph",
     "steamId": "2582007729",
     "version": "1.0.2.0"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
   },
   {
     "author": "Erin",
@@ -373,7 +373,7 @@
   },
   {
     "author": "Telkir and Rain",
-    "name": "[T] MoreFloors 1.4",
+    "name": "[T] MoreFloors 1.5",
     "steamId": null,
     "version": null
   },
@@ -387,13 +387,7 @@
     "author": "Leoltron",
     "name": "Explicit Timings",
     "steamId": "3205587823",
-    "version": "1.0.0"
-  },
-  {
-    "author": "LekkoBot",
-    "name": "Facial Animation Xenotype Eye Color Patches",
-    "steamId": null,
-    "version": null
+    "version": "1.0.0+da0637054a0ee7b79b432d791f3d3906f140e722"
   },
   {
     "author": "Kosaro",
@@ -426,10 +420,10 @@
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Follow Me",
-    "steamId": "715759739",
-    "version": "4.9.95"
+    "author": "TheEyeOfBrows",
+    "name": "Fluffy Breakdowns (1.5 Update)",
+    "steamId": "2584064444",
+    "version": "1.1.4"
   },
   {
     "author": "Uuugggg",
@@ -471,7 +465,7 @@
     "author": "Krypt",
     "name": "Grouped Pawns Lists",
     "steamId": "2340773428",
-    "version": "1.0.0"
+    "version": "1.0.0+febee0b5625e7567f8192e0b2d674068e0d62832"
   },
   {
     "author": "Falconne",
@@ -483,7 +477,19 @@
     "author": "Netrve",
     "name": "Hunters Use Melee! (Continued)",
     "steamId": "2900108163",
-    "version": "1.5.0"
+    "version": "1.5.1"
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Feng Xinzi",
+    "name": "Hyacinth's Ratkin Facial Animation",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hanabishi",
@@ -508,12 +514,6 @@
     "name": "Just Put It Over There",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "キャデグ",
-    "name": "Killfeed",
-    "steamId": "1362098265",
-    "version": "1.0.0.0"
   },
   {
     "author": "krafs",
@@ -541,6 +541,12 @@
   },
   {
     "author": "Haplo",
+    "name": "Miscellaneous 'CORE'",
+    "steamId": "704181221",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Haplo",
     "name": "Misc. Robots",
     "steamId": null,
     "version": null
@@ -561,13 +567,31 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.14.0"
+    "version": "1.12.15+90aa040a4b9b24f520274fbe2ad3a6151b31e52c"
   },
   {
     "author": "Uuugggg",
     "name": "Mining Priority",
     "steamId": "1345928533",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. TurretBase, Objects",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "cabmoomoo",
+    "name": "Misc. Robots++",
+    "steamId": "3253308913",
+    "version": "3.3.0.0"
+  },
+  {
+    "author": "EgotisticalElf",
+    "name": "MiscRobots WorkTab support",
+    "steamId": "2271338001",
+    "version": "2.1.22"
   },
   {
     "author": "Taranchuk",
@@ -618,12 +642,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "塔洛斯",
     "name": "Nals FA for Ratkin",
     "steamId": null,
@@ -651,7 +669,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.0"
+    "version": "1.5.6"
   },
   {
     "author": "Farmradish",
@@ -672,16 +690,10 @@
     "version": null
   },
   {
-    "author": "ponpeco",
-    "name": "PP Kids' Clothes",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "legodude17 and ISOREX",
     "name": "Pawn Editor",
     "steamId": "3219801790",
-    "version": "1.0.8"
+    "version": "1.0.9"
   },
   {
     "author": "PeteTimesSix",
@@ -716,6 +728,12 @@
   {
     "author": "Twokay",
     "name": "Plushies",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ponpeco",
+    "name": "Ponpeco Kids' Clothes",
     "steamId": null,
     "version": null
   },
@@ -784,6 +802,12 @@
     "name": "RT Power Switch",
     "steamId": "728314859",
     "version": "1.6.0.0"
+  },
+  {
+    "author": "EoralMilk",
+    "name": "Ratkin Gene Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "hourai_haikus",
@@ -945,13 +969,13 @@
     "author": "Loconeko",
     "name": "Roads of the Rim (Continued)",
     "steamId": "2280318231",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   {
     "author": "telardo",
     "name": "Romance On The Rim",
     "steamId": "2654432921",
-    "version": "1.5.0.3"
+    "version": "1.5.1.1"
   },
   {
     "author": "Rooboid",
@@ -1041,18 +1065,12 @@
     "author": "Mlie",
     "name": "Show Mod Updates",
     "steamId": "3218690663",
-    "version": "1.5.8"
+    "version": "1.5.9"
   },
   {
     "author": "Uuugggg",
     "name": "Smart Medicine",
     "steamId": "1309994319",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg",
-    "name": "Smart Speed",
-    "steamId": "1504723424",
     "version": "1.0.0.0"
   },
   {
@@ -1077,7 +1095,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "3.0.0.0"
+    "version": "3.1.0.0"
   },
   {
     "author": "jptrrs",
@@ -1155,7 +1173,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
+    "version": "7.0.6.0-RC1+be85524012f4811e094a1de5a45e51952864cf2a"
   },
   {
     "author": "Captolamia",
@@ -1488,10 +1506,10 @@
     "version": "1.0.2.2"
   },
   {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Trading Expanded",
-    "steamId": "2785616901",
-    "version": "1.0.0.0"
+    "author": "Oracle of Thessia",
+    "name": "Vanilla Textures Expanded - [NL] Facial Animation",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",
@@ -1611,7 +1629,7 @@
     "author": "Various",
     "name": "Realistic Planets Continued",
     "steamId": "3225521979",
-    "version": "1.0.8883.35024"
+    "version": "1.0.8904.5342"
   },
   {
     "author": "Carolusclen",
@@ -1650,20 +1668,8 @@
     "version": null
   },
   {
-    "author": "Oracle of Thessia",
-    "name": "Vanilla Textures Expanded - [NL] Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Nera",
     "name": "[BT] SpawnThoseGenes!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OPERATOR",
-    "name": "[BT] EyeGenes2 | Base - [NL] Facial Animation |",
     "steamId": null,
     "version": null
   },
@@ -1672,6 +1678,12 @@
     "name": "[CAP]Biotech Nyaron HAR Addition",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "none",
+    "name": "[CAT] Show Hair With Hats or Hide All Hats",
+    "steamId": "2879080074",
+    "version": "1.0.0.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -1778,7 +1790,7 @@
   {
     "author": "Niilo007",
     "name": "Niilo's QoL",
-    "steamId": null,
-    "version": null
+    "steamId": "2633406344",
+    "version": "0.1.8.2"
   }
 ]
