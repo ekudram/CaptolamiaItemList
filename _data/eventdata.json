@@ -489,10 +489,10 @@
   },
   "item": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 180,
+    "LocalCooldown": 180,
     "Mod": "Twitch Toolkit"
   },
   "prisoner": {
